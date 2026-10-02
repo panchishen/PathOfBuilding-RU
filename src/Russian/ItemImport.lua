@@ -116,13 +116,15 @@ local function translateLine(line)
 	if not hasCyrillic(line) then
 		return line
 	end
+	-- Сначала шаблоны модов: в названиях ключевое умение "Проводник" - это пассивка
+	-- "The Conduit", а на предмете тот же текст - мод "Conduit"
+	local stat = reverseStat(line)
+	if stat then
+		return stat, true
+	end
 	local exact = namesReverse[line]
 	if exact then
 		return exact
-	end
-	local stat = reverseStat(line)
-	if stat then
-		return stat
 	end
 	local label, value = line:match("^([^:]+):%s*(.*)$")
 	if label then
@@ -137,18 +139,58 @@ local function translateLine(line)
 	return line
 end
 
--- Переводит строку мода с пометкой "(implicit)" и т.п. в конце
+-- Переводит строку мода с пометкой "(implicit)" и т.п. в конце.
+-- Возвращает текст, признак "распознан как мод" и признак "пометка уже есть".
 local function translateModLine(line)
 	local body, tag = line:match("^(.-)%s*(%b())$")
 	if body and body ~= "" then
 		local lowerTag = tag:lower()
 		for prefix, enTag in pairs(lineTags) do
 			if lowerTag:find(prefix, 1, true) then
-				return translateLine(body) .. " " .. enTag
+				local text, isStat = translateLine(body)
+				return text .. " " .. enTag, isStat, true
 			end
 		end
 	end
-	return translateLine(line)
+	local text, isStat = translateLine(line)
+	return text, isStat, false
+end
+
+-- В блоке требований разбор PoB ждёт сокращённые названия атрибутов
+local requirementLabels = {
+	Strength = "Str",
+	Dexterity = "Dex",
+	Intelligence = "Int",
+}
+
+-- Русский клиент не помечает неявные свойства и зачарования: их выдаёт только
+-- отдельный блок. Блоки модов после "Item Level": если их два, первый - неявные;
+-- если три - зачарование и неявные.
+local function tagModSections(out, statLines, itemLevelIndex)
+	if not itemLevelIndex then
+		return
+	end
+	local sections = { }
+	local current
+	for index = itemLevelIndex + 1, #out do
+		if out[index] == "--------" then
+			current = nil
+		elseif statLines[index] ~= nil then
+			if not current then
+				current = { }
+				t_insert(sections, current)
+			end
+			t_insert(current, index)
+		end
+	end
+	local tags = #sections >= 3 and { "(enchant)", "(implicit)" } or #sections == 2 and { "(implicit)" } or { }
+	for sectionIndex, tag in ipairs(tags) do
+		for _, index in ipairs(sections[sectionIndex]) do
+			if statLines[index] then
+				out[index] = out[index] .. " " .. tag
+			end
+		end
+	end
 end
 
 function russian.ItemToEnglish(raw)
@@ -161,11 +203,30 @@ function russian.ItemToEnglish(raw)
 	local out = { }
 	local rarity
 	local nameLines = nil -- строки имени и базы, идут сразу после редкости
+	local inRequirements = false
+	local itemLevelIndex
+	-- Индекс строки в out -> true, если это распознанный мод без пометки;
+	-- false, если пометка уже стоит (блок модов, но дописывать не нужно)
+	local statLines = { }
+	-- Пометка из заголовка расширенного копирования для следующих строк блока
+	local headerTag
 	for _, line in ipairs(lines) do
+		-- Приписка расширенного копирования у ключевых умений и т.п.
+		line = line:gsub("%s*— Неизменяемое значение$", "")
 		local label, value = line:match("^([^:]+):%s*(.*)$")
 		local enLabel = label and hasCyrillic(label) and namesReverse[label]
 		if line:match("^{") then
-			-- Заголовки расширенного копирования ({ Префикс ... }) разбору не нужны
+			-- Заголовок расширенного копирования: "{ Собственное свойство — ... }" - неявное,
+			-- остальные (префикс, суффикс, уникальное) разбору не нужны
+			if line:find("Собственное", 1, true) then
+				headerTag = "(implicit)"
+			elseif line:find("Зачаров", 1, true) then
+				headerTag = "(enchant)"
+			else
+				headerTag = nil
+			end
+		elseif line:match("^%(.*%)$") and hasCyrillic(line) then
+			-- Справочный текст в скобках под модом
 		elseif enLabel == "Rarity" then
 			for _, pair in ipairs(rarityPrefixes) do
 				if value:find(pair[1], 1, true) == 1 then
@@ -194,14 +255,37 @@ function russian.ItemToEnglish(raw)
 				nameLines = nil
 			end
 			if line == "--------" then
+				inRequirements = false
+				headerTag = nil
 				t_insert(out, line)
 			elseif enLabel then
+				if inRequirements then
+					enLabel = requirementLabels[enLabel] or enLabel
+				elseif enLabel == "Evasion" then
+					-- Английский клиент пишет "Evasion Rating", и по нему PoB различает
+					-- варианты Two-Toned Boots
+					enLabel = "Evasion Rating"
+				end
 				t_insert(out, enLabel .. (value ~= "" and (": " .. translateValue(value)) or ":"))
+				if enLabel == "Requirements" then
+					inRequirements = true
+				elseif enLabel == "Item Level" then
+					itemLevelIndex = #out
+				end
 			elseif line ~= "" then
-				t_insert(out, translateModLine(line))
+				local text, isStat, hasTag = translateModLine(line)
+				if headerTag and not hasTag then
+					text = text .. " " .. headerTag
+					hasTag = true
+				end
+				t_insert(out, text)
+				if isStat then
+					statLines[#out] = not hasTag
+				end
 			end
 		end
 	end
+	tagModSections(out, statLines, itemLevelIndex)
 	return t_concat(out, "\n")
 end
 
