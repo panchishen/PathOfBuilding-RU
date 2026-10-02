@@ -1,0 +1,67 @@
+# Русская локализация: выпуск версии.
+# Пересчитывает манифест под этот репозиторий, обновляет ветку release (из неё встроенный
+# апдейтер у пользователей скачивает обновления), собирает портативный ZIP и установщик
+# и публикует их в релизе GitHub.
+# Запускается вручную, после слияния upstream (из ru-sync-upstream) и при обновлении
+# русских данных из клиента игры.
+name: RU - выпуск версии
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ru]
+    paths:
+      - "src/Russian/Data/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ru-release
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Checkout ru
+        uses: actions/checkout@v5
+        with:
+          ref: ru
+          fetch-depth: 0
+
+      - name: Version
+        id: version
+        run: |
+          upstream=$(python3 -c "import xml.etree.ElementTree as E; print(E.parse('manifest.xml').getroot().find('Version').get('number'))")
+          echo "version=${upstream}-ru.${{ github.run_number }}" >> "$GITHUB_OUTPUT"
+
+      - name: Build package
+        run: python3 ru/tools/make_release.py --version "${{ steps.version.outputs.version }}" --repo "${{ github.repository }}" --out dist
+
+      - name: Update release branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B release
+          git add manifest.xml
+          git commit -m "Выпуск ${{ steps.version.outputs.version }}"
+          git push --force origin release
+
+      - name: Build installer
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq nsis
+          cd ru/installer
+          makensis -V2 -DVERSION="${{ steps.version.outputs.version }}" -DSRCDIR="$GITHUB_WORKSPACE/dist/pkg" \
+            -DOUTFILE="$GITHUB_WORKSPACE/dist/PathOfBuilding-RU-${{ steps.version.outputs.version }}-Setup.exe" PathOfBuilding-RU.nsi
+
+      - name: Publish release
+        run: |
+          version="${{ steps.version.outputs.version }}"
+          notes=$(printf '%s\n\n%s\n\n%s' \
+            "Русская версия Path of Building $version (неофициальный форк, основан на Path of Building Community ${version%-ru.*})." \
+            "Используйте на свой страх и риск: сборка содержит изменённый движок и автоматически переведённый интерфейс. Подробнее - в описании репозитория." \
+            "Установленная программа обновляется сама. Setup.exe - установщик, portable.zip - версия без установки.")
+          gh release create "v$version" dist/*.exe dist/*.zip --target release --title "Path of Building RU $version" --notes "$notes"

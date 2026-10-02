@@ -11,6 +11,7 @@ on:
 permissions:
   contents: write
   issues: write
+  actions: write
 
 concurrency:
   group: ru-sync-upstream
@@ -60,6 +61,11 @@ jobs:
       - name: Push
         if: steps.merge.outputs.state == 'merged'
         run: git push origin HEAD:ru
+
+      - name: Start release
+        if: steps.merge.outputs.state == 'merged'
+        # Пуш токеном Actions не запускает другие workflow, поэтому выпуск запускаем явно
+        run: gh workflow run ru-release.yml --ref ru
 
       - name: Report untranslated UI strings
         if: steps.merge.outputs.state == 'merged'

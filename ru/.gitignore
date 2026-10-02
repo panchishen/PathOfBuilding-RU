@@ -3,3 +3,4 @@ glossary.tsv
 ui_tr/*.txt
 local.json
 .client_state
+dist/
