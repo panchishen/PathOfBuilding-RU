@@ -110,7 +110,9 @@ TABLE_PRIORITY = {"clientstrings": 0, "activeskills": 1, "baseitemtypes": 1, "pa
 
 
 def build_names(ruTables, spec):
+	"""Возвращает (английский -> русский, русский -> английский)."""
 	pairs = defaultdict(lambda: defaultdict(Counter))
+	reverse = defaultdict(lambda: defaultdict(Counter))
 	for table in ruTables:
 		cols = spec.get(table)
 		if not cols:
@@ -130,7 +132,9 @@ def build_names(ruTables, spec):
 					ev, rv = clean_markup(ev).strip(), clean_markup(rv).strip()
 					if ev and rv and ev != rv and re.search("[А-Яа-яЁё]", rv) and "Metadata/" not in ev:
 						pairs[ev][TABLE_PRIORITY.get(table, 5)][rv] += 1
-	return {e: byPrio[min(byPrio)].most_common(1)[0][0] for e, byPrio in pairs.items()}
+						reverse[rv][TABLE_PRIORITY.get(table, 5)][ev] += 1
+	pick = lambda byPrio: byPrio[min(byPrio)].most_common(1)[0][0]
+	return {e: pick(p) for e, p in pairs.items()}, {r: pick(p) for r, p in reverse.items()}
 
 # ---------------------------------------------------------------- описания статов
 
@@ -269,8 +273,64 @@ def write_stat_descriptions(descs):
 	return len(entries)
 
 
-def write_names(names):
+def limit_range(limit):
+	"""Лимит -> (мин, макс) с бесконечностями; "!" трактуется как весь диапазон."""
+	if limit[0] == "!":
+		return float("-inf"), float("inf")
+	lo = float("-inf") if limit[0] == "#" else limit[0]
+	hi = float("inf") if limit[1] == "#" else limit[1]
+	return lo, hi
+
+
+def covers(outer, inner):
+	"""Каждый диапазон outer содержит соответствующий диапазон inner."""
+	if len(outer) != len(inner):
+		return False
+	for o, i in zip(outer, inner):
+		(olo, ohi), (ilo, ihi) = limit_range(o), limit_range(i)
+		if not (olo <= ilo and ihi <= ohi):
+			return False
+	return True
+
+
+def write_stat_reverse(descs):
+	"""Русский шаблон мода -> английский: для импорта предметов из русского клиента."""
+	entries = {}
+
+	def add(ruText, enText):
+		key, slots = normalize_template(ruText)
+		if key.strip():
+			entries.setdefault(re.sub(r"[+\-]#", "#", key), {})[enText] = slots
+
+	for d in descs:
+		en, ru = d["en"], d["ru"]
+		for k, (rl, rt, _) in enumerate(ru):
+			match = next((e for e in en if e[0] == rl), None)
+			if match is None and len(en) == len(ru):
+				match = en[k]
+			if match is None:
+				match = next((e for e in en if covers(e[0], rl)), None)
+			if match is None:
+				continue
+			et = match[1]
+			add(rt, et)
+			# Многострочные моды предмет в буфере обмена тоже несёт построчно
+			enParts, ruParts = et.split("\n"), rt.split("\n")
+			if len(enParts) > 1 and len(enParts) == len(ruParts):
+				for ep, rp in zip(enParts, ruParts):
+					add(rp, ep)
+	items = []
+	for key in sorted(entries):
+		variants = ",".join("{e=" + lua_str(e) + ",s={" + ",".join("false" if s is None else str(s) for s in slots) + "}}"
+			for e, slots in entries[key].items())
+		items.append((key, "{" + variants + "}"))
+	write_lua_map(OUT_DIR / "StatReverse.lua", items)
+	return len(entries)
+
+
+def write_names(names, reverse):
 	write_lua_map(OUT_DIR / "Names.lua", [(e, lua_str(names[e])) for e in sorted(names)])
+	write_lua_map(OUT_DIR / "NamesReverse.lua", [(r, lua_str(reverse[r])) for r in sorted(reverse)])
 
 
 def write_lua_map(path, items):
@@ -292,9 +352,10 @@ def main():
 	ruTables = extract(client)
 	descs = parse_stat_files()
 	print(f"Описаний статов с русским текстом: {len(descs)}, шаблонов: {write_stat_descriptions(descs)}")
-	names = build_names(ruTables, parse_spec())
-	write_names(names)
-	print(f"Названий: {len(names)}")
+	print(f"Обратных шаблонов статов: {write_stat_reverse(descs)}")
+	names, reverse = build_names(ruTables, parse_spec())
+	write_names(names, reverse)
+	print(f"Названий: {len(names)}, обратных: {len(reverse)}")
 
 
 if __name__ == "__main__":

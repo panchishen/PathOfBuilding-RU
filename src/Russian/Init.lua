@@ -252,6 +252,8 @@ function russian.Translate(text)
 end
 
 local translate = russian.Translate
+russian.NormalizeNumbers = normalizeNumbers
+russian.FormatTemplate = formatTemplate
 
 -- ============================================================ перехват вывода
 
@@ -360,7 +362,18 @@ end
 
 local launchFrame = launch.OnFrame
 local nextSave = 0
+local firstFrame = true
 function launch:OnFrame(...)
+	if firstFrame then
+		-- К первому кадру main:Init уже загрузил данные игры
+		firstFrame = false
+		if russian.SelfTestItems then
+			local ok, err = pcall(russian.SelfTestItems)
+			if not ok then
+				ConPrintf("Russian: самопроверка предметов: %s", tostring(err))
+			end
+		end
+	end
 	if GetTime() >= nextSave then
 		nextSave = GetTime() + 5000
 		russian.SaveMissing()
@@ -378,6 +391,9 @@ if selfTestInput then
 	out:close()
 	selfTestInput:close()
 end
+
+-- Импорт предметов, скопированных в русском клиенте
+LoadModule("Russian/ItemImport", russian)
 
 local function count(t)
 	local n = 0
