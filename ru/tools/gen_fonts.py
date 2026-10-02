@@ -13,6 +13,7 @@ Windows GDI тем же способом, что и в PathOfBuilding-FontGenera
 import ctypes
 import ctypes.wintypes as wt
 import re
+import sys
 from pathlib import Path
 
 from PIL import Image
@@ -20,15 +21,22 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parents[2]
 FONT_DIR = ROOT / "runtime" / "SimpleGraphic" / "Fonts"
 
+# Шрифты-доноры из ru/fonts (лицензия OFL), подключаются только для этого процесса
+PRIVATE_FONT_DIR = ROOT / "ru" / "fonts"
+
+# В Fontin нет кириллицы: русские буквы для него берутся из этого свободного шрифта.
+# Переопределяется аргументом: python ru/tools/gen_fonts.py "Другой шрифт"
+FONTIN_FACE = sys.argv[1] if len(sys.argv) > 1 else "PT Serif"
+
 # Файл шрифта PoB -> донор кириллицы (GDI face, вес, курсив, моноширинный, капитель)
 FONTS = {
 	"Liberation Sans":          dict(face="Liberation Sans", weight=400),
 	"Liberation Sans Bold":     dict(face="Liberation Sans", weight=700),
 	"Bitstream Vera Sans Mono": dict(face="DejaVu Sans Mono", weight=400, mono=True),
-	"Fontin":                   dict(face="Constantia", weight=400),
-	"Fontin Italic":            dict(face="Constantia", weight=400, italic=True),
-	"Fontin SmallCaps":         dict(face="Constantia", weight=400, smallcaps=True),
-	"Fontin SmallCaps Italic":  dict(face="Constantia", weight=400, italic=True, smallcaps=True),
+	"Fontin":                   dict(face=FONTIN_FACE, weight=400),
+	"Fontin Italic":            dict(face=FONTIN_FACE, weight=400, italic=True),
+	"Fontin SmallCaps":         dict(face=FONTIN_FACE, weight=400, smallcaps=True),
+	"Fontin SmallCaps Italic":  dict(face=FONTIN_FACE, weight=400, italic=True, smallcaps=True),
 }
 
 CODEPOINTS = (
@@ -89,6 +97,12 @@ GGI_MARK_NONEXISTING_GLYPHS = 1
 IDENTITY = MAT2(FIXED(0, 1), FIXED(0, 0), FIXED(0, 0), FIXED(0, 1))
 
 HDC = gdi32.CreateCompatibleDC(None)
+
+FR_PRIVATE = 0x10
+gdi32.AddFontResourceExW.argtypes = [wt.LPCWSTR, wt.DWORD, ctypes.c_void_p]
+for fontFile in sorted(PRIVATE_FONT_DIR.glob("*.ttf")):
+	if not gdi32.AddFontResourceExW(str(fontFile), FR_PRIVATE, None):
+		raise RuntimeError(f"Не удалось подключить шрифт {fontFile}")
 
 
 class GdiFont:
