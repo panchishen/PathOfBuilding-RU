@@ -1,3 +1,5 @@
 ui_todo*.txt
 glossary.tsv
 ui_tr/*.txt
+local.json
+.client_state
