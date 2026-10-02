@@ -191,6 +191,18 @@ translateSegment = function(text)
 	end
 	local result = uiStrings[body] or names[body] or translateStat(body)
 	if not result then
+		-- Строки интерфейса с числами: в словаре записаны с "#" на месте чисел ("Downloading #/#")
+		local key, tokens = normalizeNumbers(body)
+		local template = #tokens > 0 and uiStrings[key]
+		if template then
+			local index = 0
+			result = s_gsub(template, "#", function()
+				index = index + 1
+				return tokens[index] or "#"
+			end)
+		end
+	end
+	if not result then
 		-- "Подпись: значение"
 		local label, sep, value = body:match("^(.-)(:%s*)(.*)$")
 		if label and label ~= "" then

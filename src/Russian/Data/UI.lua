@@ -1512,6 +1512,7 @@ t["Double click to add this jewel to your build."]="Дважды щёлкнит�
 t["Double clicking a result also equips the jewel in its jewel socket."]="Двойной щелчок по результату также экипирует самоцвет в его гнездо."
 t["Double-click an item from one of the lists,"]="Дважды щёлкните предмет в одном из списков"
 t["Download information not found"]="Информация о загрузке не найдена"
+t["Downloading #/#"]="Загрузка #/#"
 t["Drops from unique"]="Выпадает из уникального"
 t["Duration Mod"]="Мод. длительности"
 t["Duration of Curses"]="Длительность проклятий"
