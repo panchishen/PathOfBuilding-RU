@@ -1,4 +1,4 @@
-# Русская локализация: регулярно вливает upstream (PathOfBuildingCommunity/PathOfBuilding, ветка dev)
+# Русская локализация: регулярно вливает upstream (PathOfBuildingCommunity/PathOfBuilding, ветка master - только выпущенные версии)
 # в ветку ru. Если upstream обновил движок или шрифты, либо слияние конфликтует, ничего не
 # вливает и открывает issue: движок нужно пересобрать с правкой из PathOfBuilding-SimpleGraphic-RU.
 name: RU - синхронизация с upstream
@@ -30,25 +30,25 @@ jobs:
       - name: Fetch upstream
         run: |
           git remote add upstream https://github.com/PathOfBuildingCommunity/PathOfBuilding.git
-          git fetch --no-tags upstream dev
+          git fetch --no-tags upstream master
 
       - name: Merge upstream
         id: merge
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git merge-base --is-ancestor upstream/dev HEAD; then
+          if git merge-base --is-ancestor upstream/master HEAD; then
             echo "state=uptodate" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          base=$(git merge-base HEAD upstream/dev)
-          engine=$(git diff --name-only "$base" upstream/dev -- runtime/SimpleGraphic.dll runtime/SimpleGraphic/Fonts | head -20)
+          base=$(git merge-base HEAD upstream/master)
+          engine=$(git diff --name-only "$base" upstream/master -- runtime/SimpleGraphic.dll runtime/SimpleGraphic/Fonts | head -20)
           if [ -n "$engine" ]; then
             echo "state=engine" >> "$GITHUB_OUTPUT"
             { echo "files<<EOF"; echo "$engine"; echo "EOF"; } >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          if git merge --no-edit -m "Слияние upstream/dev $(git rev-parse --short upstream/dev)" upstream/dev; then
+          if git merge --no-edit -m "Слияние upstream/master $(git rev-parse --short upstream/master)" upstream/master; then
             echo "state=merged" >> "$GITHUB_OUTPUT"
           else
             conflicts=$(git diff --name-only --diff-filter=U | head -20)
@@ -70,7 +70,7 @@ jobs:
           if [ "$count" -gt 0 ]; then
             title="Новые строки интерфейса без перевода"
             body=$(printf 'После слияния upstream %s появилось строк без перевода: %s.\n\n```\n%s\n```' \
-              "$(git rev-parse --short upstream/dev)" "$count" "$(head -200 ui_new.txt)")
+              "$(git rev-parse --short upstream/master)" "$count" "$(head -200 ui_new.txt)")
             existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
             if [ -n "$existing" ]; then
               gh issue comment "$existing" --body "$body"
@@ -90,9 +90,9 @@ jobs:
             text="Upstream изменил движок (runtime/SimpleGraphic.dll) или шрифты. Автослияние остановлено: нужно пересобрать PathOfBuilding-SimpleGraphic-RU на новой версии движка, перегенерировать шрифты (ru/tools/gen_fonts.py) и влить upstream вручную."
           else
             title="Конфликт при слиянии upstream"
-            text="Автоматическое слияние upstream/dev в ru дало конфликты, слияние отменено. Нужно влить вручную."
+            text="Автоматическое слияние upstream/master в ru дало конфликты, слияние отменено. Нужно влить вручную."
           fi
-          body=$(printf '%s\n\nUpstream: %s\n\nФайлы:\n```\n%s\n```' "$text" "$(git rev-parse --short upstream/dev)" "$FILES")
+          body=$(printf '%s\n\nUpstream: %s\n\nФайлы:\n```\n%s\n```' "$text" "$(git rev-parse --short upstream/master)" "$FILES")
           existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
           if [ -n "$existing" ]; then
             gh issue comment "$existing" --body "$body"

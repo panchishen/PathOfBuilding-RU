@@ -296,6 +296,16 @@ function sanitiseText(text)
 	if not text or not hasCyrillic(text) then
 		return sanitise(text)
 	end
+	-- Через sanitiseText проходит текст любого предмета до разбора (конструктор Item,
+	-- вставка в редактор предмета): здесь и переводим текст из русского клиента
+	if text:find("\n") and (text:find("--------", 1, true) or text:find("Редкость:", 1, true)) then
+		local ok, converted = pcall(russian.ItemToEnglish, text)
+		if ok then
+			text = converted
+		else
+			ConPrintf("Russian: ошибка импорта предмета: %s", tostring(converted))
+		end
+	end
 	local saved = { }
 	local protected = text:gsub("[\208\209][\128-\191]", function(char)
 		t_insert(saved, char)
@@ -318,7 +328,11 @@ function russian.SelfTestItems()
 	input:close()
 	local out = io.open("Russian/SelfTest/items_out.txt", "w")
 	for raw in (text .. "\n====\n"):gmatch("(.-)\n====\n") do
-		local ok, item = pcall(function() return new("Item"):Item(raw) end)
+		-- В релизной ветке PoB конструктор принимает текст в new(), в dev - отдельным вызовом
+		local ok, item = pcall(new, "Item", raw)
+		if not ok then
+			ok, item = pcall(function() return new("Item"):Item(raw) end)
+		end
 		if ok and item then
 			out:write(russian.ItemToEnglish(raw), "\n")
 			out:write(string.format(">> база: %s, редкость: %s, имя: %s\n", tostring(item.baseName), tostring(item.rarity), tostring(item.title or item.name)))
@@ -335,19 +349,3 @@ function russian.SelfTestItems()
 	out:close()
 end
 
--- Перевод на входе конструктора предмета, до sanitiseText: тот заменяет всё не-ASCII на "?".
--- Срабатывает только на тексте с кириллицей.
-LoadModule("Classes/Item")
-local itemClass = common.classes.Item
-local itemConstructor = itemClass.Item
-function itemClass:Item(raw, ...)
-	if type(raw) == "string" and hasCyrillic(raw) and raw:find("\n") then
-		local ok, converted = pcall(russian.ItemToEnglish, raw)
-		if ok then
-			raw = converted
-		else
-			ConPrintf("Russian: ошибка импорта предмета: %s", tostring(converted))
-		end
-	end
-	return itemConstructor(self, raw, ...)
-end
