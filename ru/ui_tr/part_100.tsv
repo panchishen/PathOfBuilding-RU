@@ -1,0 +1,466 @@
+# Carrion Golem = # Chaos Golem:	# Трупный голем = # Голем хаоса:
+# Chaos Golem = # Stone Golem:	# Голем хаоса = # Каменный голем:
+# Stone Golem = # Carrion Golem:	# Каменный голем = # Трупный голем:
+# of Active Arrows:	Кол-во активных стрел:
+# of Active Spectral Tigers:	Кол-во активных призрачных тигров:
+# of Active Spectral Wolves:	Кол-во активных призрачных волков:
+# of Barkskin Stacks:	Кол-во стаков Дубовой кожи:
+# of Bleeds on enemy (if not maximum):	Кол-во кровотечений на враге (если не максимум):
+# of Blitz Charges (if not maximum):	Кол-во зарядов разгона (если не максимум):
+# of Blood Charges (if not maximum):	Кол-во зарядов крови (если не максимум):
+# of Brands attached to enemy (if not maximum):	Кол-во клейм на враге (если не максимум):
+# of Casts currently waiting:	Кол-во ожидающих сотворений:
+# of Challenger Charges (if not maximum):	Кол-во зарядов претендента (если не максимум):
+# of Cinderflame stacks on enemy:	Кол-во стаков Угольного пламени на враге:
+# of Corpses Consumed Recently:	Кол-во недавно поглощённых трупов:
+# of Corrosion Stacks:	Кол-во стаков Коррозии:
+# of Crab Barriers (if not maximum):	Кол-во крабовых барьеров (если не максимум):
+# of Endurance Charges (if not maximum):	Кол-во зарядов выносливости (если не максимум):
+# of Endurance Charges lost Recently:	Кол-во недавно потерянных зарядов выносливости:
+# of Enemies Killed Recently:	Кол-во недавно убитых врагов:
+# of Enemies Killed by Minions Recently:	Кол-во врагов, недавно убитых приспешниками:
+# of Enemies Killed by Totems Recently:	Кол-во врагов, недавно убитых тотемами:
+# of Enemies affected:	Кол-во затронутых врагов:
+# of Ensnare Stacks:	Кол-во стаков Западни:
+# of Fortification Stacks (if not maximum):	Кол-во стаков Укрепления (если не максимум):
+# of Fragile Regrowth Stacks:	Кол-во стаков Хрупкого восстановления:
+# of Frenzy Charges (if not maximum):	Кол-во зарядов ярости (если не максимум):
+# of Gale Force:	Кол-во Силы шторма:
+# of Ghost Shrouds (if not maximum):	Кол-во Призрачных покровов (если не максимум):
+# of Grasping Vines affecting enemy:	Кол-во Цепких лиан на враге:
+# of Hits Suppressed Recently:	Кол-во недавно подавленных ударов:
+# of Impales on enemy (if not maximum):	Кол-во проколов на враге (если не максимум):
+# of Inspiration Charges (if not maximum):	Кол-во зарядов вдохновения (если не максимум):
+# of Intensity:	Кол-во Напряженности:
+# of Lunar Protection:	Кол-во Лунной защиты:
+# of Lunar Resistance:	Кол-во Лунного сопротивления:
+# of Mines Detonated Recently:	Кол-во недавно сдетонировавших мин:
+# of Mines per throw:	Кол-во мин за бросок:
+# of Minion Soul Eater Stacks:	Кол-во стаков Пожирателя душ у приспешников:
+# of Momentum (if not average):	Кол-во Импульса (если не среднее):
+# of Nearby Allies:	Кол-во союзников поблизости:
+# of Nearby Bleeding Enemies:	Кол-во истекающих кровью врагов поблизости:
+# of Nearby Corpses:	Кол-во трупов поблизости:
+# of Nearby Non-Golem Minions:	Кол-во приспешников поблизости, не являющихся големами:
+# of Non-Instant Spells Cast Recently:	Кол-во недавно сотворённых неинстантных чар:
+# of Otherworldly Pressure Stacks:	Кол-во стаков Потустороннего натиска:
+# of Overlapping Beams:	Кол-во пересекающихся лучей:
+# of Overlapping Pods:	Кол-во пересекающихся коконов:
+# of Overlapping Spikes:	Кол-во пересекающихся шипов:
+# of Overloaded Intensity:	Кол-во перегруженной Напряженности:
+# of Permanent Minions (if not maximum):	Кол-во постоянных приспешников (если не максимум):
+# of Poison on You:	Кол-во отравлений на вас:
+# of Poison on enemy:	Кол-во отравлений на враге:
+# of Poisons applied Recently:	Кол-во недавно наложенных отравлений:
+# of Power Charges (if not maximum):	Кол-во зарядов энергии (если не максимум):
+# of Rampage Kills:	Кол-во убийств в Буйстве:
+# of Recently Applied Ailments:	Кол-во недавно наложенных недугов:
+# of Shotgunning Projectiles:	Кол-во снарядов дробовика:
+# of Siphoning Charges (if not maximum):	Кол-во зарядов переливания (если не максимум):
+# of Skills Used Recently:	Кол-во недавно использованных умений:
+# of Snipe stages:	Кол-во стадий Прицельного выстрела:
+# of Soul Eater Stacks:	Кол-во стаков Пожирателя душ:
+# of Spider's Web Stacks:	Кол-во стаков Паучьей паутины:
+# of Spiders:	Кол-во пауков:
+# of Spirit Charges:	Кол-во зарядов духа:
+# of Spirit Infusions:	Кол-во насыщений духа:
+# of Summoned Minions (if not maximum):	Кол-во призванных приспешников (если не максимум):
+# of Summoned Totems (if not maximum):	Кол-во призванных тотемов (если не максимум):
+# of Sunscald Stacks:	Кол-во стаков Солнечного ожога:
+# of Traps Triggered Recently:	Кол-во недавно сработавших ловушек:
+# of Traps per throw:	Кол-во ловушек за бросок:
+# of Trauma Stacks:	Кол-во стаков Травмы:
+# of Vaal Skills used in the past 8 Seconds:	Кол-во умений Ваал, использованных за последние 8 секунд:
+# of Virulence Stacks:	Кол-во стаков Заразности:
+# of Warcries Used Recently:	Кол-во недавно использованных боевых кличей:
+# of Weeping Black stacks on enemy:	Кол-во стаков Плачущей Черноты на враге:
+# of Withered Stacks on you:	Кол-во стаков Истощения на вас:
+# of Withered Stacks:	Кол-во стаков Истощения:
+# of active Brands:	Кол-во активных клейм:
+# of linked Targets:	Кол-во связанных целей:
+# of nearby Enemies:	Кол-во врагов поблизости:
+# of nearby Rare or Unique Enemies:	Кол-во редких или уникальных врагов поблизости:
+# of non-vaal skill Summoned Minions:	Кол-во призванных приспешников от умений, не относящихся к Ваал:
+# of seconds Affected by a Warcry Buff:	Кол-во секунд под действием эффекта боевого клича:
+# of times Skill has Chained:	Кол-во цепных переходов умения:
+# of times Skill has Forked:	Кол-во разветвлений умения:
+# of times Skill has Pierced:	Кол-во пронзаний умением:
+# of times you have been Hit Recently:	Кол-во недавних попаданий по вам:
+# of times your Attacks have Crit Recently:	Кол-во недавних критических ударов ваших атак:
+#% of Curse Expired on enemy:	#% истёкшего проклятия на враге:
+%.2fs / %.2fs	%.2fс / %.2fс
+%.2fs / (%.2fs + %.2fs)	%.2fс / (%.2fс + %.2fс)
+' skill,	' умение,
+which is being provided by	которое предоставляется
+(1 / duration - trauma per second * increased attack speed per trauma / 100)	(1 / длительность - травма в секунду * повышение скорости атаки за травму / 100)
+(Bleed duration / Attack Time)	(длительность кровотечения / время атаки)
+(Ignite Duration / Attack Time)	(длительность поджога / время атаки)
+(debuff expires slower/faster)	(ослабление истекает медленнее/быстрее)
+(increased/reduced block recovery)	(повышение/понижение восстановления после блока)
+(increased/reduced cooldown recovery)	(повышение/понижение скорости восстановления перезарядки)
+(increased/reduced damage taken)	(повышение/понижение получаемого урона)
+(increased/reduced duration)	(повышение/понижение длительности)
+(increased/reduced effect of chill)	(повышение/понижение эффекта охлаждения)
+(increased/reduced enemy stun recovery)	(повышение/понижение восстановления врага после оглушения)
+(increased/reduced extra crit damage taken by enemy)	(повышение/понижение доп. урона от крит. ударов, получаемого врагом)
+(increased/reduced gain frequency)	(повышение/понижение частоты получения)
+(increased/reduced placement speed)	(повышение/понижение скорости установки)
+(increased/reduced recovery)	(повышение/понижение восстановления)
+(increased/reduced stun duration)	(повышение/понижение длительности оглушения)
+(increased/reduced throwing speed)	(повышение/понижение скорости броска)
+(more/less cost)	(увеличение/уменьшение стоимости)
+(more/less damage taken)	(увеличение/уменьшение получаемого урона)
+(more/less duration)	(увеличение/уменьшение длительности)
+(more/less effect of chill)	(увеличение/уменьшение эффекта охлаждения)
+(more/less placement speed)	(увеличение/уменьшение скорости установки)
+(more/less stun duration)	(увеличение/уменьшение длительности оглушения)
+(more/less throwing speed)	(увеличение/уменьшение скорости броска)
+(repeated attacks/casts do not count as they don't use mana)	(повторные атаки/сотворения не учитываются, так как не тратят ману)
+(stack potential override / max ignite stacks)	(переопределение потенциала стаков / макс. стаков поджога)
++0 Average	+0 в среднем
++0 Average Damage	+0 среднего урона
++0 Average Damage (+20.0%)	+0 среднего урона (+20.0%)
++0 Average Damage (+37.5%)	+0 среднего урона (+37.5%)
++0 Average Damage (+57.5%)	+0 среднего урона (+57.5%)
++0 Average Damage (+62.5%)	+0 среднего урона (+62.5%)
++0 Hit	+0 удар
++0 Hit DPS	+0 DPS удара
++0 Hit DPS (+20.0%)	+0 DPS удара (+20.0%)
++0 Hit DPS (+37.5%)	+0 DPS удара (+37.5%)
++0 Hit DPS (+57.5%)	+0 DPS удара (+57.5%)
++0 Hit DPS (+62.5%)	+0 DPS удара (+62.5%)
++0.1 Mana	+0.1 маны
++0.1 Mana Regen	+0.1 регенерации маны
++0.3 Mana	+0.3 маны
++0.3 Mana Regen	+0.3 регенерации маны
++0.4 Life	+0.4 здоровья
++0.4 Life Regen	+0.4 регенерации здоровья
++0.4 Mana	+0.4 маны
++0.4 Mana Regen	+0.4 регенерации маны
++1 Chaos	+1 хаоса
++1 Chaos Max	+1 макс. хаоса
++1 Chaos Max Hit	+1 макс. удар хаосом
++1 Chaos Max Hit (+2.6%)	+1 макс. удар хаосом (+2.6%)
++1% Hit	+1% удар
++1% Hit Chance	+1% шанс попадания
++1.5 Life	+1.5 здоровья
++1.5 Life Regen	+1.5 регенерации здоровья
++1.7 Mana	+1.7 маны
++1.7 Mana Regen	+1.7 регенерации маны
++1.9 Life	+1.9 здоровья
++1.9 Life Regen	+1.9 регенерации здоровья
++10 Dexterity	+10 к ловкости
++10 Intelligence	+10 к интеллекту
++10 Strength	+10 к силе
++110 Intelligence	+110 к интеллекту
++14 Phys	+14 физ.
++14 Phys Max	+14 макс. физ.
++14 Phys Max Hit	+14 макс. физ. удар
++14 Phys Max Hit (+23.3%)	+14 макс. физ. удар (+23.3%)
++14 Total	+14 всего
++14 Total Life	+14 всего здоровья
++14 Total Life (+23.3%)	+14 всего здоровья (+23.3%)
++2 Effective	+2 эффективный
++2 Effective Hit	+2 эффективный удар
++2 Effective Hit Pool	+2 эффективный запас удара
++2 Effective Hit Pool (+5.2%)	+2 эффективный запас удара (+5.2%)
++2 Elemental	+2 стихийного
++2 Elemental Max	+2 макс. стихийного
++2 Elemental Max Hit	+2 макс. стихийный удар
++2 Elemental Max Hit (+5.4%)	+2 макс. стихийный удар (+5.4%)
++2% Hit	+2% удар
++2% Hit Chance	+2% шанс попадания
++2.1 Life	+2.1 здоровья
++2.1 Life Regen	+2.1 регенерации здоровья
++2.2 Life	+2.2 здоровья
++2.2 Life Regen	+2.2 регенерации здоровья
++2.4 Life	+2.4 здоровья
++2.4 Life Regen	+2.4 регенерации здоровья
++23 Chaos	+23 хаоса
++23 Chaos Max	+23 макс. хаоса
++23 Chaos Max Hit	+23 макс. удар хаосом
++23 Chaos Max Hit (+60.5%)	+23 макс. удар хаосом (+60.5%)
++27 Chaos	+27 хаоса
++27 Chaos Max	+27 макс. хаоса
++27 Chaos Max Hit	+27 макс. удар хаосом
++27 Chaos Max Hit (+71.1%)	+27 макс. удар хаосом (+71.1%)
++27 Elemental	+27 стихийного
++27 Elemental Max	+27 макс. стихийного
++27 Elemental Max Hit	+27 макс. стихийный удар
++27 Elemental Max Hit (+73.0%)	+27 макс. стихийный удар (+73.0%)
++28% Cold	+28% холода
++28% Cold Resistance	+28% сопротивления холоду
++28% Fire	+28% огня
++28% Fire Resistance	+28% сопротивления огню
++28% Lightning	+28% молнии
++28% Lightning Resistance	+28% сопротивления молнии
++29 Effective	+29 эффективный
++29 Effective Hit	+29 эффективный удар
++29 Effective Hit Pool	+29 эффективный запас удара
++29 Effective Hit Pool (+76.4%)	+29 эффективный запас удара (+76.4%)
++3 Chaos	+3 хаоса
++3 Chaos Max	+3 макс. хаоса
++3 Chaos Max Hit	+3 макс. удар хаосом
++3 Chaos Max Hit (+7.9%)	+3 макс. удар хаосом (+7.9%)
++3 Effective	+3 эффективный
++3 Effective Hit	+3 эффективный удар
++3 Effective Hit Pool	+3 эффективный запас удара
++3 Effective Hit Pool (+8.7%)	+3 эффективный запас удара (+8.7%)
++3 Elemental	+3 стихийного
++3 Elemental Max	+3 макс. стихийного
++3 Elemental Max Hit	+3 макс. стихийный удар
++3 Elemental Max Hit (+8.1%)	+3 макс. стихийный удар (+8.1%)
++3 Evasion	+3 уклонения
++3 Evasion rating	+3 уклонения
++3 Evasion rating (+18.8%)	+3 уклонения (+18.8%)
++3 Phys	+3 физ.
++3 Phys Max	+3 макс. физ.
++3 Phys Max Hit	+3 макс. физ. удар
++3 Phys Max Hit (+5.0%)	+3 макс. физ. удар (+5.0%)
++3 Total	+3 всего
++3 Total Life	+3 всего здоровья
++3 Total Life (+5.0%)	+3 всего здоровья (+5.0%)
++3.4 Life	+3.4 здоровья
++3.4 Life Regen	+3.4 регенерации здоровья
++33 Chaos	+33 хаоса
++33 Chaos Max	+33 макс. хаоса
++33 Chaos Max Hit	+33 макс. удар хаосом
++33 Chaos Max Hit (+86.8%)	+33 макс. удар хаосом (+86.8%)
++33 Elemental	+33 стихийного
++33 Elemental Max	+33 макс. стихийного
++33 Elemental Max Hit	+33 макс. стихийный удар
++33 Elemental Max Hit (+89.2%)	+33 макс. стихийный удар (+89.2%)
++34 Effective	+34 эффективный
++34 Effective Hit	+34 эффективный удар
++34 Effective Hit Pool	+34 эффективный запас удара
++34 Effective Hit Pool (+89.1%)	+34 эффективный запас удара (+89.1%)
++35 Elemental	+35 стихийного
++35 Elemental Max	+35 макс. стихийного
++35 Elemental Max Hit	+35 макс. стихийный удар
++35 Elemental Max Hit (+94.6%)	+35 макс. стихийный удар (+94.6%)
++36 Effective	+36 эффективный
++36 Effective Hit	+36 эффективный удар
++36 Effective Hit Pool	+36 эффективный запас удара
++36 Effective Hit Pool (+93.8%)	+36 эффективный запас удара (+93.8%)
++37 Phys	+37 физ.
++37 Phys Max	+37 макс. физ.
++37 Phys Max Hit	+37 макс. физ. удар
++37 Phys Max Hit (+61.7%)	+37 макс. физ. удар (+61.7%)
++37 Total	+37 всего
++37 Total Life	+37 всего здоровья
++37 Total Life (+61.7%)	+37 всего здоровья (+61.7%)
++44 Phys	+44 физ.
++44 Phys Max	+44 макс. физ.
++44 Phys Max Hit	+44 макс. физ. удар
++44 Phys Max Hit (+73.3%)	+44 макс. физ. удар (+73.3%)
++44 Total	+44 всего
++44 Total Life	+44 всего здоровья
++44 Total Life (+73.3%)	+44 всего здоровья (+73.3%)
++5 Dexterity	+5 к ловкости
++5 Phys	+5 физ.
++5 Phys Max	+5 макс. физ.
++5 Phys Max Hit	+5 макс. физ. удар
++5 Phys Max Hit (+8.3%)	+5 макс. физ. удар (+8.3%)
++5 Strength	+5 к силе
++5 Total	+5 всего
++5 Total Life	+5 всего здоровья
++5 Total Life (+8.3%)	+5 всего здоровья (+8.3%)
++5 Total Mana	+5 всего маны
++5 Total Mana (+10.0%)	+5 всего маны (+10.0%)
++54 Phys	+54 физ.
++54 Phys Max	+54 макс. физ.
++54 Phys Max Hit	+54 макс. физ. удар
++54 Phys Max Hit (+90.0%)	+54 макс. физ. удар (+90.0%)
++54 Total	+54 всего
++54 Total Life	+54 всего здоровья
++54 Total Life (+90.0%)	+54 всего здоровья (+90.0%)
++55 Total	+55 всего
++55 Total Mana	+55 всего маны
++55 Total Mana (+110.0%)	+55 всего маны (+110.0%)
++65 Strength	+65 к силе
++75 Strength	+75 к силе
++8 Chaos	+8 хаоса
++8 Chaos Max	+8 макс. хаоса
++8 Chaos Max Hit	+8 макс. удар хаосом
++8 Chaos Max Hit (+21.1%)	+8 макс. удар хаосом (+21.1%)
++8 Elemental	+8 стихийного
++8 Elemental Max	+8 макс. стихийного
++8 Elemental Max Hit	+8 макс. стихийный удар
++8 Elemental Max Hit (+21.6%)	+8 макс. стихийный удар (+21.6%)
++9 Effective	+9 эффективный
++9 Effective Hit	+9 эффективный удар
++9 Effective Hit Pool	+9 эффективный запас удара
++9 Effective Hit Pool (+24.3%)	+9 эффективный запас удара (+24.3%)
+- Doesn't require authorization.	- Авторизация не требуется.
+- You cannot search and compare items in Path of Building.	- В Path of Building нельзя искать и сравнивать предметы.
+- You can generate weighted search URLs but have to visit the trade site and manually import items.	- Можно создавать поисковые URL со взвешиванием, но нужно открыть торговый сайт и импортировать предметы вручную.
+- You can only generate weighted searches for public leagues. (Generated searches can be modified	- Взвешенный поиск можно создавать только для публичных лиг. (Созданный поиск можно изменить
+on trade site to work on other leagues and realms)	на торговом сайте для работы с другими лигами и реалмами)
+.	.
+You cannot delete this group, but it will disappear if you	Эту группу нельзя удалить, но она исчезнет, если вы
+/Path of Building/	/Path of Building/
+1 points	1 очко
+1 points to	1 очко до
+1 points to node	1 очко до узла
+12 points	12 очков
+12 points to	12 очков до
+12 points to node	12 очков до узла
+14 points	14 очков
+14 points to	14 очков до
+14 points to node	14 очков до узла
+15 points	15 очков
+15 points to	15 очков до
+15 points to node	15 очков до узла
+17 points	17 очков
+17 points to	17 очков до
+17 points to node	17 очков до узла
+19 points	19 очков
+19 points to	19 очков до
+19 points to node	19 очков до узла
+20 points	20 очков
+20 points to	20 очков до
+20 points to node	20 очков до узла
+21 points	21 очко
+21 points to	21 очко до
+21 points to node	21 очко до узла
+3.22 (ruthless)	3.22 (беспощадный)
+3.23 (ruthless)	3.23 (беспощадный)
+3.24 (ruthless)	3.24 (беспощадный)
+3.25 (alternate)	3.25 (альтернативный)
+3.25 (ruthless alternate)	3.25 (беспощадный альтернативный)
+3.25 (ruthless)	3.25 (беспощадный)
+3.26 (alternate)	3.26 (альтернативный)
+3.26 (ruthless alternate)	3.26 (беспощадный альтернативный)
+3.26 (ruthless)	3.26 (беспощадный)
+3.27 (alternate)	3.27 (альтернативный)
+3.27 (ruthless alternate)	3.27 (беспощадный альтернативный)
+3.27 (ruthless)	3.27 (беспощадный)
+3.28 (alternate)	3.28 (альтернативный)
+3.28 (ruthless alternate)	3.28 (беспощадный альтернативный)
+3.28 (ruthless)	3.28 (беспощадный)
+3.29 (ruthless)	3.29 (беспощадный)
+<< Back	<< Назад
+<No skills added yet>	<Умения ещё не добавлены>
+Abyssal	Бездны
+All gems default to their highest valid non-corrupted gem level that your character meets the level requirement for.	Все камни по умолчанию имеют наивысший допустимый неоскверненный уровень, требование которого выполняет ваш персонаж.
+This hides gems with a minimum level requirement above your character level, preventing them from showing up in the dropdown list.	Скрывает камни с минимальным требуемым уровнем выше уровня персонажа, и они не появляются в выпадающем списке.
+Allocated	Выделено
+Amber	Янтарный
+Applies mods that use `while stationary` and `per / every second while stationary`	Применяет модификаторы с условием «пока вы не двигаетесь» и «за каждую секунду / каждую секунду, пока вы не двигаетесь»
+Armour/Energy Shield	Броня/Энергетический щит
+Armour/Evasion/Energy Shield	Броня/Уклонение/Энергетический щит
+Assembled Eye Jewel	Самоцвет сформированного глаза
+League: Allflame	Лига: Всепламень
+Limited to: 1 Historic	Ограничение: 1 историческая
+Implicits: 0	Неявные свойства: 0
+Binding	Связывающий
+Assuming cast on every kill/attack/hit	Предполагается сотворение при каждом убийстве/атаке/ударе
+Attack/Cast Rate	Скорость атаки/сотворения
+Attack/Cast Speed	Скорость атаки/сотворения
+Aura/Buff Skills	Умения аур/усилений
+Cobalt	Кобальтовый
+Controls how resource on hit/kill is calculated	Определяет, как рассчитывается получение ресурса за удар/убийство
+Controls how the hit/ailment effect of Ruthless Support is calculated	Определяет, как рассчитывается эффект удара/недуга поддержки «Беспощадный режим»
+Controls the inclusion of eldritch mod weights in the weighted sum.	Определяет учёт весов модификаторов Древних в сумме с весами.
+Copy Current: implicits in weights are skipped and augments are replaced with the	Копировать текущие: неявные свойства в весах пропускаются, а усиления заменяются
+current implicits when possible. Usually the best opinion as this ensures the	текущими неявными свойствами, когда возможно. Обычно лучший вариант, так как усиления
+augments make sense for your build.	соответствуют вашему билду.
+	
+Keep regular: weights are generated and implicits are kept, but conditional	Оставить обычные: веса создаются, неявные свойства сохраняются, но условные
+"while unique/atlas boss" modifiers are removed from the items.	модификаторы «против уникального босса/босса Атласа» удаляются с предметов.
+	
+Keep regular + presence: weights are generated and implicits are kept. Not	Оставить обычные + присутствие: веса создаются, неявные свойства сохраняются. Не
+recommended as many of these implicits are impractical and appear powerful	рекомендуется, так как многие из этих неявных свойств непрактичны и выглядят сильными
+with default PoB enemy configs.	при стандартных настройках врага в PoB.
+	
+Remove: eldritch implicits are removed and ignored in the search.	Удалить: неявные свойства Древних удаляются и игнорируются в поиске.
+Converting a build to a different game version may have side effects.	Конвертация билда в другую версию игры может иметь побочные эффекты.
+For example, if the passive tree has changed, then some passives may be deallocated.	Например, если пассивное древо изменилось, некоторые пассивные умения могут быть сняты.
+You should create a backup copy of the build before proceeding.	Перед продолжением рекомендуется создать резервную копию билда.
+Cursed	Проклятый
+Destination for Import/clear\nCurrently Links Skills do not export	Назначение для импорта/очистки\nСвязанные умения сейчас не экспортируются
+Developer Mode active!	Включён режим разработчика!
+The program is currently running in developer	Программа сейчас работает в режиме
+mode, which is not intended for normal use.	разработчика, не предназначенном для обычного использования.
+If you are not expecting this, then you may have	Если вы этого не ожидали, возможно, вы
+set up the program from the source .zip instead	установили программу из исходного .zip,
+of using one of the installers. If that is the case,	а не с помощью установщика. В таком случае
+please reinstall using one of the installers from	переустановите её через один из установщиков
+the "Releases" section of the GitHub page.	в разделе «Releases» на странице GitHub.
+Doom	Рок
+Double-click an item from one of the lists,	Дважды щёлкните предмет в одном из списков
+or copy and paste an item from in game	или вставьте предмет из игры
+(hover over the item and Ctrl+C) to view or edit	(наведите курсор на предмет и нажмите Ctrl+C), чтобы просмотреть или изменить
+the item and add it to your build. You can	его и добавить в билд. Также можно
+also clone an item within Path of Building by	клонировать предмет внутри Path of Building,
+copying and pasting it with Ctrl+C and Ctrl+V.	скопировав и вставив его через Ctrl+C и Ctrl+V.
+	
+You can Control + Click an item to equip it, or	Ctrl + щелчок по предмету экипирует его,
+drag it onto the slot.  This will also add it to	либо перетащите его в слот. Так он также добавится
+your build if it's from the unique/template list.	в билд, если взят из списка уникальных/шаблонов.
+If there's 2 slots an item can go in,	Если предмет подходит для двух слотов,
+holding Shift will put it in the second.	удерживайте Shift, чтобы поместить его во второй.
+ES	ЭЩ
+ES Leech/Gain per Hit	Похищение/получение ЭЩ за удар
+ES Leech/On Hit Rate	Скорость похищения ЭЩ/при ударе
+Eff. Maximum Hit Taken	Эфф. макс. получаемый удар
+Effective	Эффективный
+Efficiency More/less	Эффективность: больше/меньше
+Enemy attack / cast time in ms	Время атаки / сотворения врага в мс
+Enemy attack / cast time in ms:	Время атаки / сотворения врага в мс:
+Energy Shield leech	Похищение энергетического щита
+Energy Shield regen	Регенерация энергетического щита
+Enter a build code/URL below	Введите код/URL билда ниже
+Error received from api/trade/data/stats	Ошибка, полученная от api/trade/data/stats
+Evasion/Energy Shield	Уклонение/Энергетический щит
+Exerted/Boosted calc mode	Режим расчёта усиления/подпитки
+Exerted/Boosted calc mode:	Режим расчёта усиления/подпитки:
+Explosions /s	Взрывов/с
+Fortified	Укреплён
+Generic Flask Charges/s	Зарядов любых флаконов/с
+Ghastly Eye Jewel	Самоцвет призрачного глаза
+League: Allflame	Лига: Всепламень
+Limited to: 1 Historic	Ограничение: 1 историческая
+Implicits: 0	Неявные свойства: 0
+Subjugating	Подчиняющий
+Go to Import/Export Build tab and select a character first.	Перейдите на вкладку «Импорт/экспорт билда» и сначала выберите персонажа.
+Golden	Золотой
+Guardian/Pinnacle Boss	Защитник/Финальный босс
+Hexproof	Защита от проклятий
+Hypnotic Eye Jewel	Самоцвет гипнотического глаза
+League: Allflame	Лига: Всепламень
+Limited to: 1 Historic	Ограничение: 1 историческая
+Implicits: 0	Неявные свойства: 0
+Subjugating	Подчиняющий
+Igniting	Поджигающий
+Impale + Hit DPS	Прокол + DPS удара
+Import/Export Build	Импорт/экспорт билда
+Improved	Улучшенный
+Indigo	Индиго
+Insane	Безумный
+Life Flask Charges/s	Зарядов флакона здоровья/с
+Life Leech/Gain per Hit	Похищение/получение здоровья за удар
+Life Leech/On Hit Rate	Скорость похищения здоровья/при ударе
+Life leech	Похищение здоровья
+Life regen	Регенерация здоровья
+Mana Flask Charges/s	Зарядов флакона маны/с
+Mana Leech/Gain per Hit	Похищение/получение маны за удар
+Mana Leech/On Hit Rate	Скорость похищения маны/при ударе
+Mana leech	Похищение маны
+Mana regen	Регенерация маны
+Manage trees... (ctrl-m)	Управление древами... (ctrl-m)
+Marked	Помеченный
+Melee avoid chance	Шанс избежать ближнего боя
+Minion Armour	Броня приспешников
+Minion Attack/Cast Speed	Скорость атаки/сотворения приспешников
+Minion Bleed Chance	Шанс кровотечения приспешников
+Minion Block Chance	Шанс блока приспешников
+Minion Crit Chance	Шанс крит. удара приспешников
+Minion Crit Multiplier	Множитель крит. удара приспешников
+Minion Eff. Maximum Hit Taken	Эфф. макс. получаемый удар приспешников
+Minion Effective Hit Pool	Эффективный запас удара приспешников
+Minion Energy Shield	Энергетический щит приспешников
+Minion Energy Shield leech	Похищение энергетического щита приспешников
+Minion Energy Shield regen	Регенерация энергетического щита приспешников
+Minion Evasion	Уклонение приспешников
+Minion Freeze Chance	Шанс заморозки приспешников

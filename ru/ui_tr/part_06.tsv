@@ -1,0 +1,403 @@
+This option sets whether or not the enemy has hit you with	Эта опция определяет, попал ли по вам враг с
+This overrides the default enemy level used to estimate your hit and	Переопределяет уровень врага по умолчанию, используемый для оценки попадания и
+This part of the hit drains the following resources	Эта часть удара истощает следующие ресурсы
+This sets the import button to append to the current party lists instead of replacing them (curses will still replace)	Кнопка импорта будет добавлять к текущим спискам групп вместо их замены (проклятия всё равно заменят)
+This skill is requires you to be phasing	Для этого умения нужно находиться в фазовом сдвиге
+This skill is supported by more than one trigger	Это умение поддерживается более чем одним триггером
+This skill requires a Shield	Для этого умения нужен щит
+This skill requires a Staff	Для этого умения нужен посох
+This skill requires reserving Mana	Для этого умения нужно резервировать ману
+This slider controls the weight of the following stat	Этот ползунок задаёт вес следующей характеристики
+This socket group cannot be deleted as it is created by an equipped item.	Эту группу гнёзд нельзя удалить: она создана экипированным предметом.
+This will allow the skill to benefit from modifiers on the item that affect socketed gems.	Позволяет умению получать выгоду от свойств предмета, влияющих на вставленные камни.
+This will enable the Acceleration Shrine buff.\n\t50% increased Action Speed\n\t80% increased Projectile Speed	Включает эффект Алтаря скорости.\n\t50% повышение скорости действий\n\t80% повышение скорости снарядов
+This will enable the Adrenaline buff, which grants	Включает эффект Адреналина, дающий
+This will enable the Alchemist's Genius buff	Включает эффект Гениальности алхимика
+This will enable the Blood Shrine of Bats buff.\n\tCurse Enemies with Enfeeble on Hit\n\tYou can apply an additional Curse	Включает эффект Кровавого алтаря летучих мышей.\n\tПроклинает врагов Слабостью при ударе\n\tВы можете наложить ещё одно проклятие
+This will enable the Blood Shrine of Crows buff.\n\t+50% to Chaos Resistance\n\t10% of Elemental Damage taken as Chaos Damage\n\t10% of Physical Damage taken as Chaos Damage	Включает эффект Кровавого алтаря воронов.\n\t+50% к сопротивлению хаосу\n\t10% урона от стихий получается как урон хаосом\n\t10% физического урона получается как урон хаосом
+This will enable the Blood Shrine of Locusts buff.\n\t+30% to Damage over Time Multiplier	Включает эффект Кровавого алтаря саранчи.\n\t+30% к множителю урона с течением времени
+This will enable the Blood Shrine of Rats buff.\n\tGain 30% of Elemental Damage as Extra Chaos Damage	Включает эффект Кровавого алтаря крыс.\n\tПолучение 30% урона от стихий как дополнительного урона хаосом
+This will enable the Blood Shrine of Toads buff.\n\tExplosive Toad has an additional 25% chance to Trigger when you kill an Enemy	Включает эффект Кровавого алтаря жаб.\n\tВзрывная жаба с дополнительным шансом 25% сработать при убийстве врага
+This will enable the Brutal Shrine buff.\n\t50% increased Damage\n\tKnocks Enemies Back on Hit\n\t30% increased Stun Duration on Enemies	Включает эффект Алтаря свирепости.\n\t50% повышение урона\n\tОтбрасывает врагов при ударе\n\t30% повышение длительности оглушения врагов
+This will enable the Diamond Shrine buff.\n\tAll hits are Critical Strikes	Включает эффект Алтаря алмазов.\n\tВсе удары наносят критический урон
+This will enable the Divine Shrine buff.\n\tCannot be Damaged	Включает эффект Алтаря богоподобия.\n\tНевозможно получить урон
+This will enable the Divinity buff, which grants	Включает эффект Божественности, дающий
+This will enable the Echoing Shrine buff.\n\t100% more Attack Speed\n\t100% more Cast Speed\n\tSkills Repeat an additional Time	Включает эффект Алтаря отражений.\n\t100% больше скорости атаки\n\t100% больше скорости сотворения чар\n\tУмения повторяются дополнительный раз
+This will enable the Fanaticism buff itself. (Grants 75% more cast speed, reduced skill cost, and increased area of effect)	Включает сам эффект Фанатичности. (Даёт 75% больше скорости сотворения чар, сниженную стоимость умений и повышенную область действия)
+This will enable the Gloom Shrine buff.\n\tGain 10% of Non-	Включает эффект Алтаря мрака.\n\tПолучение 10% урона от не-
+This will enable the Greater Freezing Shrine buff.\n\tGain 30% of Physical Damage as Extra	Включает эффект Большого алтаря стужи.\n\tПолучение 30% физического урона как дополнительного
+This will enable the Greater Shocking Shrine buff.\n\tGain 30% of Physical Damage as Extra	Включает эффект Большого алтаря шока.\n\tПолучение 30% физического урона как дополнительного
+This will enable the Greater Skeletal Shrine buff.\n\tGain 30% of Physical Damage as Extra	Включает эффект Большого алтаря скелетов.\n\tПолучение 30% физического урона как дополнительного
+This will enable the Impenetrable Shrine buff.\n\t100% increased Armour\n\t100% increased	Включает эффект Алтаря неуязвимости.\n\t100% повышение брони\n\t100% повышение
+This will enable the Lesser Acceleration Shrine buff.\n\t10% increased Action Speed\n\t30% increased Projectile Speed	Включает эффект Малого алтаря скорости.\n\t10% повышение скорости действий\n\t30% повышение скорости снарядов
+This will enable the Lesser Brutal Shrine buff.\n\t20% increased Damage\n\tKnocks Enemies Back on Hit\n\t20% increased Stun Duration on Enemies	Включает эффект Малого алтаря свирепости.\n\t20% повышение урона\n\tОтбрасывает врагов при ударе\n\t20% повышение длительности оглушения врагов
+This will enable the Lesser Impenetrable Shrine buff.\n\t50% increased Armour\n\t50% increased	Включает эффект Малого алтаря неуязвимости.\n\t50% повышение брони\n\t50% повышение
+This will enable the Lesser Massive Shrine buff.\n\t10% increased Character Size\n\t20% increased Area of Effect\n\t20% increased maximum	Включает эффект Малого алтаря величия.\n\t10% повышение размера персонажа\n\t20% повышение области действия\n\t20% повышение максимума
+This will enable the Lesser Replenishing Shrine buff.\n\t100% increased	Включает эффект Малого алтаря восполнения.\n\t100% повышение
+This will enable the Lesser Resistance Shrine buff.\n\t+25% to all Elemental Resistances\n\t+2% to all maximum Resistances	Включает эффект Малого алтаря выдержки.\n\t+25% ко всем сопротивлениям стихиям\n\t+2% ко всем максимальным сопротивлениям
+This will enable the Massive Shrine buff.\n\t30% increased Character Size\n\t40% increased Area of Effect\n\t40% increased maximum	Включает эффект Алтаря величия.\n\t30% повышение размера персонажа\n\t40% повышение области действия\n\t40% повышение максимума
+This will enable the Replenishing Shrine buff.\n\t200% increased	Включает эффект Алтаря восполнения.\n\t200% повышение
+This will enable the Resistance Shrine buff.\n\t+50% to all Elemental Resistances\n\t+10% to all maximum Resistances	Включает эффект Алтаря выдержки.\n\t+50% ко всем сопротивлениям стихиям\n\t+10% ко всем максимальным сопротивлениям
+This will enable the Resonating Shrine buff.\n\t20% chance to gain a Power, Frenzy or Endurance Charge on Hit\n\t60% chance to gain a Power, Frenzy or Endurance Charge on Kill\n\t+1 to Maximum Power Charges\n\t+1 to Maximum Frenzy Charges\n\t+1 to Maximum Endurance Charges	Включает эффект Алтаря резонанса.\n\t20% шанс получить заряд мощи, неистовства или стойкости при ударе\n\t60% шанс получить заряд мощи, неистовства или стойкости при убийстве\n\t+1 к максимуму зарядов мощи\n\t+1 к максимуму зарядов неистовства\n\t+1 к максимуму зарядов стойкости
+This will override the number of Mines per throw	Переопределяет количество копей за бросок
+This will override the number of Traps per throw	Переопределяет количество ловушек за бросок
+Thousands separator	Разделитель тысяч
+Threshold	Порог
+Throwing rate	Скорость броска
+Throwing time	Время броска
+Thrusting	Колющий удар
+Tier	Уровень
+Tiers	Уровни
+Time before death	Время до смерти
+Time spent stationary	Время без движения
+Time to Gain Max Seals	Время набора макс. печатей
+Time to reach cap	Время до достижения предела
+Time to reach max	Время до достижения максимума
+Timeless	Вневременной
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 Исторический
+Has Alt Variant: true	Есть альт. вариант: да
+Has Alt Variant Two: true	Есть альт. вариант 2: да
+Variant: Avarius (Power of Purpose)	Вариант: Avarius (Power of Purpose)
+Variant: Dominus (Inner Conviction)	Вариант: Dominus (Inner Conviction)
+Variant: Maxarius (Transcendence)	Вариант: Maxarius (Transcendence)
+Variant: Totem Damage	Вариант: урон тотемов
+Variant: Brand Damage	Вариант: урон клейм
+Variant: Channelling Damage	Вариант: урон поддерживаемых умений
+Variant: Area Damage	Вариант: урон по области
+Variant: Elemental Damage	Вариант: урон от стихий
+Variant: Elemental Resistances	Вариант: сопротивления стихиям
+Variant: Effect of non-Damaging Ailments	Вариант: эффект неурезающих недугов
+Variant: Elemental Ailment Duration	Вариант: длительность стихийных недугов
+Variant: Duration of Curses	Вариант: длительность проклятий
+Variant: Minion Attack and Cast Speed	Вариант: скорость атаки и сотворения чар приспешников
+Variant: Minions Accuracy Rating	Вариант: меткость приспешников
+Variant: Mana Regen	Вариант: восстановление маны
+Variant: Mana Cost (legacy)	Вариант: стоимость маны (устар.)
+Variant: Non-Curse Aura Effect	Вариант: эффект аур, не являющихся проклятиями
+Variant: Defences from Shield	Вариант: защита от щита
+Variant: Mana Cost Efficiency	Вариант: эффективность затрат маны
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 Исторический
+Variant: Asenath (Dance with Death)	Вариант: Asenath (Dance with Death)
+Variant: Nasima (Second Sight)	Вариант: Nasima (Second Sight)
+Variant: Balbala (The Traitor)	Вариант: Balbala (The Traitor)
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 Исторический
+Variant: Cadiro (Supreme Decadence)	Вариант: Cadiro (Supreme Decadence)
+Variant: Victario (Supreme Grandstanding)	Вариант: Victario (Supreme Grandstanding)
+Variant: Caspiro (Supreme Ostentation)	Вариант: Caspiro (Supreme Ostentation)
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 Исторический
+Variant: Doryani (Corrupted Soul)	Вариант: Doryani (Corrupted Soul)
+Variant: Xibaqua (Divine Flesh)	Вариант: Xibaqua (Divine Flesh)
+Variant: Ahuana (Immortal Ambition)	Вариант: Ahuana (Immortal Ambition)
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 Исторический
+Variant: Kaom (Strength of Blood)	Вариант: Kaom (Strength of Blood)
+Variant: Rakiata (Tempered by War)	Вариант: Rakiata (Tempered by War)
+Variant: Akoya (Chainbreaker)	Вариант: Akoya (Chainbreaker)
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 Исторический
+Variant: Vorana (Black Scythe Training)	Вариант: Vorana (Black Scythe Training)
+Variant: Uhtred (Celestial Mathematics)	Вариант: Uhtred (Celestial Mathematics)
+Variant: Medved (The Unbreaking Circle)	Вариант: Medved (The Unbreaking Circle)
+Selected Variant:	Выбранный вариант:
+Tincture Cooldown when deactivated	Перезарядка микстуры при деактивации
+Tincture Limit	Лимит микстур
+Tincture effect modifier	Модификатор эффекта микстуры
+Tip	Подсказка
+To import a build, enter URL or code here	Чтобы импортировать билд, введите здесь URL или код
+To reach this node by a different path, hold Shift, then trace the path and click this node	Чтобы дойти до этого узла другим путём, удерживайте Shift, проведите путь и щёлкните по узлу
+To start importing a character, enter the character's account name	Чтобы начать импорт персонажа, введите имя его аккаунта
+Toggling this	Переключение этого
+Token refresh failed	Не удалось обновить токен
+Too many sockets!	Слишком много гнёзд!
+Tooltip	Подсказка
+Total	Всего
+Total Allied Energy shield	Всего энергощита союзников
+Total Base	Всего базово
+Total Bleed DPS	Всего DPS от кровотечения
+Total DPS	Общий DPS
+Total DPS inc. Bleed	Общий DPS с кровотечением
+Total DPS inc. DoT	Общий DPS с DoT
+Total DPS inc. Ignite	Общий DPS с поджогом
+Total DPS inc. Impale	Общий DPS с проколом
+Total DPS inc. Poison	Общий DPS с отравлением
+Total Damage per Bleed	Общий урон за кровотечение
+Total Damage per Ignite	Общий урон за поджог
+Total Damage per Poison	Общий урон за отравление
+Total Degen	Всего деградации
+Total DoT DPS	Общий DPS от DoT
+Total Echoes of Creation damage taken per Attack	Общий урон Отголосков сотворения за атаку
+Total Effective Dot Pool	Всего эффективного запаса для DoT
+Total Energy Shield Degen	Общая деградация энергощита
+Total Explode Chance	Общий шанс взрыва
+Total Increased	Всего повышено
+Total Life	Всего здоровья
+Total Life Degen	Всего потеря здоровья
+Total Mana	Всего маны
+Total Mana Degen	Всего потеря маны
+Total Minimum Weight	Суммарный минимальный вес
+Total Mirage DPS	Общий DPS миража
+Total More	Всего больше
+Total Multiplier	Общий множитель
+Total Net Recovery	Общее чистое восстановление
+Total Poison DPS	Общий DPS отравления
+Total Pool	Общий запас
+Total Price	Общая цена
+Total Recoverable	Всего восстанавливаемо
+Total Scorch	Всего ожога
+Total Sentinel of Radiance Life	Общее здоровье Стража света
+Total Shock	Всего электрошока
+Total Spectre Life	Общее здоровье Иллюзии
+Total Spectre Life override	Переопределение общего здоровья Иллюзии
+Total Stone Golem Life	Общее здоровье Каменного голема
+Total Storm Secret damage taken per Herald of Thunder Hit	Общий урон Грозовой тайны за удар Вестника грома
+Total Vaal Rejuvenation Totem Life	Общее здоровье Восполняющего тотема ваал
+Total Void Spawn Life	Общее здоровье Порождения пустоты
+Total Void Spawn Life override	Переопределение общего здоровья Порождения пустоты
+Total Wisp DPS	Общий DPS огонька
+Total damage	Общий урон
+Total damage from the enemy	Общий урон от врага
+Total damage taken after mitigation	Общий получаемый урон после смягчения
+Total damage taken from the enemy after taken as	Общий получаемый урон от врага после преобразования
+Total from	Всего от
+Total leeched per instance	Всего похищено за раз
+Total life protected	Всего защищено здоровья
+TotalDPS	TotalDPS
+TotalEHP	TotalEHP
+Totem Ally	Союзный тотем
+Totem Armour	Броня тотема
+Totem Block Chance	Шанс блока тотема
+Totem Chaos Res	Сопр. хаосу тотема
+Totem Cold Res	Сопр. холоду тотема
+Totem Dur. Mod	Мод. длит. тотема
+Totem Duration	Длительность тотема
+Totem ES	ЭЩ тотема
+Totem Fire Res	Сопр. огню тотема
+Totem Life	Здоровье тотема
+Totem Life Mod	Мод. здоровья тотема
+Totem Light. Res	Сопр. молнии тотема
+Totem Place Time	Время установки тотема
+Totem Placement Time	Время установки тотема
+Totem level	Уровень тотема
+Totem modifiers	Свойства тотема
+Totems Summoned	Призвано тотемов
+Trade for these items	Обмен на эти предметы
+Trader	Торговец
+Transfiguration of Body	Трансфигурация тела
+Transfiguration of Mind	Трансфигурация разума
+Transfiguration of Soul	Трансфигурация души
+Trap Cooldown	Перезарядка ловушки
+Trap Throw Rate	Скорость броска ловушки
+Trap Throw Time	Время броска ловушки
+Trap Throwing Time	Время броска ловушки
+Trap Trigg. Radius	Радиус срабатывания ловушки
+Trauma per second before increased Attack Speed	Травма в секунду до повышения скорости атаки
+Tree	Древо
+Tree Converted	Древо преобразовано
+Tree set	Набор древа
+Tree version	Версия древа
+Trending	В тренде
+Trigger Rate Cap	Предел частоты срабатывания
+Trigger rate	Частота срабатывания
+Triggered	Сработало
+Triggered by a Crit from The Saviour	Срабатывает от крит. удара Спасителя
+Triggered on Death	Срабатывает при смерти
+Triggered skill	Сработавшее умение
+Triggered skill has no base cooldown	У сработавшего умения нет базовой перезарядки
+Turbulent	Бурный
+Turbulent (Elemental)	Бурный (стихийный)
+Tvalue Override (ms)	Переопределение Tvalue (мс)
+Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues	Tvalue в миллисекундах. Переопределяет Tvalue данного умения, например, с фиксированным или изменённым Tvalue
+Two Handed	Двуручное
+Two Handed Melee	Двуручное ближнего боя
+Two%-Toned	Двухцветный
+Type	Тип
+UI scaling override	Переопределение масштаба интерфейса
+URL is valid (	URL корректен (
+Uber	Убер
+Uber Lab	Убер-лабиринт
+Uber Pinnacle Boss	Убер-босс пинакла
+Uhtred (Celestial Mathematics)	Uhtred (Celestial Mathematics)
+Ulaman (Weighted Exchange)	Ulaman (Weighted Exchange)
+Unaffected by	Не подвержен
+Unallocating this node and all nodes depending on it will give you	Если отменить выделение этого узла и всех зависящих от него, вы получите
+Unallocating this node will give you	Если отменить выделение этого узла, вы получите
+Unbuffed	Без баффов
+Uncompressed jewel data is up-to-date, loading	Несжатые данные самоцветов актуальны, загрузка
+Unencumbered	Не обременён
+Unexciting	Неинтересный
+Unexpected # of tokens found for mod	Неожиданное число токенов для свойства
+Unhandled 'replace' ID	Необработанный ID 'replace'
+Unhandled Abyss component ID	Необработанный ID компонента Бездны
+Unhandled Glorious Vanity headerSize	Необработанный headerSize Славной суеты
+Unhandled Mod Type	Необработанный тип свойства
+Unhandled OP	Необработанный OP
+Unholy Trinity	Нечестивая троица
+Unicode support detected	Обнаружена поддержка Unicode
+Unique ID	Уникальный ID
+Unique Map Modifiers	Уникальные свойства карт
+Uniques loaded	Уникальные предметы загружены
+Unknown Abyss timeless jewel format	Неизвестный формат вневременного самоцвета Бездны
+Unknown Item	Неизвестный предмет
+Unknown Passive Tree Version	Неизвестная версия древа пассивных умений
+Unknown drop-restricted mod id	Неизвестный ID свойства с ограничением выпадения
+Unknown error	Неизвестная ошибка
+Unlinked Item Sockets	Несвязанные гнёзда предмета
+Unlucky	Невезучий
+Unmitigated %	Несмягчённый %
+Unnamed build	Безымянный билд
+Unnerved	Встревоженный
+Unnerved enemies take 10% increased Spell Damage.	Встревоженные враги получают 10% повышенного урона от чар.
+Unobtainable	Недоступно
+Unparsable Header	Не удалось разобрать заголовок
+Unrecognised base in imported item	Неопознанная база в импортированном предмете
+Unrecognised gem name '	Неопознанное название камня '
+Unreleased	Не выпущено
+Unreserved	Не зарезервировано
+Unreserved Life	Незарезервированное здоровье
+Unreserved Mana	Незарезервированная мана
+Unreserved life	Незарезервированное здоровье
+Unreserved$	Не зарезервировано$
+Unstable (Critical)	Нестабильный (критический)
+Untyped	Без типа
+Unused Items	Неиспользуемые предметы
+Update Available	Доступно обновление
+Update Available\nAn update has been downloaded and is ready\nto be applied.	Доступно обновление\nОбновление загружено и готово\nк применению.
+Update Ready	Обновление готово
+Update check failed	Не удалось проверить обновления
+Update failed	Обновление не удалось
+Update is ready.	Обновление готово.
+Upgraded from	Улучшено из
+Uptime	Время действия
+Uptime Scaled	Время действия с масштабированием
+Uptime Scaled Autoexertion Support	Поддержка автоподачи с масштабированием по времени действия
+Uptime Scaled Echoes of Creation	Отголоски сотворения с масштабированием по времени действия
+Uptime Scaled Exerted Attack Damage	Урон подпитанных атак с масштабированием по времени действия
+Uptime Scaled Exerted Attacks	Подпитанные атаки с масштабированием по времени действия
+Use Offhand Weapon Attack Speed	Использовать скорость атаки оружия второй руки
+Use specific base	Использовать конкретную базу
+Use system default	Использовать системное значение
+Use this option to disable the skill reservation factoring into eHP calculations	Отключает учёт резервирования умений в расчётах eHP
+Use this to override the count if you do not have all your minions summoned	Используйте, чтобы переопределить число, если у вас призваны не все приспешники
+Use this to override the count if you do not have all your permanent minions summoned	Используйте, чтобы переопределить число, если у вас призваны не все постоянные приспешники
+Used a Ruby Flask recently?	Недавно использовали рубиновый флакон?
+Used a Sapphire Flask recently?	Недавно использовали сапфировый флакон?
+Used a Topaz Flask recently?	Недавно использовали топазовый флакон?
+Used a Warcry in the past 8 seconds?	Использовали боевой клич за последние 8 секунд?
+Used an Amethyst Flask recently?	Недавно использовали аметистовый флакон?
+Used by Sacred Wisps	Используется Священными огоньками
+Used by Tawhoa's Chosen	Используется Избранными Тавы
+Used by mirage	Используется миражем
+Used to fill in defaults for specific boss skills if the boss config is not set	Используется для значений по умолчанию для умений конкретных боссов, если конфигурация босса не задана
+	
+Bosses' damage is modified by roll range configuration, defaulted at a 70% roll, at the normal monster level for your character level (capped at 85)	Урон боссов меняется в зависимости от диапазона значений, по умолчанию 70%, на обычном уровне монстра для уровня вашего персонажа (максимум 85)
+Fill in the exact damage numbers if more precision is needed	Укажите точные значения урона, если нужна большая точность
+User settings path cannot be loaded	Не удаётся загрузить путь к пользовательским настройкам
+Uses Lua pattern matching for complex searches.\nPrefix your search with \"oil	Использует поиск по шаблонам Lua для сложных запросов.\nНачните запрос с \"oil
+Uses per second	Применений в секунду
+Using	Используется
+Using Fallback Error while fetching league list	Используется запасной вариант. Ошибка при получении списка лиг
+Using Main Hand Accuracy due to Mastery	Используется меткость основной руки из-за Мастерства
+Utility Flasks gain # Charges every 3 seconds	Полезные флаконы получают # зарядов каждые 3 секунды
+VAR BOLD	VAR BOLD
+Vaal Molten Shell reflects damage to the enemy,\nbased on the amount of damage it has mitigated in the last second.	Расплавленный панцирь ваал отражает урон врагу\nв зависимости от урона, смягчённого за последнюю секунду.
+Vaal Rejuv. Totem	Восполн. тотем ваал
+Vaal Rejuvenation Totem Life override	Переопределение здоровья Восполняющего тотема ваал
+Validating auth token	Проверка токена авторизации
+Variant	Вариант
+Variants	Варианты
+Veiled mod	Свойство завесы
+Version	Версия
+Version history	История версий
+Very Unlucky	Очень невезучий
+Vestigial	Реликт
+Victario (Supreme Grandstanding)	Victario (Supreme Grandstanding)
+View Skill Details	Просмотр сведений об умении
+Vixen's Curse	Проклятие Виксен
+Vixen's calculation mode for Doom Blast is selected but you do not have Vixen's Entrapment Embroidered Gloves equipped	Режим расчёта Виксен для Рокового взрыва выбран, но у вас не надеты перчатки Западня Виксена
+Void Spawn Ally	Союзное Порождение пустоты
+Void Spawns	Порождения пустоты
+Vorana (Black Scythe Training)	Vorana (Black Scythe Training)
+Vulnerability self-only	Беззащитность только на себя
+Warcries have infinite power	Боевые кличи имеют бесконечную мощь
+Warcry Cast Time	Время сотворения боевого клича
+Warcry Effect Mod	Мод. эффекта боевого клича
+Warcry Power	Мощь боевого клича
+Warcry Skills	Умения боевого клича
+Ward?	Барьер?
+Wasting Touch Stacks	Стаки Изнуряющего касания
+Wave Pulse Rate	Частота пульсации волны
+Weapon 1	Оружие 1
+Weapon 1 (Swap)	Оружие 1 (смена)
+Weapon 1 Swap	Оружие 1, смена
+Weapon 2	Оружие 2
+Weapon 2 (Swap)	Оружие 2 (смена)
+Weapon 2 Swap	Оружие 2, смена
+Weapon 3	Оружие 3
+Weapon Range	Дальность оружия
+Weapon Set	Набор оружия
+Weapon Types Need to be Different	Типы оружия должны различаться
+Weapon2	Оружие2
+When In Combat	В бою
+When enabled, an estimate of the offensive and defensive strength of\neach unallocated passive is calculated and displayed visually.\nOffensive power shows as	Если включено, оценивается сила каждого нераспределённого пассивного умения (атакующая и защитная) и отображается визуально.\nАтакующая сила показана как
+When enabled, the mana spent by Arcane Cloak used at full mana \nwill be added to the value provided in # of	Если включено, мана, потраченная Чародейским покровом при полной мане,\nбудет добавлена к значению в # из
+When in slot #	В слоте #
+Whether talisman enchant mods should be included. Disabled by default due to the maximum filter limit.	Учитывать ли свойства зачарования талисманов. По умолчанию отключено из-за максимального лимита фильтра.
+While ensnared, enemies take increased Projectile Damage from Attack Hits\nEnsnared enemies always count as moving, and have less movement speed while trying to break the snare.	Пока враги опутаны, они получают повышенный урон от атак снарядами.\nОпутанные враги всегда считаются движущимися и имеют сниженную скорость движения при попытке вырваться.
+Whisper for	Whisper for
+Wither Effect	Эффект Увядания
+Withered applies 6% increased	Истощение даёт 6% повышение
+Xbox	Xbox
+Xibaqua (Divine Flesh)	Xibaqua (Divine Flesh)
+You are exceeding jewel limit with the jewel	Вы превышаете лимит самоцветов с самоцветом
+You are trying to load a build created for a version of Path of Exile that is	Вы пытаетесь загрузить билд, созданный для версии Path of Exile, которая
+not supported by us. You will have to convert it to the current game version to load it.	не поддерживается. Нужно преобразовать его в текущую версию игры.
+To use a build newer than the current supported game version, you may have to update.	Чтобы использовать билд новее поддерживаемой версии игры, возможно, нужно обновить программу.
+To use a build older than the current supported game version, we recommend loading it	Чтобы использовать билд старше поддерживаемой версии игры, лучше загрузить его
+in an older version of Path of Building Community instead.	в более старой версии Path of Building Community.
+You can apply 1 additional Curses	Вы можете наложить на 1 проклятие больше
+You can apply an additional Curse	Вы можете наложить ещё одно проклятие
+You can be considered to be on Full	Считается, что вы на полном
+You can click to select a row so that search begins from there.	Можно щёлкнуть по строке, чтобы поиск начался с неё.
+You can drag items from the Items tab onto this dropdown to equip them onto the minion.	Можно перетащить предметы со вкладки «Предметы» на этот список, чтобы экипировать их на приспешника.
+You can't deal	Вы не можете наносить
+You cannot add support gems to this group, but support gems in	Вы не можете добавлять камни поддержки в эту группу, но камни поддержки в
+any other group socketed into	любой другой группе, вставленной в
+You do not have enough	Вам не хватает
+You do not have enough Accuracy for Precise Technique	Вам не хватает меткости для Безупречного приёма
+You do not meet the Dexterity requirement of	Вы не соответствуете требованию по ловкости:
+You do not meet the Intelligence requirement of	Вы не соответствуете требованию по интеллекту:
+You do not meet the Omniscience requirement of	Вы не соответствуете требованию по всезнанию:
+You do not meet the Strength requirement of	Вы не соответствуете требованию по силе:
+You have 1% less damage taken from hits per stack of fortification	Вы получаете на 1% меньше урона от ударов за стак укрепления
+You have eligible items missing an anoint	У вас есть подходящие предметы без помазания
+You have more than one Aspect skill active	Активно более одного умения Аспекта
+You have too many ascendancy points allocated	Распределено слишком много очков вознесения
+You have too many gems in your	У вас слишком много камней в
+You have too many passive points allocated	Распределено слишком много пассивных очков
+You have too many secondary ascendancy points allocated	Распределено слишком много дополнительных очков вознесения
+You may have too much cast speed or too little cooldown reduction to effectively use Vixen's Curse replacement	Возможно, у вас слишком большая скорость сотворения чар или слишком малое снижение перезарядки для эффективного использования замены Проклятия Виксен
+You must log in to use the search feature	Для использования поиска нужно войти в аккаунт
+You will automatically be considered to be Channeling if your main skill is a channelled skill,\nbut you can use this option to force it if necessary.	Вы автоматически считаетесь поддерживающим, если ваше основное умение поддерживаемое,\nно можно включить эту опцию принудительно.
+You will automatically be considered to be Leeching if you have '	Вы автоматически считаетесь похищающим, если у вас есть '
+You will automatically be considered to be on Low	Вы автоматически считаетесь находящимся на низком
+You will automatically be considered to have Hit Recently if your main skill Hits and is self-cast,\nbut you can use this option to force it if necessary.	Вы автоматически считаетесь недавно попавшим, если ваше основное умение наносит удары и применяется самим персонажем,\nно можно включить эту опцию принудительно.
+You will automatically be considered to have Summoned a Totem Recently if your main skill is a Totem,\nbut you can use this option to force it if necessary.	Вы автоматически считаетесь недавно призвавшим тотем, если ваше основное умение — тотем,\nно можно включить эту опцию принудительно.
+You will automatically be considered to have a Totem if your main skill is a Totem,\nbut you can use this option to force it if necessary.	Вы автоматически считаетесь имеющим тотем, если ваше основное умение — тотем,\nно можно включить эту опцию принудительно.
+You will automatically be considered to have unbroken	Вы автоматически считаетесь имеющим непрерванный
+Your	Ваш
+Your Absolution Skill Damage will not be scaled with Count setting.\nBy default it multiplies both minion count and skill hit count which leads to incorrect\nTotal DPS calculation since Absolution cannot inherently shotgun.\nDo not enable if you use Spell Totem support, Spell Cascade support or similar supports	Урон умения «Отпущение» не будет масштабироваться настройкой «Количество».\nПо умолчанию она умножает и число приспешников, и число ударов умения, что даёт неверный\nобщий DPS, так как «Отпущение» не может бить картечью.\nНе включайте, если используете поддержку Чарного тотема, Каскада чар или похожие поддержки

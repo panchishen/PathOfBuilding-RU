@@ -1,0 +1,384 @@
+Minion Ignite Chance	Приспешник: Шанс поджога
+Minion Life leech	Приспешник: Похищение здоровья
+Minion Life regen	Приспешник: Регенерация здоровья
+Minion Mana	Приспешник: Мана
+Minion Mana leech	Приспешник: Похищение маны
+Minion Mana regen	Приспешник: Регенерация маны
+Minion Melee avoid chance	Приспешник: Шанс избежать ближнего боя
+Minion Move speed	Приспешник: Скорость передвижения
+Minion Projectile avoid chance	Приспешник: Шанс избежать снарядов
+Minion Recoverable ES	Приспешник: Восстанавливаемый ЭЩ
+Minion Shock Chance	Приспешник: Шанс электрошока
+Minion Spell Block Chance	Приспешник: Шанс блока чар
+Minion Spell Suppression Chance	Приспешник: Шанс подавления чар
+Minion Spell avoid chance	Приспешник: Шанс избежать чар
+Minion Taken Chaos dmg	Приспешник: Получаемый урон хаосом
+Minion Taken Cold dmg	Приспешник: Получаемый урон от холода
+Minion Taken Fire dmg	Приспешник: Получаемый урон от огня
+Minion Taken Lightning dmg	Приспешник: Получаемый урон от молнии
+Minion Taken Phys dmg	Приспешник: Получаемый физический урон
+Minion Total Attributes	Приспешник: Всего характеристик
+Minion Ward	Приспешник: Барьер
+Move speed	Скорость передвижения
+Murderous Eye Jewel	Самоцвет кровожадного глаза
+League: Allflame	Лига: Всепламень
+Limited to: 1 Historic	Ограничение: 1 историческое
+Implicits: 0	Неявные свойства: 0
+Subjugating	Подчиняющий
+Normal Hits/Cast	Обычные удары/сотворение
+Normal gems default to their highest valid corrupted gem level.	Обычные камни по умолчанию получают наивысший допустимый уровень осквернённого камня.
+Awakened gems default to their highest valid non-corrupted gem level.	Камни Пробуждения по умолчанию получают наивысший допустимый уровень неосквернённого камня.
+Noxious	Ядовитый
+Offence/Defence	Атака/защита
+Path of Building/	Path of Building/
+Placed duration of Mine / Traps	Длительность установленных копей/ловушек
+Placed duration of Mine / Traps:	Длительность установленных копей/ловушек:
+Poison	Отравление
+Press Enter/Escape to dismiss, F4 to return to build selection, or F5 to restart the application.\nPress CTRL + C to copy error text.	Enter/Escape — закрыть, F4 — к выбору билда, F5 — перезапустить приложение.\nCTRL + C — скопировать текст ошибки.
+Projectile avoid chance	Шанс избежать снарядов
+Reduction from Double/Triple Dipped attributes to Omniscience	Снижение от дважды/трижды учтённых характеристик для Всеведения
+Reset Tree/Tattoos	Сбросить древо/татуировки
+Right click to edit the runegraft for this node	ПКМ — изменить рунограмму для этого узла
+Right click to edit the tattoo for this node	ПКМ — изменить татуировку для этого узла
+Rune	Руна
+Searching Eye Jewel	Самоцвет пытливого глаза
+League: Allflame	Лига: Всепламень
+Limited to: 1 Historic	Ограничение: 1 историческое
+Implicits: 0	Неявные свойства: 0
+Subjugating	Подчиняющий
+Sets the EHP calc to pretend its unlucky and reduce the effects of random events such as\n\tBlock/Spell Block Chance\n\tDodge/Spell Dodge Chance\n\tSpell Suppression Chance\n\tAvoidance Chance	Расчёт EHP исходит из невезения и снижает эффект случайных событий, таких как\n\tшанс блока/блока чар\n\tшанс уклонения/уклонения от чар\n\tшанс подавления чар\n\tшанс избежать урона
+Shocking	Шокирующий
+Show All / Hide Ineligible	Показать все / скрыть неподходящие
+Show Latest/Trending builds	Показать новые/популярные билды
+Silver	Серебряный
+Sort by Armour	Сортировка: Броня
+Sort by Attack/Cast Speed	Сортировка: Скорость атаки/сотворения чар
+Sort by Average Hit	Сортировка: Средний удар
+Sort by Bleed Chance	Сортировка: Шанс кровотечения
+Sort by Bleed DPS	Сортировка: DPS кровотечения
+Sort by Block Chance	Сортировка: Шанс блока
+Sort by Combined DPS	Сортировка: Суммарный DPS
+Sort by Crit Chance	Сортировка: Шанс крит. удара
+Sort by Crit Multiplier	Сортировка: Множитель крит. удара
+Sort by Dexterity	Сортировка: Ловкость
+Sort by DoT DPS	Сортировка: DPS периодического урона
+Sort by Eff. Maximum Hit Taken	Сортировка: Эфф. максимальный получаемый удар
+Sort by Effective Hit Pool	Сортировка: Эффективный запас удара
+Sort by Energy Shield	Сортировка: Энергетический щит
+Sort by Energy Shield leech	Сортировка: Похищение ЭЩ
+Sort by Energy Shield regen	Сортировка: Регенерация ЭЩ
+Sort by Evasion	Сортировка: Уклонение
+Sort by Freeze Chance	Сортировка: Шанс заморозки
+Sort by Full DPS	Сортировка: Полный DPS
+Sort by Hit DPS	Сортировка: DPS ударов
+Sort by Ignite Chance	Сортировка: Шанс поджога
+Sort by Ignite DPS	Сортировка: DPS поджога
+Sort by Impale + Hit DPS	Сортировка: DPS прокола + ударов
+Sort by Intelligence	Сортировка: Интеллект
+Sort by Life	Сортировка: Здоровье
+Sort by Life leech	Сортировка: Похищение здоровья
+Sort by Life regen	Сортировка: Регенерация здоровья
+Sort by Light Radius	Сортировка: Радиус света
+Sort by Mana	Сортировка: Мана
+Sort by Mana leech	Сортировка: Похищение маны
+Sort by Mana regen	Сортировка: Регенерация маны
+Sort by Melee avoid chance	Сортировка: Шанс избежать ближнего боя
+Sort by Minion Armour	Сортировка: Приспешник: Броня
+Sort by Minion Attack/Cast Speed	Сортировка: Приспешник: Скорость атаки/сотворения чар
+Sort by Minion Bleed Chance	Сортировка: Приспешник: Шанс кровотечения
+Sort by Minion Block Chance	Сортировка: Приспешник: Шанс блока
+Sort by Minion Crit Chance	Сортировка: Приспешник: Шанс крит. удара
+Sort by Minion Crit Multiplier	Сортировка: Приспешник: Множитель крит. удара
+Sort by Minion Eff. Maximum Hit Taken	Сортировка: Приспешник: Эфф. максимальный получаемый удар
+Sort by Minion Effective Hit Pool	Сортировка: Приспешник: Эффективный запас удара
+Sort by Minion Energy Shield	Сортировка: Приспешник: Энергетический щит
+Sort by Minion Energy Shield leech	Сортировка: Приспешник: Похищение ЭЩ
+Sort by Minion Energy Shield regen	Сортировка: Приспешник: Регенерация ЭЩ
+Sort by Minion Evasion	Сортировка: Приспешник: Уклонение
+Sort by Minion Freeze Chance	Сортировка: Приспешник: Шанс заморозки
+Sort by Minion Ignite Chance	Сортировка: Приспешник: Шанс поджога
+Sort by Minion Life	Сортировка: Приспешник: Здоровье
+Sort by Minion Life leech	Сортировка: Приспешник: Похищение здоровья
+Sort by Minion Life regen	Сортировка: Приспешник: Регенерация здоровья
+Sort by Minion Mana	Сортировка: Приспешник: Мана
+Sort by Minion Mana leech	Сортировка: Приспешник: Похищение маны
+Sort by Minion Mana regen	Сортировка: Приспешник: Регенерация маны
+Sort by Minion Melee avoid chance	Сортировка: Приспешник: Шанс избежать ближнего боя
+Sort by Minion Move speed	Сортировка: Приспешник: Скорость передвижения
+Sort by Minion Projectile avoid chance	Сортировка: Приспешник: Шанс избежать снарядов
+Sort by Minion Recoverable ES	Сортировка: Приспешник: Восстанавливаемый ЭЩ
+Sort by Minion Shock Chance	Сортировка: Приспешник: Шанс электрошока
+Sort by Minion Spell Block Chance	Сортировка: Приспешник: Шанс блока чар
+Sort by Minion Spell Suppression Chance	Сортировка: Приспешник: Шанс подавления чар
+Sort by Minion Spell avoid chance	Сортировка: Приспешник: Шанс избежать чар
+Sort by Minion Taken Chaos dmg	Сортировка: Приспешник: Получаемый урон хаосом
+Sort by Minion Taken Cold dmg	Сортировка: Приспешник: Получаемый урон от холода
+Sort by Minion Taken Fire dmg	Сортировка: Приспешник: Получаемый урон от огня
+Sort by Minion Taken Lightning dmg	Сортировка: Приспешник: Получаемый урон от молнии
+Sort by Minion Taken Phys dmg	Сортировка: Приспешник: Получаемый физический урон
+Sort by Minion Total Attributes	Сортировка: Приспешник: Всего характеристик
+Sort by Minion Ward	Сортировка: Приспешник: Барьер
+Sort by Move speed	Сортировка: Скорость передвижения
+Sort by Poison DPS	Сортировка: DPS отравления
+Sort by Projectile avoid chance	Сортировка: Шанс избежать снарядов
+Sort by Recoverable ES	Сортировка: Восстанавливаемый ЭЩ
+Sort by Shock Chance	Сортировка: Шанс электрошока
+Sort by Spell Block Chance	Сортировка: Шанс блока чар
+Sort by Spell Suppression Chance	Сортировка: Шанс подавления чар
+Sort by Spell avoid chance	Сортировка: Шанс избежать чар
+Sort by Strength	Сортировка: Сила
+Sort by Taken Chaos dmg	Сортировка: Получаемый урон хаосом
+Sort by Taken Cold dmg	Сортировка: Получаемый урон от холода
+Sort by Taken Fire dmg	Сортировка: Получаемый урон от огня
+Sort by Taken Lightning dmg	Сортировка: Получаемый урон от молнии
+Sort by Taken Phys dmg	Сортировка: Получаемый физический урон
+Sort by Total Attributes	Сортировка: Всего характеристик
+Sort by Ward	Сортировка: Барьер
+Soul	Душа
+Spectre	Призрак
+Spell avoid chance	Шанс избежать чар
+Stat Value / Price	Значение стата / цена
+Subterranean	Подземный
+Super Hits/Cast	Сверхудары/сотворение
+Taken Chaos dmg	Получаемый урон хаосом
+Taken Cold dmg	Получаемый урон от холода
+Taken Fire dmg	Получаемый урон от огня
+Taken Lightning dmg	Получаемый урон от молнии
+Taken Phys dmg	Получаемый физический урон
+The Trader feature supports two modes of operation depending on the authorization availability.	Торговец работает в двух режимах в зависимости от наличия авторизации.
+You can click this button to authorize PoB by logging in.	Нажмите эту кнопку, чтобы авторизовать PoB через вход в аккаунт.
+This controls the calculation of the stats shown in this tab.	Определяет расчёт статистики на этой вкладке.
+The stats in the sidebar are always shown in Effective DPS mode, regardless of this setting.	Статистика на боковой панели всегда показывается в режиме эффективного DPS независимо от этой настройки.
+	
+Unbuffed: No auras, buffs, or other support skills or effects will apply. This is equivalent to standing in town.	Без баффов: ауры, баффы, вспомогательные умения и эффекты не применяются. Это равносильно стоянию в городе.
+Buffed: Aura and buff skills apply. This is equivalent to standing in your hideout with auras and buffs turned on.	С баффами: ауры и умения-баффы применяются. Это равносильно стоянию в убежище с включёнными аурами и баффами.
+In Combat: Charges and combat buffs such as Onslaught will also apply. This will show your character sheet stats in combat.	В бою: также применяются заряды и боевые баффы, например Натиск. Показывает характеристики персонажа в бою.
+Effective DPS: Curses and enemy properties (such as resistances and status conditions) will also apply. This estimates your true DPS.	Эффективный DPS: также применяются проклятия и свойства врага (сопротивления, состояния). Оценивает ваш реальный DPS.
+This is a special group created for the enemy explosion effect,	Это особая группа, созданная для эффекта взрыва врага,
+which comes from the following sources:	который исходит из следующих источников:
+This menu currently contains supported mod lines from tree nodes and item modifiers only.	Сейчас это меню содержит только поддерживаемые строки модов с узлов древа и модификаторов предметов.
+	
+This menu is not a representation of what PoB can parse, and this is only a limited list of mods. Additionally, some mods might be local to items and might not function in custom modifiers.	Это меню не отражает всё, что PoB умеет разбирать, и содержит лишь ограниченный список модов. Кроме того, некоторые моды локальны для предметов и могут не работать в пользовательских модификаторах.
+	
+A mod being supported does not necessarily mean that it will be included in calculations, and only means that the mod parser accepts it.	Поддержка мода не означает, что он учитывается в расчётах, — лишь то, что парсер модов его принимает.
+This shows the advanced info like what stats each aura/curse etc are adding, as well as enables the ability to edit them without a re-export\nDo not edit any boxes unless you know what you are doing, use copy/paste or import instead	Показывает расширенную информацию, например какие статы добавляет каждая аура/проклятие, и позволяет править их без повторного экспорта\nНе меняйте поля, если не уверены в своих действиях, используйте копирование/вставку или импорт
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 историческое
+Has Alt Variant: true	Есть доп. вариант: true
+Has Alt Variant Two: true	Есть доп. вариант 2: true
+Variant: Avarius (Power of Purpose)	Вариант: Аварий (Сила цели)
+Variant: Dominus (Inner Conviction)	Вариант: Владыка (Внутренняя убеждённость)
+Variant: Maxarius (Transcendence)	Вариант: Максарий (Трансцендентность)
+Variant: Totem Damage	Вариант: урон тотемов
+Variant: Brand Damage	Вариант: урон клейм
+Variant: Channelling Damage	Вариант: урон поддерживаемых умений
+Variant: Area Damage	Вариант: урон по области
+Variant: Elemental Damage	Вариант: урон стихиями
+Variant: Elemental Resistances	Вариант: сопротивления стихиям
+Variant: Effect of non-Damaging Ailments	Вариант: эффект не наносящих урон недугов
+Variant: Elemental Ailment Duration	Вариант: длительность стихийных недугов
+Variant: Duration of Curses	Вариант: длительность проклятий
+Variant: Minion Attack and Cast Speed	Вариант: скорость атаки и сотворения чар приспешников
+Variant: Minions Accuracy Rating	Вариант: меткость приспешников
+Variant: Mana Regen	Вариант: регенерация маны
+Variant: Mana Cost (legacy)	Вариант: расход маны (устар.)
+Variant: Non-Curse Aura Effect	Вариант: эффект аур, кроме проклятий
+Variant: Defences from Shield	Вариант: защита от щита
+Variant: Mana Cost Efficiency	Вариант: эффективность расхода маны
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 историческое
+Variant: Asenath (Dance with Death)	Вариант: Асенат (Танец со смертью)
+Variant: Nasima (Second Sight)	Вариант: Насима (Второе зрение)
+Variant: Balbala (The Traitor)	Вариант: Балбала (Предатель)
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 историческое
+Variant: Cadiro (Supreme Decadence)	Вариант: Кадиро (Высшее упадничество)
+Variant: Victario (Supreme Grandstanding)	Вариант: Викторио (Высшее позёрство)
+Variant: Caspiro (Supreme Ostentation)	Вариант: Каспиро (Высшая показность)
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 историческое
+Variant: Doryani (Corrupted Soul)	Вариант: Дориани (Осквернённая душа)
+Variant: Xibaqua (Divine Flesh)	Вариант: Сибаква (Божественная плоть)
+Variant: Ahuana (Immortal Ambition)	Вариант: Ахуана (Бессмертные амбиции)
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 историческое
+Variant: Kaom (Strength of Blood)	Вариант: Каом (Сила крови)
+Variant: Rakiata (Tempered by War)	Вариант: Ракиата (Закалённая войной)
+Variant: Akoya (Chainbreaker)	Вариант: Акоя (Разрывающая цепи)
+Selected Variant:	Выбранный вариант:
+Timeless Jewel	Вневременной самоцвет
+League: Legion	Лига: Легион
+Limited to: 1 Historic	Ограничение: 1 историческое
+Variant: Vorana (Black Scythe Training)	Вариант: Ворана (Обучение Чёрной косы)
+Variant: Uhtred (Celestial Mathematics)	Вариант: Утред (Небесная математика)
+Variant: Medved (The Unbreaking Circle)	Вариант: Медвед (Несокрушимый круг)
+Selected Variant:	Выбранный вариант:
+Total Attributes	Всего характеристик
+Total Enmity's Embrace damage taken per cast/attack	Всего урона от Объятий вражды за сотворение/атаку
+Total Eye of Innocence damage taken per cast/attack	Всего урона от Ока Невинности за сотворение/атаку
+Total Heartbound Loop damage taken per cast/attack	Всего урона от Сердечной связи за сотворение/атаку
+Total Scold's Bridle damage taken per cast/attack	Всего урона от Уздечки ворчуньи за сотворение/атаку
+Total Trauma damage taken per cast/attack	Всего урона от Травмы за сотворение/атаку
+True	True
+Two-Toned Boots (Armour/Energy Shield)	Двухцветные ботинки (броня/энергетический щит)
+Two-Toned Boots (Armour/Evasion)	Двухцветные ботинки (броня/уклонение)
+Two-Toned Boots (Evasion/Energy Shield)	Двухцветные ботинки (уклонение/энергетический щит)
+Upgraded	Улучшенный
+Usage Tips:	Советы:
+- You can copy/paste socket groups using Ctrl+C and Ctrl+V.	- Группы гнёзд можно копировать и вставлять через Ctrl+C и Ctrl+V.
+- Ctrl + Click to enable/disable socket groups.	- Ctrl + клик — включить/выключить группы гнёзд.
+- Ctrl + Right click to include/exclude in FullDPS calculations.	- Ctrl + ПКМ — включить/исключить из расчёта FullDPS.
+- Right click to set as the Main skill group.	- ПКМ — назначить главной группой умений.
+Used to fill in defaults for specific boss skills if the boss config is not set	Используется для значений по умолчанию для умений конкретных боссов, если настройка босса не задана
+	
+Bosses' damage is modified by roll range configuration, defaulted at a 70% roll, at the normal monster level for your character level (capped at 85)	Урон боссов зависит от настройки диапазона значений (по умолчанию 70%) на обычном уровне монстров для уровня вашего персонажа (максимум 85)
+Fill in the exact damage numbers if more precision is needed	Укажите точные значения урона, если нужна большая точность
+Utility Flask Charges/s	Заряды вспомогательных флаконов/с
+Verdant	Зелёный
+Violet	Фиолетовый
+Weighted Sum searches will always sort using descending weighted sum	Поиск по взвешенной сумме всегда сортирует по убыванию взвешенной суммы
+Additional post filtering options can be done these include:	Доступны дополнительные варианты пост-фильтрации:
+Highest Stat Value - Sort from highest to lowest Stat Value change of equipping item	Наибольшее значение стата — от большего к меньшему изменению стата при надевании предмета
+Highest Stat Value / Price - Sorts from highest to lowest by estimated Stat Value per currency	Наибольшее значение стата / цена — от большего к меньшему по оценке значения стата на единицу валюты
+Lowest Price - Sorts from lowest to highest price of retrieved items	Наименьшая цена — от меньшей к большей цене найденных предметов
+Highest Weight - Displays the order retrieved from trade	Наибольший вес — порядок, полученный от торговли
+You are trying to load a build created for a version of Path of Exile that is	Вы пытаетесь загрузить билд, созданный для версии Path of Exile,
+not supported by us. You will have to convert it to the current game version to load it.	которая у нас не поддерживается. Чтобы загрузить его, нужно конвертировать его в текущую версию игры.
+To use a build newer than the current supported game version, you may have to update.	Чтобы использовать билд новее поддерживаемой версии игры, возможно, нужно обновить программу.
+To use a build older than the current supported game version, we recommend loading it	Чтобы использовать билд старее поддерживаемой версии игры, рекомендуем загрузить его
+in an older version of Path of Building Community instead.	в более старой версии Path of Building Community.
+You can use Ctrl +/- (or Ctrl+Scroll) to zoom in and out and Ctrl+0 to reset.	Ctrl +/- (или Ctrl+колесо) — масштаб, Ctrl+0 — сброс.
+This field also supports different colors.  Using the caret symbol (^) followed by a Hex code or a number (0-9) will set the color.	Это поле также поддерживает цвета.  Символ (^) с Hex-кодом или числом (0-9) задаёт цвет.
+Below are some common color codes PoB uses:	Ниже приведены некоторые часто используемые коды цветов PoB:
+You cannot add support gems to this group, but support gems in	В эту группу нельзя добавлять камни поддержки, но камни поддержки в
+any other group socketed into	любой другой группе, вставленной в
+[+0 (+0.7%) per	[+0 (+0.7%) за
+[+0 (+0.7%) per point]	[+0 (+0.7%) за единицу]
+[+0 (+1.0%) per	[+0 (+1.0%) за
+[+0 (+1.0%) per point]	[+0 (+1.0%) за единицу]
+[+0 (+1.1%) per	[+0 (+1.1%) за
+[+0 (+1.1%) per point]	[+0 (+1.1%) за единицу]
+[+0 (+1.2%) per	[+0 (+1.2%) за
+[+0 (+1.2%) per point]	[+0 (+1.2%) за единицу]
+[+0 (+1.3%) per	[+0 (+1.3%) за
+[+0 (+1.3%) per point]	[+0 (+1.3%) за единицу]
+[+0 (+1.4%) per	[+0 (+1.4%) за
+[+0 (+1.4%) per point]	[+0 (+1.4%) за единицу]
+[+0 per	[+0 за
+[+0 per point]	[+0 за единицу]
+[+0% per	[+0% за
+[+0% per point]	[+0% за единицу]
+[+0.0 (+2.5%) per	[+0.0 (+2.5%) за
+[+0.0 (+2.5%) per point]	[+0.0 (+2.5%) за единицу]
+[+0.0 (+2.7%) per	[+0.0 (+2.7%) за
+[+0.0 (+2.7%) per point]	[+0.0 (+2.7%) за единицу]
+[+0.0 (+3.0%) per	[+0.0 (+3.0%) за
+[+0.0 (+3.0%) per point]	[+0.0 (+3.0%) за единицу]
+[+0.0 (+4.1%) per	[+0.0 (+4.1%) за
+[+0.0 (+4.1%) per point]	[+0.0 (+4.1%) за единицу]
+[+0.0 (+4.8%) per	[+0.0 (+4.8%) за
+[+0.0 (+4.8%) per point]	[+0.0 (+4.8%) за единицу]
+[+0.0 per	[+0.0 за
+[+0.0 per point]	[+0.0 за единицу]
+[+0.1 per	[+0.1 за
+[+0.1 per point]	[+0.1 за единицу]
+[+0.2 per	[+0.2 за
+[+0.2 per point]	[+0.2 за единицу]
+[+1 (+1.1%) per	[+1 (+1.1%) за
+[+1 (+1.1%) per point]	[+1 (+1.1%) за единицу]
+[+1 (+1.2%) per	[+1 (+1.2%) за
+[+1 (+1.2%) per point]	[+1 (+1.2%) за единицу]
+[+1 (+1.4%) per	[+1 (+1.4%) за
+[+1 (+1.4%) per point]	[+1 (+1.4%) за единицу]
+[+1% per	[+1% за
+[+1% per point]	[+1% за единицу]
+[+2 (+4.0%) per	[+2 (+4.0%) за
+[+2 (+4.0%) per point]	[+2 (+4.0%) за единицу]
+[+2 (+4.1%) per	[+2 (+4.1%) за
+[+2 (+4.1%) per point]	[+2 (+4.1%) за единицу]
+[+2 (+4.3%) per	[+2 (+4.3%) за
+[+2 (+4.3%) per point]	[+2 (+4.3%) за единицу]
+[+2 (+4.4%) per	[+2 (+4.4%) за
+[+2 (+4.4%) per point]	[+2 (+4.4%) за единицу]
+[+2 (+5.2%) per	[+2 (+5.2%) за
+[+2 (+5.2%) per point]	[+2 (+5.2%) за единицу]
+[+2 (+5.5%) per	[+2 (+5.5%) за
+[+2 (+5.5%) per point]	[+2 (+5.5%) за единицу]
+[+2 (+5.8%) per	[+2 (+5.8%) за
+[+2 (+5.8%) per point]	[+2 (+5.8%) за единицу]
+[+2 (+5.9%) per	[+2 (+5.9%) за
+[+2 (+5.9%) per point]	[+2 (+5.9%) за единицу]
+[+2 (+6.1%) per	[+2 (+6.1%) за
+[+2 (+6.1%) per point]	[+2 (+6.1%) за единицу]
+[+2 (+6.2%) per	[+2 (+6.2%) за
+[+2 (+6.2%) per point]	[+2 (+6.2%) за единицу]
+[+2 (+6.3%) per	[+2 (+6.3%) за
+[+2 (+6.3%) per point]	[+2 (+6.3%) за единицу]
+[+2 (+6.4%) per	[+2 (+6.4%) за
+[+2 (+6.4%) per point]	[+2 (+6.4%) за единицу]
+[+2 (+6.8%) per	[+2 (+6.8%) за
+[+2 (+6.8%) per point]	[+2 (+6.8%) за единицу]
+[+2% per	[+2% за
+[+2% per point]	[+2% за единицу]
+[+3 (+4.4%) per	[+3 (+4.4%) за
+[+3 (+4.4%) per point]	[+3 (+4.4%) за единицу]
+[+3 (+6.1%) per	[+3 (+6.1%) за
+[+3 (+6.1%) per point]	[+3 (+6.1%) за единицу]
+[+3 (+6.4%) per	[+3 (+6.4%) за
+[+3 (+6.4%) per point]	[+3 (+6.4%) за единицу]
+[+3 (+6.5%) per	[+3 (+6.5%) за
+[+3 (+6.5%) per point]	[+3 (+6.5%) за единицу]
+[+3 (+6.7%) per	[+3 (+6.7%) за
+[+3 (+6.7%) per point]	[+3 (+6.7%) за единицу]
+[+4 (+6.1%) per	[+4 (+6.1%) за
+[+4 (+6.1%) per point]	[+4 (+6.1%) за единицу]
+[+4 (+6.4%) per	[+4 (+6.4%) за
+[+4 (+6.4%) per point]	[+4 (+6.4%) за единицу]
+[+5 per	[+5 за
+[+5 per point]	[+5 за единицу]
+[+6 per	[+6 за
+[+6 per point]	[+6 за единицу]
+area?	область?
+coins to commemorate Caspiro	монет в память о Каспиро
+Passives in radius are Conquered by the Eternal Empire	Пассивные умения в радиусе покорены Вечной империей
+Historic	Историческое
+dekhara in the akhara of Balbala	декхара в акхаре Балбалы
+Passives in radius are Conquered by the Maraketh	Пассивные умения в радиусе покорены маракетами
+Historic	Историческое
+enemy attack/cast time	время атаки/сотворения чар врага
+sacrificed in the name of Ahuana	принесено в жертву во имя Ахуаны
+Passives in radius are Conquered by the Vaal	Пассивные умения в радиусе покорены ваал
+Historic	Историческое
+songworthy deeds by the line of Medved	достойных песен деяний рода Медведа
+Passives in radius are Conquered by the Kalguur	Пассивные умения в радиусе покорены кальгуурцами
+Historic	Историческое
+souls in the thrall of Amanamu	душ во власти Аманаму
+Passives affected are Conquered by the Abyssal	Затронутые пассивные умения покорены Бездной
+Historic	Историческое
+souls in the thrall of Kurgal	душ во власти Кургала
+Passives affected are Conquered by the Abyssal	Затронутые пассивные умения покорены Бездной
+Historic	Историческое
+souls in the thrall of Tecrod	душ во власти Текрода
+Passives affected are Conquered by the Abyssal	Затронутые пассивные умения покорены Бездной
+Historic	Историческое
+souls in the thrall of Ulaman	душ во власти Уламана
+Passives affected are Conquered by the Abyssal	Затронутые пассивные умения покорены Бездной
+Historic	Историческое
+souls to phylacteries to sustain Zorath	душ в филактериях для поддержания Зората
+Passives affected are Conquered by the Abyssal	Затронутые пассивные умения покорены Бездной
+Historic	Историческое
+spent Recently:	потрачено недавно:
+warriors under Akoya	воинов под началом Акои
+Passives in radius are Conquered by the Karui	Пассивные умения в радиусе покорены каруи
+Historic	Историческое
+x %.2f (increased/reduced)	x %.2f (увеличение/уменьшение)
+x %.2f (more/less)	x %.2f (больше/меньше)

@@ -1,0 +1,514 @@
+# Carrion Golem = # Chaos Golem	# Трупный голем = # Голем хаоса
+# Chaos Golem = # Stone Golem	# Голем хаоса = # Каменный голем
+# Stone Golem = # Carrion Golem	# Каменный голем = # Трупный голем
+# of	# из
+# of Active Arrows	# активных стрел
+# of Active Spectral Tigers	# активных спектральных тигров
+# of Active Spectral Wolves	# активных спектральных волков
+# of Barkskin Stacks	# зарядов Дубовой кожи
+# of Bleeds on enemy (if not maximum)	# кровотечений на враге (если не максимум)
+# of Blitz Charges (if not maximum)	# зарядов разгона (если не максимум)
+# of Blood Charges (if not maximum)	# зарядов крови (если не максимум)
+# of Bloodsoaked Banner stacks on enemy	# зарядов Знамени, пропитанного кровью, на враге
+# of Brands attached to enemy (if not maximum)	# клейм на враге (если не максимум)
+# of Casts currently waiting	# ожидающих применений
+# of Challenger Charges (if not maximum)	# зарядов бросившего вызов (если не максимум)
+# of Cinderflame stacks on enemy	# зарядов Угольного пламени на враге
+# of Corpses Consumed Recently	# недавно поглощённых трупов
+# of Corrosion Stacks	# зарядов Коррозии
+# of Corrupting Cry stacks on enemy	# зарядов Оскверняющего клича на враге
+# of Crab Barriers (if not maximum)	# барьеров краба (если не максимум)
+# of Empowered	# усилений
+# of Empty	# пустых
+# of Empty Sockets	# пустых гнёзд
+# of Empty White Sockets	# пустых белых гнёзд
+# of Endurance Charges (if not maximum)	# зарядов выносливости (если не максимум)
+# of Endurance Charges lost Recently	# недавно потерянных зарядов выносливости
+# of Enemies Killed Recently	# недавно убитых врагов
+# of Enemies Killed by Minions Recently	# врагов, недавно убитых приспешниками
+# of Enemies Killed by Totems Recently	# врагов, недавно убитых тотемами
+# of Enemies affected	# затронутых врагов
+# of Ensnare Stacks	# зарядов Западни
+# of Fortification Stacks (if not maximum)	# зарядов Укрепления (если не максимум)
+# of Fragile Regrowth Stacks	# зарядов Хрупкого восстановления
+# of Frenzy Charges (if not maximum)	# зарядов неистовства (если не максимум)
+# of Gale Force	# зарядов Силы шторма
+# of Ghost Shrouds (if not maximum)	# Призрачных покровов (если не максимум)
+# of Grasping Vines affecting enemy	# Цепких лиан на враге
+# of Hits Suppressed Recently	# недавно подавленных попаданий
+# of Impales on enemy (if not maximum)	# проколов на враге (если не максимум)
+# of Inspiration Charges (if not maximum)	# зарядов вдохновения (если не максимум)
+# of Intensity	# интенсивности
+# of Links	# связей
+# of Lunar Protection	# Лунной защиты
+# of Lunar Resistance	# Лунного сопротивления
+# of Mania Stacks	# зарядов Мании
+# of Mines Detonated Recently	# недавно взорванных мин
+# of Mines per throw	# мин за бросок
+# of Minion Soul Eater Stacks	# зарядов Пожирателя душ приспешников
+# of Momentum (if not average)	# импульса (если не среднее)
+# of Nearby Allies	# союзников рядом
+# of Nearby Bleeding Enemies	# кровоточащих врагов рядом
+# of Nearby Corpses	# трупов рядом
+# of Nearby Non-Golem Minions	# приспешников рядом, кроме големов
+# of Non-	# не-
+# of Non-Instant Spells Cast Recently	# недавно применённых немгновенных чар
+# of Otherworldly Pressure Stacks	# зарядов Потустороннего натиска
+# of Overlapping Beams	# перекрывающихся лучей
+# of Overlapping Pods	# перекрывающихся коконов
+# of Overlapping Spikes	# перекрывающихся шипов
+# of Overloaded Intensity	# перегруженной интенсивности
+# of Permanent Minions (if not maximum)	# постоянных приспешников (если не максимум)
+# of Poison on You	# ядов на вас
+# of Poison on enemy	# ядов на враге
+# of Poisons applied Recently	# недавно наложенных ядов
+# of Power Charges (if not maximum)	# зарядов силы (если не максимум)
+# of Rampage Kills	# убийств в буйстве
+# of Recently Applied Ailments	# недавно наложенных состояний
+# of Rupture stacks?	# зарядов Разрывания?
+# of Sextants affecting the area	# секстантов, влияющих на область
+# of Shotgunning Projectiles	# снарядов дробовика
+# of Siphoning Charges (if not maximum)	# зарядов Сифона (если не максимум)
+# of Skills Used Recently	# недавно использованных умений
+# of Snipe stages	# стадий прицельного выстрела
+# of Soul Eater Stacks	# зарядов Пожирателя душ
+# of Spider's Web Stacks	# зарядов Паутины паука
+# of Spiders	# пауков
+# of Spirit Charges	# зарядов духа
+# of Spirit Infusions	# вливаний духа
+# of Summoned Minions (if not maximum)	# призванных приспешников (если не максимум)
+# of Summoned Totems (if not maximum)	# призванных тотемов (если не максимум)
+# of Sunscald Stacks	# зарядов Солнечного ожога
+# of Traps Triggered Recently	# недавно сработавших ловушек
+# of Traps per throw	# ловушек за бросок
+# of Trauma Stacks	# зарядов Травмы
+# of Vaal Skills used in the past 8 Seconds	# умений Ваал, использованных за последние 8 секунд
+# of Virulence Stacks	# зарядов Заразности
+# of Warcries Used Recently	# недавно использованных боевых кличей
+# of Weeping Black stacks on enemy	# зарядов Плачущей Черноты на враге
+# of Withered Stacks	# зарядов Истощения
+# of Withered Stacks on you	# зарядов Истощения на вас
+# of active Brands	# активных клейм
+# of linked Targets	# связанных целей
+# of nearby Enemies	# врагов рядом
+# of nearby Rare or Unique Enemies	# редких или уникальных врагов рядом
+# of non-vaal skill Summoned Minions	# призванных приспешников от умений не Ваал
+# of seconds Affected by a Warcry Buff	# секунд под действием эффекта боевого клича
+# of times Skill has Chained	# раз умение совершило цепь
+# of times Skill has Forked	# раз умение совершило разветвление
+# of times Skill has Pierced	# раз умение совершило пронзание
+# of times you have been Hit Recently	# раз по вам недавно попали
+# of times your Attacks have Crit Recently	# раз ваши атаки недавно наносили критический удар
+#% of Curse Expired on enemy	#% истёкшего проклятия на враге
+% Not Inflict ManaBurn	% не наносит Сжигание маны
+% Wave of Conviction duration expired	% длительности Волны осуждения истекло
+% chance for second proj to hit	% шанс попадания второго снаряда
+% chance to inflict 1 additional poison	% шанс нанести 1 дополнительный яд
+% chance to inflict 1 additional poison (Main Hand)	% шанс нанести 1 дополнительный яд (основная рука)
+% chance to inflict 1 additional poison (Off Hand)	% шанс нанести 1 дополнительный яд (вторая рука)
+% higher than yours?	% выше, чем у вас?
+% increased	% повышение
+% increased Ward	% повышение Барьера
+% increased effect of map mods	% повышение эффекта модификаторов карт
+% less	% понижение
+% more	% больше
+% of	% от
+% of Energy Shield	% от энергетического щита
+% of Mana	% от маны
+% reduced	% понижение
+% to not Consume	% не расходуется
+% to use	% для использования
+%% Chance to Block$	%% шанс блока$
+%+g base	%+g базового
+%- Unscalable Value$	%- нескалируемое значение$
+%.0f to %.0f	%.0f - %.0f
+%.1f incoming damage	%.1f входящего урона
+%.2f sec	%.2f сек
+%.2f%% of Maximum Bleed DPS	%.2f%% от максимального DPS кровотечения
+%.2f%% of Maximum Ignite DPS	%.2f%% от максимального DPS поджога
+%.2f%% of Maximum Poison DPS	%.2f%% от максимального DPS яда
+%.2f%% of ailment stacks use maximum damage	%.2f%% стаков состояний используют максимальный урон
+%.2f%% of ailment stacks use non-maximum damage	%.2f%% стаков состояний используют немаксимальный урон
+%.2fs, maximum: %.2fs)	%.2fс, максимум: %.2fс)
+%.3f casts per second	%.3f применений в секунду
+%Inc Armour from Tree	%Повыш. брони от древа
+%Inc ES from Tree	%Повыш. ЭЩ от древа
+%Inc Evasion from Tree	%Повыш. уклонения от древа
+%Inc Life from Tree	%Повыш. здоровья от древа
+%Inc Mana from Tree	%Повыш. маны от древа
+' from the shared item list?	' из общего списка предметов?
+' from the shared item set list?	' из общего списка наборов предметов?
+' skill,	' умение,
+which is being provided by	которое предоставляется
+' to '	' в '
+',\nbut you can use this option to force it if necessary.	',\nно вы можете использовать эту опцию, чтобы принудительно включить его.
+'.\nAre you sure you want to delete it?	'.\nВы уверены, что хотите его удалить?
+'?\nThis will not delete any items used by the set.	'?\nЭто не удалит предметы, используемые набором.
+'Changing Stance' occurs by activating a Stance skill while it's toggled on	«Смена стойки» происходит при активации умения стойки, пока оно включено
+'Hall of Grandmasters'	'Зал великих мастеров'
+'Input' element missing name attribute	У элемента 'Input' отсутствует атрибут name
+'Input' element missing number, string or boolean attribute	У элемента 'Input' отсутствует атрибут number, string или boolean
+'Override' element missing 'nodeId' attribute	У элемента 'Override' отсутствует атрибут 'nodeId'
+'PathOfBuilding' root element missing	Отсутствует корневой элемент 'PathOfBuilding'
+'Placeholder' element missing name attribute	У элемента 'Placeholder' отсутствует атрибут name
+'Placeholder' element missing number	У элемента 'Placeholder' отсутствует number
+'Section' element missing id attribute	У элемента 'Section' отсутствует атрибут id
+'Socket' element missing 'itemId' attribute	У элемента 'Socket' отсутствует атрибут 'itemId'
+'Socket' element missing 'nodeId' attribute	У элемента 'Socket' отсутствует атрибут 'nodeId'
+'Spec' element missing 'ascendClassId' attribute	У элемента 'Spec' отсутствует атрибут 'ascendClassId'
+'Spec' element missing 'classId' attribute	У элемента 'Spec' отсутствует атрибут 'classId'
+'URL' element missing content	У элемента 'URL' отсутствует содержимое
+'s Main Minion Skill	 основное умение приспешника
+'s Trigger	 триггер
+'s attack Trigger	 триггер атаки
+(%.1f DPS)	(%.1f DPS)
+(1 - chance to avoid stun)	(1 - шанс избежать оглушения)
+(Ailment Threshold is about equal to Life except on bosses where it is about half of their life)	(Порог состояний примерно равен здоровью, кроме боссов, у которых он примерно вдвое меньше их здоровья)
+(Assuming player uses focus exactly when its cooldown of %.2fs expires)	(Предполагается, что игрок использует фокус ровно по истечении его перезарядки %.2fс)
+(Avg. Warcry Count)	(Сред. число боевых кличей)
+(Base Damage)	(Базовый урон)
+(Base chance)	(Базовый шанс)
+(Bleed DPS Range)	(Диапазон DPS кровотечения)
+(Bleed DoT Multi for Crit)	(Множитель урона кровотечения за время при крите)
+(Bleed DoT Multi for Non-Crit)	(Множитель урона кровотечения за время без крита)
+(Bleed DoT Multi)	(Множитель урона кровотечения за время)
+(Can be allocated without pathing to it)	(Можно взять без прокладывания пути)
+(Cannot apply to any of the active skills)	(Нельзя применить ни к одному из активных умений)
+(Capped Bleed DPS Range)	(Ограниченный диапазон DPS кровотечения)
+(Capped Bleed DPS)	(Ограниченный DPS кровотечения)
+(Capped Ignite DPS Range)	(Ограниченный диапазон DPS поджога)
+(Capped Ignite DPS)	(Ограниченный DPS поджога)
+(Capped Poison DPS Range)	(Ограниченный диапазон DPS яда)
+(Capped Poison DPS)	(Ограниченный DPS яда)
+(Chance to even be hit)	(Шанс вообще быть пораженным)
+(DPS multiplier for this skill)	(Множитель DPS для этого умения)
+(Damage per Instance)	(Урон за применение)
+(Damage taken multi)	(Множитель получаемого урона)
+(Effective chance to trigger)	(Эффективный шанс срабатывания)
+(Effective source rate)	(Эффективная частота источника)
+(Enemies affected by Barnacles Convert 5% of Physical Damage to Cold and have 5% increased duration of Chill and Freeze on them.\nEach instance of Barnacles lasts 30 seconds and can be inflicted up to 10 times)	(Враги, затронутые Моллюсками, преобразуют 5% физического урона в урон от холода и получают на 5% повышенную длительность охлаждения и заморозки.\nКаждое применение Моллюсков длится 30 секунд и может быть наложено до 10 раз)
+(Estimated impact of linked spells)	(Примерное влияние связанных чар)
+(Estimated impact of skill rotation, cooldown alignment and trigger chance)	(Примерное влияние ротации умений, выравнивания перезарядок и шанса срабатывания)
+(Forced Active)	(Принудительно активно)
+(Hextoad trigger interval)	(Интервал срабатывания Жабы порчи)
+(Highest) Stat Value	(Наибольшее) значение стата
+(Highest) Weighted Sum	(Наибольшая) взвешенная сумма
+(If a curse expires instantly curse expiration is equivalent to curse replacement)	(Если проклятие истекает мгновенно, истечение проклятия равносильно его замене)
+(Ignite DPS Range)	(Диапазон DPS поджога)
+(Ignite DoT Multi for Crit)	(Множитель урона поджога за время при крите)
+(Ignite DoT Multi for Non-Crit)	(Множитель урона поджога за время без крита)
+(Ignite DoT Multi)	(Множитель урона поджога за время)
+(In game source skill usage duration in seconds)	(Длительность использования исходного умения в игре, в секундах)
+(Lowest) Price	(Наименьшая) цена
+(M= %.1f for ele and %.1f for non-ele)(E= %.2f for ele and %.2f for non-ele)	(M= %.1f для стихийного и %.1f для нестихийного)(E= %.2f для стихийного и %.2f для нестихийного)
+(M= %.1f for ele)(E= %.2f for ele)	(M= %.1f для стихийного)(E= %.2f для стихийного)
+(M= %.1f for non-ele)(E= %.2f for non-ele)	(M= %.1f для нестихийного)(E= %.2f для нестихийного)
+(MH average physical hit before mitigation)	(Средний физический удар основной рукой до смягчения)
+(MH chance to hit)	(Шанс попадания основной рукой)
+(MH impale damage multiplier)\n	(Множитель урона прокола основной рукой)\n
+(Mana Cost of triggered)	(Затраты маны на срабатывание)
+(Mana Cost)	(Затраты маны)
+(Mana cost of trigger source)	(Затраты маны источника срабатывания)
+(Manaforged threshold multiplier)	(Множитель порога Маногорна)
+(Manaforged trigger threshold)	(Порог срабатывания Маногорна)
+(Not supported in PoB yet)	(Пока не поддерживается в PoB)
+(Note that you can still apply multiple stacks via 'inflict additional poison' mods)	(Учтите, что вы всё равно можете накладывать несколько стаков через модификаторы «нанести дополнительный яд»)
+(Number of mitigated hits)	(Число смягчённых ударов)
+(OH average physical hit before mitigation)	(Средний физический удар второй рукой до смягчения)
+(OH chance to hit)	(Шанс попадания второй рукой)
+(OH impale damage multiplier)	(Множитель урона прокола второй рукой)
+(Poison DPS Range)	(Диапазон DPS яда)
+(Raw Bleed DPS is	(Необработанный DPS кровотечения:
+(Raw Ignite DPS is	(Необработанный DPS поджога:
+(Raw Max Bleed DPS is	(Необработанный макс. DPS кровотечения:
+(Raw Max Ignite DPS is	(Необработанный макс. DPS поджога:
+(Raw Max Poison DPS is	(Необработанный макс. DPS яда:
+(Raw Min Bleed DPS is	(Необработанный мин. DPS кровотечения:
+(Raw Min Ignite DPS is	(Необработанный мин. DPS поджога:
+(Raw Min Poison DPS is	(Необработанный мин. DPS яда:
+(Raw Poison DPS is	(Необработанный DPS яда:
+(Shattershard duration)	(Длительность Колких осколков)
+(Simulated trigger rate of a curse socketed in Vixen's given	(Смоделированная частота срабатывания проклятия в гнезде Лисицы, учитывая
+(Skill usages required)	(Требуется использований умения)
+(Tawhoa's Chosen base cooldown)	(Базовая перезарядка Избранника Тахоа)
+(Trigger bots effectively cause the skill to trigger twice)	(Боты-триггеры фактически заставляют умение сработать дважды)
+(Uncapped Bleed DPS Range)	(Неограниченный диапазон DPS кровотечения)
+(Uncapped Ignite DPS Range)	(Неограниченный диапазон DPS поджога)
+(Uncapped Poison DPS Range)	(Неограниченный диапазон DPS яда)
+(Uncapped raw Bleed DPS)	(Неограниченный необработанный DPS кровотечения)
+(Uncapped raw Ignite DPS)	(Неограниченный необработанный DPS поджога)
+(Uncapped raw Poison DPS)	(Неограниченный необработанный DPS яда)
+(Unseen Strike from The Hidden Blade has no cooldown but is still triggered)	(Незримый удар Скрытого клинка не имеет перезарядки, но всё равно срабатывает)
+(Used in '	(Используется в '
+(Vixen's trigger cooldown)	(Перезарядка срабатывания Лисицы)
+([^ ]+) faster	([^ ]+) быстрее
+([^ ]+) increased	([^ ]+) повышение
+([^ ]+) less	([^ ]+) меньше
+([^ ]+) more	([^ ]+) больше
+([^ ]+) reduced	([^ ]+) понижение
+([^ ]+) slower	([^ ]+) медленнее
+(action speed modifier)	(модификатор скорости действий)
+(active number of Totems)	(активное число тотемов)
+(added damage multiplier)	(множитель добавленного урона)
+(added damage)	(добавленный урон)
+(additional extra damage)	(дополнительный урон)
+(additional mine thrown)	(дополнительная брошенная мина)
+(adjusted for server tick rate)	(с поправкой на частоту тиков сервера)
+(affected by poison stack limit of	(зависит от лимита стаков яда:
+(aggregated max warcry exerted effect modifier)	(суммарный макс. модификатор эффекта усиления боевым кличем)
+(aggregated warcry exerted effect modifier)	(суммарный модификатор эффекта усиления боевым кличем)
+(ailment effect modifier)	(модификатор эффекта состояний)
+(attached Brands)	(присоединённые клейма)
+(attack rate)	(частота атак)
+(attack speed)	(скорость атаки)
+(attack time)	(время атаки)
+(attacks per second)	(атак в секунду)
+(aura effect modifier)	(модификатор эффекта аур)
+(average Pact modifier)	(средний модификатор Пакта)
+(average damage multiplier per ally)	(средний множитель урона на союзника)
+(average damage)	(средний урон)
+(average energy shield recoup)	(средний возврат энергетического щита)
+(average exerted damage)	(средний усиленный урон)
+(average from crits)	(среднее от критов)
+(average from non-crits)	(среднее от некритов)
+(average hit)	(средний удар)
+(average instances)	(среднее число применений)
+(average life lost over time)	(средняя потеря здоровья за время)
+(average life recoup)	(средний возврат здоровья)
+(average mana recoup)	(средний возврат маны)
+(average physical hit before mitigation)	(средний физический удар до смягчения)
+(average pvp hit)	(средний удар в PvP)
+(average warcry cooldown)	(средняя перезарядка боевого клича)
+(avg bleed stacks)	(средн. стаков кровотечения)
+(avg ignite stacks)	(средн. стаков поджога)
+(avg. # of poisons inflicted)	(средн. # наложенных ядов)
+(base cooldown of trigger)	(базовая перезарядка срабатывания)
+(base cooldown of triggered skill)	(базовая перезарядка сработавшего умения)
+(base corpse life)	(базовое здоровье трупа)
+(base damage multiplier)	(базовый множитель урона)
+(base damage per second)	(базовый урон в секунду)
+(base double damage increase to hit 100%%)	(базовое повышение двойного урона для попадания 100%%)
+(base duration)	(базовая длительность)
+(base gain frequency)	(базовая частота получения)
+(base life for a level	(базовое здоровье для уровня
+(base placement speed)	(базовая скорость установки)
+(base radius)	(базовый радиус)
+(base threshold)	(базовый порог)
+(base throwing rate)	(базовая скорость броска)
+(base throwing time)	(базовое время броска)
+(base value)	(базовое значение)
+(before Pact of K'Tash)	(до Пакта К'Таш)
+(best socket)	(лучшее гнездо)
+(biggest of trigger cooldown and triggered skill cooldown)	(большая из перезарядки срабатывания и перезарядки сработавшего умения)
+(block effect)	(эффект блока)
+(both empty)	(оба пусты)
+(burn rate modifier)	(модификатор скорости горения)
+(can be changed in the Configuration tab)	(можно изменить на вкладке «Конфигурация»)
+(can be overridden in the Configuration tab)	(можно переопределить на вкладке «Конфигурация»)
+(cast rate)	(скорость чар)
+(cast time)	(время применения)
+(casts per second)	(применений в секунду)
+(chance both crit rolls succeed)	(шанс, что оба броска крита успешны)
+(chance for avoidance to fail)	(шанс избежания не сработать)
+(chance for block to fail)	(шанс блока не сработать)
+(chance for damage avoidance to fail)	(шанс избежания урона не сработать)
+(chance for dodge to fail)	(шанс увёртки не сработать)
+(chance for evasion to fail)	(шанс уклонения не сработать)
+(chance for evasion to fail, only applies to the attack portion)	(шанс уклонения не сработать, относится только к атакующей части)
+(chance from crits)	(шанс от критов)
+(chance from non-crits)	(шанс от некритов)
+(chance of  off hand)	(шанс второй руки)
+(chance of main hand)	(шанс основной руки)
+(chance to bleed)	(шанс кровотечения)
+(chance to double stun duration)	(шанс удвоить длительность оглушения)
+(chance to hit)	(шанс попадания)
+(chance to ignite)	(шанс поджога)
+(chance to trigger)	(шанс срабатывания)
+(channel time multiplier)	(множитель времени подготовки)
+(combined ailment warcry effect modifier)	(суммарный модификатор эффекта состояний от боевого клича)
+(converted to Armour)	(преобразовано в броню)
+(corpse maximum life increases)	(повышение максимального здоровья трупов)
+(cost multiplier)	(множитель затрат)
+(crit Bifurcates effect)	(крит раздваивает эффект)
+(crit chance)	(шанс крита)
+(crit every 3rd use)	(крит каждое 3-е использование)
+(crit every 5th use)	(крит каждое 5-е использование)
+(damage effectiveness)	(эффективность урона)
+(damage from crits)	(урон от критов)
+(damage from non-crits)	(урон от некритов)
+(damage per second)	(урон в секунду)
+(damage rate modifier)	(модификатор скорости урона)
+(dot multiplier for crits)	(множитель урона за время при критах)
+(dot multiplier for non-crits)	(множитель урона за время без критов)
+(double damage multiplier)	(множитель двойного урона)
+(dps multiplier for this skill)	(множитель DPS для этого умения)
+(due to dual wielding)	(из-за использования двух видов оружия)
+(duration modifier)	(модификатор длительности)
+(effect modifiers)	(модификаторы эффекта)
+(effect mult)	(множитель эффекта)
+(effective DPS modifier from enemy debuffs)	(эффективный модификатор DPS от дебаффов врага)
+(effective DPS modifier)	(эффективный модификатор DPS)
+(effective crit chance)	(эффективный шанс крита)
+(effective enemy stun damage)	(эффективный урон оглушения врага)
+(effective movement speed modifier)	(эффективный модификатор скорости передвижения)
+(effective skill cooldown for trigger purposes)	(эффективная перезарядка умения для срабатывания)
+(effective trigger cooldown)	(эффективная перезарядка срабатывания)
+(empty group)	(пустая группа)
+(empty socket)	(пустое гнездо)
+(enemy action speed)	(скорость действий врага)
+(extra crit damage)	(дополнительный критический урон)
+(faster start)	(более быстрый старт)
+(final cooldown of trigger)	(итоговая перезарядка срабатывания)
+(final cooldown of triggered skill)	(итоговая перезарядка сработавшего умения)
+(final portion taken by petrified blood)	(итоговая доля, принятая окаменелой кровью)
+(final radius modifier)	(итоговый модификатор радиуса)
+(first hit)	(первый удар)
+(fist of war cooldown)	(Кулак войны: перезарядка)
+(fist of war damage multiplier)	(Кулак войны: множитель урона)
+(fist of war effect modifier)	(Кулак войны: модификатор эффекта)
+(fist of war uptime ratio)	(Кулак войны: доля времени действия)
+(flat added cooldown)	(дополнительная плоская перезарядка)
+(focus base cooldown)	(базовая перезарядка фокуса)
+(from config)	(из конфигурации)
+(frost shield limit)	(лимит Морозного щита)
+(guard limit)	(лимит Обороны)
+(hit chance)	(шанс попадания)
+(hit rate)	(частота попаданий)
+(hit time + cooldown)	(время удара + перезарядка)
+(hit time override)	(переопределение времени удара)
+(hit time)	(время удара)
+(hits per second)	(ударов в секунду)
+(hits per triggered skill cast)	(ударов за применение сработавшего умения)
+(ignite damage per second)	(урон поджога в секунду)
+(ignite deals 90% per second)	(поджог наносит 90% в секунду)
+(ignite duration)	(длительность поджога)
+(impale chance)	(шанс прокола)
+(impale damage multiplier)	(множитель урона прокола)
+(impale enemy damage taken)	(получаемый врагом урон от прокола)
+(impale enemy physical damage reduction)	(снижение физического урона врага от прокола)
+(increased activation frequency)	(повышенная частота активации)
+(increased duration)	(повышенная длительность)
+(increased effectiveness)	(повышенная эффективность)
+(increased threshold)	(повышенный порог)
+(inflicting as though dealing more damage)	(нанесение так, как будто наносится больший урон)
+(initial portion taken by petrified blood)	(начальная доля, принятая окаменелой кровью)
+(instance duration)	(длительность экземпляра)
+(inverted hit after penetration)	(обратный удар после пробивания)
+(leech rate modifier)	(модификатор скорости похищения)
+(level from gem)	(уровень от камня)
+(level from items)	(уровень от предметов)
+(level from support)	(уровень от поддержки)
+(life multiplier for this totem type)	(множитель здоровья для этого типа тотема)
+(life override)	(переопределение здоровья)
+(lower of cast rates)	(меньшая из скоростей применения)
+(main hand)	(основная рука)
+(mana cost conversion)	(преобразование затрат маны)
+(max number of stacks)	(макс. число стаков)
+(maximum energy shield)	(максимум энергетического щита)
+(maximum life)	(максимум здоровья)
+(maximum mana)	(максимум маны)
+(minions per cast)	(приспешников за применение)
+(modifiers to damage taken)	(модификаторы получаемого урона)
+(modifiers to enemy damage)	(модификаторы урона врага)
+(more activation frequency)	(большая частота активации)
+(movement speed modifier)	(модификатор скорости передвижения)
+(multiplier from Unleash)	(множитель от Высвобождения)
+(no Impale Duration)	(без длительности прокола)
+(non-inverted hit after penetration)	(необратный удар после пробивания)
+(not set)	(не задано)
+(number of Empowered)	(число усилений)
+(number of exerts)	(число усиленных применений)
+(number of hits)	(число ударов)
+(number of nearby allies (max=5))	(число союзников рядом (макс.=5))
+(number of repeats)	(число повторов)
+(number of stacks, can be overridden in the Configuration tab)	(число стаков, можно переопределить на вкладке «Конфигурация»)
+(off hand)	(вторая рука)
+(over 4 seconds)	(за 4 секунды)
+(overridden from the Configuration tab	(переопределено на вкладке «Конфигурация»
+(overridden from the Configuration tab)	(переопределено на вкладке «Конфигурация»)
+(pact cast time)	(время применения Пакта)
+(pact cooldown)	(перезарядка Пакта)
+(percent as Caustic ground)	(процент в виде едкой земли)
+(percent as burning ground)	(процент в виде горящей земли)
+(percent of damage recouped)	(процент возвращённого урона)
+(percent of damage taken from petrified blood)	(процент урона, полученного от окаменелой крови)
+(percentage of energy shield to maximum leech rate)	(процент энергетического щита от максимальной скорости похищения)
+(percentage of life to maximum leech rate)	(процент здоровья от максимальной скорости похищения)
+(percentage of mana to maximum leech rate)	(процент маны от максимальной скорости похищения)
+(poison chance)	(шанс отравления)
+(poison deals 30% per second)	(яд наносит 30% в секунду)
+(poison duration)	(длительность яда)
+(poison stacks)	(стаки яда)
+(portion not already taken over time)	(доля, ещё не принятая за время)
+(portion of damage from crits)	(доля урона от критов)
+(portion of damage from non-crits)	(доля урона от некритов)
+(portion of instances created by crits)	(доля экземпляров от критов)
+(portion of instances created by main hand)	(доля экземпляров от основной руки)
+(portion of instances created by non-crits)	(доля экземпляров от некритов)
+(portion of instances created by off hand)	(доля экземпляров от второй руки)
+(portion of life on low life)	(доля здоровья при малом запасе здоровья)
+(portion taken from frost shield)	(доля, принятая Морозным щитом)
+(portion taken from guard)	(доля, принятая Обороной)
+(portion taken from life and energy shield)	(доля, принятая здоровьем и энергетическим щитом)
+(portion taken from life)	(доля, принятая здоровьем)
+(portion taken over 4 seconds instead)	(доля, принятая вместо этого за 4 секунды)
+(portionElemental * PvP multiplier)	(доля стихийного * множитель PvP)
+(portionNonElemental * PvP multiplier)	(доля нестихийного * множитель PvP)
+(pre-bifurcate crit chance)	(шанс крита до раздвоения)
+(quality from gem)	(качество от камня)
+(quality from items)	(качество от предметов)
+(quality from socket)	(качество от гнезда)
+(quality from support)	(качество от поддержки)
+(quantity multiplier for this skill)	(множитель количества для этого умения)
+(rate modifier)	(модификатор скорости)
+(recovery rate modifier)	(модификатор скорости восстановления)
+(regeneration rate modifier)	(модификатор скорости регенерации)
+(repeat count)	(число повторов)
+(repeat damage total)	(суммарный урон повторов)
+(repeat penalty)	(штраф за повтор)
+(reservation efficiency)	(эффективность удержания)
+(resistance ignored)	(игнорируемое сопротивление)
+(ruthless blow effect modifier)	(модификатор эффекта беспощадного удара)
+(second per attack)	(секунд на атаку)
+(single poison damage per second)	(урон одного яда в секунду)
+(size of leech destination pool)	(размер целевого пула похищения)
+(skill alternates weapons)	(умение чередует оружие)
+(skill cooldown)	(перезарядка умения)
+(skill duration)	(длительность умения)
+(skill hits with both weapons at once)	(умение попадает обоими видами оружия одновременно)
+(skills are only triggered on activation thus we add focus duration)	(умения срабатывают только при активации, поэтому добавляем длительность фокуса)
+(source curse duration)	(длительность проклятия-источника)
+(source damage from crits)	(урон источника от критов)
+(source damage from non-crits)	(урон источника от некритов)
+(source damage)	(урон источника)
+(square root of area of effect modifier)	(квадратный корень модификатора области действия)
+(stack multiplier for this skill)	(множитель стаков для этого умения)
+(stack potential override)	(переопределение потенциала стаков)
+(stack potential)	(потенциал стаков)
+(stored damage)	(накопленный урон)
+(stored uses)	(накопленные использования)
+(stun multiplier)	(множитель оглушения)
+(stun threshold)	(порог оглушения)
+(sum of triggered curse and hexblast cast time)	(сумма времени применения сработавшего проклятия и Взрыва порчи)
+(suppression effect)	(эффект подавления)
+(the calculated number of exerted attacks happens every cooldown + duration)	(рассчитанное число усиленных атак происходит каждые перезарядка + длительность)
+(this skill adds cast time to cooldown when triggered)	(это умение при срабатывании добавляет время применения к перезарядке)
+(threshold modifier)	(модификатор порога)
+(time between hits is longer than poison duration)	(время между ударами больше длительности яда)
+(total average number of hits you can take)	(общее среднее число ударов, которые вы можете выдержать)
+(total burst damage)	(общий урон за всплеск)
+(total damage mitigated pseudo recoup amount)	(общая псевдовеличина возврата смягчённого урона)
+(total damage prevented by Progenesis)	(общий урон, предотвращённый Прогенезом)
+(total damage prevented by petrified blood)	(общий урон, предотвращённый окаменелой кровью)
+(total damage recoup amount)	(общая величина возврата урона)
+(total damage taken during ehp calcs)	(общий урон, полученный при расчёте EHP)
+(total damage you can take)	(общий урон, который вы можете выдержать)
+(total damage)	(общий урон)
+(total elemental damage taken during ehp calcs)	(общий стихийный урон, полученный при расчёте EHP)
+(total energy shield degen)	(общая деградация энергетического щита)
+(total energy shield regen)	(общая регенерация энергетического щита)
+(total incoming damage)	(общий входящий урон)
+(total life degen)	(общая деградация здоровья)
+(total life recouped per second)	(общий возврат здоровья в секунду)
+(total life regen)	(общая регенерация здоровья)
+(total life taken over time per second)	(общая потеря здоровья за время в секунду)

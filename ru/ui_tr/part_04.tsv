@@ -1,0 +1,593 @@
+ManaBurn inc Rate	ManaBurn inc Rate
+ManaBurn more Rate	ManaBurn more Rate
+Manage Config Sets	Управление наборами конфигов
+Manage Item Sets	Управление наборами предметов
+Manage Passive Trees	Управление древами умений
+Manage Skill Sets	Управление наборами умений
+Mania Stacks	Стаки Мании
+Mania Stacks apply	Применяются стаки Мании
+Manual	Вручную
+Map Modifiers and Player Debuffs	Модификаторы карты и дебаффы игрока
+Map Prefix Modifiers	Префиксы карты
+Map Suffix Modifiers	Суффиксы карты
+Match Character Level	Соответствие уровню персонажа
+Match Score	Оценка совпадения
+Max 1-Hit Impact	Макс. урон от одного удара
+Max Autoexertion Support	Макс. поддержка Автоусиления
+Max Bleed Stacks	Макс. стаков Кровотечения
+Max Calc	Макс. расчёт
+Max Chain Count	Макс. число цепей
+Max Echoes of Creation	Макс. Отголосков созидания
+Max Eff. KF Attack Rate	Макс. эфф. скорость атаки Шквала клинков
+Max Effect	Макс. эффект
+Max Effective APS	Макс. эфф. скорость атаки
+Max Fist of War Boosted AoE	Макс. область Кулака войны с усилением
+Max Hit	Макс. удар
+Max Ignite Stacks	Макс. стаков Поджога
+Max Impale Stacks	Макс. стаков Прокола
+Max Number of Seals	Макс. число Печатей
+Max Price	Макс. цена
+Max Quality	Макс. качество
+Max Resistance Conversion	Макс. преобразование сопротивлений
+Max Seismic Exert AoE	Макс. область Сейсмического усиления
+Max Skill Effect	Макс. эффект умения
+Max Sust. Fuses	Макс. устойчивых Запалов
+MaxLifeLeechRatePercent=	MaxLifeLeechRatePercent=
+Maxarius (Transcendence)	Maxarius (Непостижимость)
+Maximum Brittle	Максимум Хрупкости
+Maximum Chill	Максимум Охлаждения
+Maximum Hit Taken	Макс. получаемый удар
+Maximum Sap	Максимум Ошеломления
+Maximum Scorch	Максимум Опаления
+Maximum Shock	Максимум Электрошока
+Maximum Stacks	Макс. стаков
+Maximum Sustainable Trauma Stacks	Макс. устойчивых стаков Травмы
+Maximum effect	Максимальный эффект
+Maximum hit damage breakdown	Разбор макс. урона удара
+Maximum hit is calculated in reverse -	Макс. удар считается в обратном порядке -
+Maximum is limited by the number of Projectiles.	Максимум ограничен числом снарядов.
+Maximum is limited by the number of Projectiles., default of 1, if Arrow nova then default of maximum projectiles	Максимум ограничен числом снарядов; по умолчанию 1, для Стрелового нова — максимум снарядов
+Maximum leech rate against one target	Макс. скорость похищения по одной цели
+Maximum of	Максимум из
+Maximum value	Макс. значение
+Maxroll	Maxroll
+Med	Сред.
+Medved (The Unbreaking Circle)	Medved (Непробиваемый круг)
+Melee Evade Ch.	Шанс укл. от ближн.
+Melee Evade Chance	Шанс уклонения от ближних атак
+Melee distance to enemy	Расстояние до врага в ближнем бою
+Merciless Lab	Безжалостная лаборатория
+Metric	Метрика
+Min Calc	Мин. расчёт
+Mind over Matter %	Мана вместо здоровья, %
+Mine Aura Radius	Радиус ауры Копей
+Mine Deton. Radius	Радиус детонации Копей
+Mine Throw Rate	Скорость броска Копей
+Mine Throw Time	Время броска Копи
+Mine Throwing Time	Время броска Копей
+Minimum	Минимум
+Minimum Node Weight	Мин. вес узла
+Minimum Stacks	Мин. стаков
+Minimum Warcry Power from CryWolf	Мин. Сила боевого клича от CryWolf
+Minimum value	Мин. значение
+Minion Ally	Союзный приспешник
+Minion Attacks always hit	Атаки приспешника всегда попадают
+Minion Bleed DPS exceeds in game limit	Урон от Кровотечения приспешника превышает игровой предел
+Minion DoT DPS exceeds in game limit	Урон от DoT приспешника превышает игровой предел
+Minion Ignite DPS exceeds in game limit	Урон от Поджога приспешника превышает игровой предел
+Minion Life override	Переопределение здоровья приспешника
+Minion Poison dps exceeds in game limit	Урон от Яда приспешника превышает игровой предел
+Minion Skill	Умение приспешника
+Minion is Leeching	Приспешник похищает
+Minion is always on Full	Приспешник всегда на полном запасе
+Minion on Brine Ground?	Приспешник на Морской земле?
+Minion on Profane Ground?	Приспешник на Нечестивой земле?
+MinionModifier|LIST	MinionModifier|LIST
+Minions Accuracy Rating	Меткость приспешников
+Minute	Минута
+Mirage Archers using	Лучники-миражи используют
+Mirage Burning Ground DPS	Урон Горящей земли от Миража
+Mirage Burning Ground DPS exceeds in game limit	Урон Горящей земли от Миража превышает игровой предел
+Mirage Caustic Ground DPS	Урон Едкой земли от Миража
+Mirage Caustic Ground DPS exceeds in game limit	Урон Едкой земли от Миража превышает игровой предел
+Mirage Warriors using	Воины-миражи используют
+MirageDPS	MirageDPS
+Mirages to finish Attacking	Миражей до завершения атаки
+Mirrored Items	Отражённые предметы
+Missing	Отсутствует
+Missing Abyss ascendancy section for jewel type	Отсутствует секция восхождения Бездны для типа самоцвета
+Missing Index lookup for nodeID:	Отсутствует поиск индекса для узла:
+Missing LUT	Отсутствует LUT
+Missing Unreserved	Не удержано
+Missing slot	Отсутствует слот
+Misty Reflection debuff lasts 4 seconds and makes enemies have	Дебафф Туманного отражения длится 4 секунды и даёт врагам
+Mitigated hits	Смягчённые удары
+Mod	Мод
+Mod Browser	Обозреватель модов
+ModDB	ModDB
+Modifier	Модификатор
+Modifier sorting	Сортировка модификаторов
+Modifiers will grant one third of their value to	Модификаторы дают одну треть своего значения для
+Molten Shell reflects damage to the enemy,\nbased on the amount of damage it has mitigated.	Расплавленный панцирь отражает урон врагу\nв зависимости от количества смягчённого урона.
+Monster Tag	Тег монстра
+More Cast Speed	Больше скорости сотворения
+More Energy Shield Regeneration Rate	Больше скорости регенерации энергетического щита
+More Life Regeneration Rate	Больше скорости регенерации здоровья
+More Mana Regeneration Rate	Больше скорости регенерации маны
+More Rage Regeneration Rate	Больше скорости регенерации свирепости
+More Recovery	Больше восстановления
+More Warcry Speed	Больше скорости боевых кличей
+Movement Speed Modifier	Модификатор скорости передвижения
+MovementSpeedMod|percent|max=	MovementSpeedMod|percent|max=
+Moving	В движении
+Mult	Множ.
+Multi	Множ.
+Multi-Socket Search	Поиск по нескольким гнёздам
+Multi-part area skills	Умения с несколькими областями
+Multiplier	Множитель
+Murderous Eye Jewel	Самоцвет кровожадного глаза
+League: Allflame	League: Allflame
+Limited to: 1 Historic	Limited to: 1 Historic
+Implicits: 0	Implicits: 0
+Subjugating	Subjugating
+Mutated	Мутировавший
+Name (optional)	Название (необязательно)
+Names	Названия
+Nasima (Second Sight)	Nasima (Ясновидение)
+Nearby Enemies have %-	Ближайшие враги имеют %-
+Nearest Totem Life	Здоровье ближайшего тотема
+Nearest Totem Life override	Переопределение здоровья ближайшего тотема
+Need to Update	Нужно обновление
+Net Avg.	Чистое сред.
+Net ES Recovery	Чистое восстановление ЭЩ
+Net Life Recovery	Чистое восстановление здоровья
+Net Life Regen	Чистая регенерация здоровья
+Net Mana Recovery	Чистое восстановление маны
+Net Max.	Чистый макс.
+New Folder	Новая папка
+New Item	Новый предмет
+New Loadout	Новый лоадаут
+New Tree	Новое древо
+Next AoE breakpoint	Следующий порог области
+Next Proj. Speed breakpoint	Следующий порог скорости снарядов
+No Anoint	Без помазания
+No Loadouts	Нет лоадаутов
+No Matching Results	Нет подходящих результатов
+No Matching Results Found	Подходящие результаты не найдены
+No Mirage Archer active skill found	Активное умение Лучника-миража не найдено
+No Saviour active skill found	Активное умение Спасителя не найдено
+No Session Mode	Без режима сессии
+No Tawhoa's Chosen active skill found	Активное умение Избранника Таоа не найдено
+No active skill for Sacred Wisps found	Активное умение Священных огоньков не найдено
+No auth token	Нет токена авторизации
+No available variants	Нет доступных вариантов
+No builds found.	Билды не найдены.
+No changes.	Изменений нет.
+No character selected.	Персонаж не выбран.
+No comparison build loaded.	Билд для сравнения не загружен.
+No compatible items found for this slot.	Для этого слота нет подходящих предметов.
+No configuration options to display.	Нет параметров конфигурации для отображения.
+No differences found.	Различий не найдено.
+No entrance to subgraph	Нет входа в подграф
+No error	Нет ошибки
+No item is equipped in this slot.	В этом слоте нет предмета.
+No items found that match those filters.	Предметы, подходящие под фильтры, не найдены.
+No league	Нет лиги
+No longer obtainable	Больше недоступно
+No matching modifiers found	Нет подходящих модификаторов
+No notables found that match those filters.	Значимые умения, подходящие под фильтры, не найдены.
+No summoned Totems in the past 2 seconds?	Нет призванных тотемов за последние 2 секунды?
+No update available.	Обновлений нет.
+No update available\nYou are running the latest version.	Обновлений нет\nУ вас последняя версия.
+No usable weapon equipped	Нет подходящего оружия
+Node	Узел
+Node Distance	Расстояние до узла
+Node List	Список узлов
+Node Name	Название узла
+Node Power colours	Цвета силы узлов
+Non	Не
+Non-Crit Dmg Derivation	Вывод множителя без крита
+Non-Curse Aura Effect	Эффект неклятвенных аур
+Non-Damaging Ailments	Неуронные недуги
+Non-Exceptional	Необычный
+Non-bypassed Energy Shield	Необойдённый энергетический щит
+Normal Lab	Обычная лаборатория
+Normal Maximum	Обычный максимум
+Normal gems default to their highest valid corrupted gem level.	Обычные камни по умолчанию имеют наивысший допустимый уровень осквернённого камня.
+Awakened gems default to their highest valid non-corrupted gem level.	Пробуждённые камни по умолчанию имеют наивысший допустимый уровень неосквернённого камня.
+Not authenticated	Не авторизован
+Not enough Snipe stages to trigger this skill	Недостаточно стадий Прицельного выстрела для активации этого умения
+Not yet available	Пока недоступно
+Notes	Заметки
+Nothing	Ничего
+Noxious (Physical & Chaos Damage)	Ядовитый (физический урон и урон хаосом)
+Num	Число
+Number of Exerts	Число усилений
+Number of recently applied ailments	Число недавно наложенных недугов
+Number of seconds the enemy has been in your presence.	Число секунд, которое враг находится рядом с вами.
+Number of times you've Blocked in the past 10s	Сколько раз вы блокировали за последние 10 с
+OAuth state mismatch	Несовпадение состояния OAuth
+OAuth state mismatch during authentication	Несовпадение состояния OAuth при авторизации
+OH Accuracy	Меткость ОР
+OH Att. per second	Атак в секунду ОР
+OH Average Hit	Средний удар ОР
+OH Chance to Hit	Шанс попадания ОР
+OH Crit Chance	Шанс крита ОР
+OH Crit Effect Mod	Мод. эффекта крита ОР
+OH Crit Multiplier	Множитель крита ОР
+OH DMG Mod.	Мод. урона ОР
+OH Eff. DPS Mod	Мод. эфф. DPS ОР
+OH Eff. DoT Multi	Эфф. множитель DoT ОР
+OH Hit Damage	Урон удара ОР
+OH Impale Chance	Шанс Прокола ОР
+OH Inc. Att. Speed	Увел. скорости атаки ОР
+OH Inc. Crit Chance	Увел. шанса крита ОР
+OH More Att. Speed	Больше скорости атаки ОР
+OH PvP Average Hit	Средний удар ОР в PvP
+OH Source Chaos	Источник хаоса ОР
+OH Source Cold	Источник холода ОР
+OH Source Fire	Источник огня ОР
+OH Source Lightning	Источник молнии ОР
+OH Source Physical	Источник физ. урона ОР
+OH Stored Damage	Накопленный урон ОР
+OH Stun Duration	Длительность оглушения ОР
+OH Stun Threshold	Порог оглушения ОР
+OH Total Increased	Всего увеличено ОР
+OH Total More	Всего больше ОР
+Obtainable	Можно получить
+Of	Из
+Off Hand weapon is not usable with this skill	Оружие второй руки нельзя использовать с этим умением
+Off hand modifiers	Модификаторы второй руки
+Offhand	Вторая рука
+Offhand2	Вторая рука 2
+Ok	Ок
+Omni	Омни
+Omni. Required	Омни. требуется
+Omniscience	Всеведение
+Omniscience Required	Требуется Всеведение
+On Kill Monster Explosion	Взрыв монстра при убийстве
+On average, the radius is %.2fm	В среднем радиус составляет %.2f м
+One Hand	Одна рука
+One Handed	Одноручное
+One Handed Melee	Одноручное ближнее
+One or more files couldn't be downloaded.\nCheck your internet connectivity,\nor try again later.	Не удалось загрузить один или несколько файлов.\nПроверьте подключение к интернету\nили повторите позже.
+Only non-instant spells you cast count	Считаются только неинстантные чары, которые вы сотворяете
+Only show Active gems	Показывать только активные камни
+Only show Support gems	Показывать только поддерживающие камни
+Only show results where total weight meets or exceeds this value.	Показывать только результаты, где общий вес не ниже этого значения.
+Only the number of different spells you cast count	Считается только число разных чар, которые вы сотворяете
+Open Next Trade URL	Открыть следующий URL торговли
+Open Trade URL	Открыть URL торговли
+Open URL	Открыть URL
+Opens the search page to show the item	Открывает страницу поиска с этим предметом
+Opt-in to weekly beta test builds	Участвовать в еженедельных бета-сборках
+Optimise Sockets	Оптимизировать гнёзда
+Optional	Необязательно
+Orbit	Орбита
+Other Ailment Defences	Прочая защита от недугов
+Other Avoidance	Прочее уклонение
+Other Defences	Прочая защита
+Other Effects	Прочие эффекты
+Other Trades	Другие обмены
+Other trades	Другие обмены
+Overkill damage	Урон добиванием
+Overlap Chance	Шанс перекрытия
+Overlay comparison	Наложение сравнения
+Override	Переопределение
+Override to the percent chance for the secondary projectiles to hit, default of 60% or 80% with helm enchant. (20% per secondary projectile)	Переопределение шанса попадания вторичных снарядов, по умолчанию 60% или 80% с зачарованием шлема. (20% на вторичный снаряд)
+Overrides	Переопределения
+Overrides Windows DPI scaling inside Path of Building.\nChoose a percentage between 100% and 250% or revert to the system default.	Переопределяет масштабирование DPI Windows в Path of Building.\nВыберите значение от 100% до 250% или вернитесь к системному.
+Overrides the automatically calculated Life of the minion supported by Companionship.	Переопределяет автоматически рассчитанное здоровье приспешника, поддержанного Товариществом.
+Overrides the automatically calculated Life of your Sentinel of Radiance that can be taken before yours.	Переопределяет автоматически рассчитанное здоровье вашего Стража сияния, которое будет получать урон до вас.
+Overrides the automatically calculated Life of your Stone Golem of Safeguarding that can be taken before yours.	Переопределяет автоматически рассчитанное здоровье вашего Каменного голема защиты, которое будет получать урон до вас.
+Overrides the automatically calculated Life of your Vaal Rejuvenation Totem that can be taken before yours.	Переопределяет автоматически рассчитанное здоровье вашего Тотема восстановления Вааль, которое будет получать урон до вас.
+Overrides the automatically calculated Life of your nearest Totem (excluding Vaal Rejuvenation Totem) that can be taken before yours (used by Totem Mastery).	Переопределяет автоматически рассчитанное здоровье вашего ближайшего Тотема (кроме Тотема восстановления Вааль), которое будет получать урон до вас (используется Мастерством тотемов).
+Overrides the automatically calculated total Life of your Spectres that can be taken before yours (used by Jinxed Juju).	Переопределяет автоматически рассчитанное общее здоровье ваших Иллюзий, которое будет получать урон до вас (используется Заколдованным Джуджу).
+Overrides the automatically calculated total Life of your Void Spawns that can be taken before yours.	Переопределяет автоматически рассчитанное общее здоровье ваших Порождений пустоты, которое будет получать урон до вас.
+Overrides the default hex colour for highlighting nodes in passive tree search. \nExpected format is 0x000000.	Переопределяет цвет подсветки узлов при поиске по древу умений. \nФормат: 0x000000.
+Overrides the default hex colour for negative values in breakdowns. \nExpected format is 0x000000.	Переопределяет цвет отрицательных значений в разбивке. \nФормат: 0x000000.
+Overrides the default hex colour for positive values in breakdowns. \nExpected format is 0x000000.	Переопределяет цвет положительных значений в разбивке. \nФормат: 0x000000.
+Overrides the default save location for builds.\nThe default location is	Переопределяет папку сохранения билдов по умолчанию.\nПапка по умолчанию:
+POE ERROR	POE ERROR
+Pact calc mode	Режим расчёта Пакта
+Paralysing Touch Stacks	Стаки Парализующего касания
+Parent	Родитель
+Party -	Группа -
+Party Member	Участник группы
+Party Member Chaos Resistance	Сопротивление хаосу участника группы
+Party Member Fire Resistance	Сопротивление огню участника группы
+Party Member Stats	Характеристики участника группы
+Passive	Пассивное
+Passive Skill Point	Очко пассивных умений
+Passive Skills	Пассивные умения
+Passive Skills in Radius also grant	Пассивные умения в радиусе также дают
+Passive Tree and Jewels	Древо умений и самоцветы
+Passive node to be refunded	Пассивный узел к возврату
+Passive nodes to be refunded	Пассивные узлы к возврату
+Passive tree	Древо умений
+Passive tree and jewels successfully imported.	Древо умений и самоцветы успешно импортированы.
+Passive tree link	Ссылка на древо умений
+Paste a build code or URL to import as comparison	Вставьте код билда или URL для импорта в качестве сравнения
+Paste the URL in a web browser to search.	Вставьте URL в браузер для поиска.
+Pastebin	Pastebin
+Path of Building	Path of Building
+Path of Building Community Fork v	Path of Building Community Fork v
+Pen	Проник.
+Penetration	Проникновение
+Per Point	За очко
+Percent	Процент
+Percentage	Процент
+Phasing	Фазирование
+Phys DPS	Физ. DPS
+Phys Max Hit	Макс. физ. удар
+Phys Recoup	Возврат физ. урона
+Phys as	Физ. как
+Phys. Damage Reduction	Снижение физ. урона
+Phys. Dmg. Reduct	Сниж. физ. урона
+Physical Taken as	Физический урон превращается в
+Physical and Chaos	Физический урон и урон хаосом
+Pierce Count	Число пронзаний
+Pinnacle	Вершина
+Placeholder	Заполнитель
+Placement speed	Скорость установки
+Player is cursed by	Игрок проклят:
+Player modifiers	Модификаторы игрока
+Please Wait	Подождите
+PoB Archives	Архивы PoB
+PoB Community Fork	PoB Community Fork
+PoEAPI	PoEAPI
+PoEDB	PoEDB
+PoEURL Shortener	Сокращатель PoEURL
+Points used	Использовано очков
+Poison Avoid Ch.	Шанс избежать Яда
+Poison DPS	DPS Яда
+Poison DPS exceeds in game limit	DPS Яда превышает игровой предел
+Poison Duration	Длительность Яда
+Poison Effect	Эффект Яда
+Poison Stack Limits	Пределы стаков Яда
+Poison Stacks	Стаки Яда
+PoisonDPS	PoisonDPS
+Portion of total damage	Доля общего урона
+Power	Сила
+Power Build time	Время расчёта Силы
+Power determines how strong your Warcry buffs will be, and is based on the total strength of nearby enemies.\nPower is assumed to be 20 if your target is a Boss, but you can override it here if necessary.\n\tEach Normal enemy grants 1 Power\n\tEach Magic enemy grants 2 Power\n\tEach Rare enemy grants 10 Power\n\tEach Unique enemy grants 20 Power	Сила определяет мощь ваших боевых кличей и зависит от общей силы врагов поблизости.\nСила считается равной 20, если цель — босс, но здесь её можно переопределить.\n\tКаждый обычный враг даёт 1 Силу\n\tКаждый волшебный враг даёт 2 Силы\n\tКаждый редкий враг даёт 10 Силы\n\tКаждый уникальный враг даёт 20 Силы
+Prefixes	Префиксы
+Press Ctrl+C to copy this node's text.	Нажмите Ctrl+C, чтобы скопировать текст этого узла.
+Press Ctrl+D	Нажмите Ctrl+D
+Press Ctrl+D to disable the display of stat differences.	Нажмите Ctrl+D, чтобы отключить отображение разницы характеристик.
+Press Ctrl+D to enable the display of stat differences.	Нажмите Ctrl+D, чтобы включить отображение разницы характеристик.
+Prevented Life Loss	Предотвращённая потеря здоровья
+Preview	Предпросмотр
+Previous AoE breakpoint	Предыдущий порог области
+Previous Proj. Speed breakpoint	Предыдущий порог скорости снарядов
+Price	Цена
+Price Item	Оценить предмет
+Pride Aura Effect	Эффект ауры Гордости
+Primary Node Weight	Основной вес узла
+Primary duration	Основная длительность
+Prismatic (Resistance)	Призматическое (сопротивление)
+Proj. Evade Ch.	Шанс укл. от снарядов
+Proj. Speed Mod	Мод. скорости снарядов
+Projectile Count	Число снарядов
+Projectile Evade Chance	Шанс уклонения от снарядов
+Projectile Spell	Снарядные чары
+Projectile Travelled through Flame Wall?	Снаряд пролетел через Стену пламени?
+Projectile Weakness	Слабость к снарядам
+Projectile travel distance	Дальность полёта снарядов
+Projectiles	Снаряды
+Projectiles Pierce 1 additional Targets	Снаряды пронзают на 1 цель больше
+Projectiles Pierce an additional Target	Снаряды пронзают на 1 дополнительную цель
+Protect allocated nodes from changing	Защитить выделенные узлы от изменения
+Proxy node not found	Узел-прокси не найден
+Proxy server	Прокси-сервер
+Pulses Per Trap	Импульсов на ловушку
+Punishment self-only	Наказание только на себя
+Purity	Чистота
+PvP Average Damage	Средний урон в PvP
+PvP Average Dmg	Сред. урон в PvP
+PvP Average Hit	Средний удар в PvP
+PvP Hit DPS	DPS ударов в PvP
+PvP Hit Taken	Удар в PvP получен
+PvP Hit taken	Удар в PvP получен
+PvP Multiplier	Множитель PvP
+PvP Tvalue override (ms)	Переопределение Tvalue PvP (мс)
+PvP damage scaling in effect	Действует масштабирование урона в PvP
+Quality (Elemental Modifiers)	Качество (стихийные модификаторы)
+Quality (Physical and Chaos Modifiers)	Качество (физические модификаторы и модификаторы хаоса)
+Quantity Multiplier	Множитель количества
+Query Options	Параметры запроса
+Query json	Запрос json
+RARE\nStat Tester\n	RARE\nStat Tester\n
+Race Events	События гонки
+Rage Cost	Стоимость свирепости
+Rage Cost per second	Стоимость свирепости в секунду
+Rage Effect	Эффект свирепости
+Rage Loss Delay	Задержка потери свирепости
+Rage Regen	Регенерация свирепости
+Rage per second	Свирепости в секунду
+Raider	Налётчик
+Rainbow	Радужный
+Raise Spectre gem for their buffs and curses to activate	Добавьте камень Призыва иллюзии, чтобы активировать их баффы и проклятия
+Rakiata (Tempered by War)	Rakiata (Закалённые войной)
+Rampage grants the following, up to 1000 stacks	Буйство даёт следующее, до 1000 стаков
+Random element mode	Режим случайной стихии
+Rare DB unrecognised item	Нераспознанный предмет Rare DB
+Rare Templates	Шаблоны редких
+Rares loaded	Редких загружено
+Rate	Скорость
+Rate per instance	Скорость на экземпляр
+Ratio of bleed stacks to maximum active bleeds	Отношение стаков кровотечения к максимуму активных кровотечений
+Raw	Сырое
+Re-import Current	Повторный импорт текущего
+Re-import character from the game server	Повторно импортировать персонажа с игрового сервера
+Re-import the currently selected character.	Повторно импортировать выбранного персонажа.
+Reallocating this node will give you	Повторное выделение этого узла даст вам
+Reaper Consumed recently?	Недавно поглощён Жнецом?
+Rebuild All	Пересобрать всё
+Rebuild the item's sockets to match the groups assigned to it.	Пересобрать гнёзда предмета по назначенным ему группам.
+Recently	Недавно
+Recently?	Недавно?
+Recharge Delay	Задержка перезарядки
+Recharge Rate	Скорость перезарядки
+Recharge rate	Скорость перезарядки
+Recharge started Recently?	Перезарядка началась недавно?
+Recharge started past 2 seconds?	Перезарядка началась за последние 2 секунды?
+Recoup	Возврат
+Recoup Avg.	Сред. возврат
+Recoup Max.	Макс. возврат
+Recoup and Hit Taken Over Time	Возврат и получение ударов с течением времени
+Recoverable ES	Восстанавливаемый ЭЩ
+Recovery	Восстановление
+Recovery Rate per stack	Скорость восстановления на стак
+Recovery modifiers	Модификаторы восстановления
+Recreating auth token	Пересоздание токена авторизации
+Red & Blue	Красный и синий
+Red & Green	Красный и зелёный
+Reduction from Armour	Снижение от брони
+Reflect taken	Отражённый урон
+Refreshes passive tree, jewels, items, and skills.	Обновляет древо умений, самоцветы, предметы и умения.
+Regen	Регенерация
+Regenerated per second	Регенерируется в секунду
+Regeneration	Регенерация
+Regeneration Rate	Скорость регенерации
+Regeneration Recovers	Регенерация восстанавливает
+Regeneration to players and allies.	Регенерация игрокам и союзникам.
+Remove All Tattoos	Удалить все татуировки
+Remove this gem.	Удалить этот камень.
+Remove this imbued support.	Удалить эту вживлённую поддержку.
+Removes account from the dropdown list	Убирает аккаунт из выпадающего списка
+Removes the effects of the supports, without removing the data\nUse \"rebuild all\" to apply the effects again	Убирает эффекты поддержек, не удаляя данные\nИспользуйте «Пересобрать всё», чтобы применить эффекты снова
+Removing	Удаление
+Removing legacy alternate ascendancies from tree	Удаление устаревших альтернативных восхождений из древа
+Removing this item from	Удаление этого предмета из
+Rename Tree	Переименовать древо
+Reparse all the inputs in case they have been disabled or they have changed since loading the build or importing	Перечитать все вводимые данные на случай, если они были отключены или изменились после загрузки билда или импорта
+Repeat	Повтор
+Repeat Count	Число повторов
+Repeat Mode	Режим повтора
+Replace Modifier of Node	Заменить модификатор узла
+Replica	Реплика
+Replica.	Реплика.
+Req	Треб.
+Required	Требуется
+Required Level	Требуемый уровень
+Required Stats	Требуемые характеристики
+Required ascendancy outcome	Требуемый исход восхождения
+Requires Class	Требуется класс
+Requires Class (.+)	Requires Class (.+)
+Requires Level	Требуется уровень
+Requires an active Jewel Socket	Требуется активное гнездо самоцвета
+Requires an active Jewel Socket.	Требуется активное гнездо самоцвета.
+Reservation DPS	DPS удержания
+ReservationDPS	ReservationDPS
+Reserve Duration	Длительность удержания
+Reserve Uptime	Время работы удержания
+Reset Node	Сбросить узел
+Reset Tree	Сбросить древо
+Resist	Сопротивление
+Resist=	Resist=
+Resist?M?a?x?$	Resist?M?a?x?$
+Resistance Conversion	Преобразование сопротивлений
+Resistance penalty	Штраф к сопротивлениям
+Resistance.	Сопротивление.
+Resists	Сопротивления
+Resource gain calculation mode	Режим расчёта получения ресурсов
+Response code	Код ответа
+Resulting ailment effect	Итоговый эффект недуга
+Retry%-After	Retry%-After
+Return type is not a table	Return type is not a table
+Right click this socket to go to the items page and choose the jewel for this socket.	Щёлкните правой кнопкой по этому гнезду, чтобы перейти на страницу предметов и выбрать самоцвет для него.
+Right click to edit the	Щёлкните правой кнопкой, чтобы изменить
+Right click to select a different effect	Щёлкните правой кнопкой, чтобы выбрать другой эффект
+Ring 1	Кольцо 1
+Ring 2	Кольцо 2
+Ring 3	Кольцо 3
+Ring Slot	Слот кольца
+Ring2	Ring2
+Ring3	Ring3
+Roll	Бросок
+Roll Ranges	Диапазоны бросков
+Rupture applies more bleed damage and faster bleeds for 3 seconds, up to 4 stacks	Разрывание наносит больше урона кровотечением и ускоряет его на 3 секунды, до 4 стаков
+Ruthless Support Mode	Режим поддержки «Беспощадный»
+SSF R	SSF R
+SSL verification disabled	Проверка SSL отключена
+Sacred Wisps cast chance	Шанс сотворения Священных огоньков
+Sacred Wisps using	Священные огоньки используют
+Sacrifice Minion on Attack	Принести приспешника в жертву при атаке
+Sacrificed (if not maximum)	Принесено в жертву (если не максимум)
+Sanguimancer Demon not on Low Life	Демон Кровеманта не на малом здоровье
+Sap	Ошеломление
+Sap Avoid Ch.	Шанс избежать Ошеломления
+Sap Duration	Длительность Ошеломления
+Sap Effect	Эффект Ошеломления
+Sap Effect Mod	Мод. эффекта Ошеломления
+Sap.	Ошеломление.
+SapDPS	SapDPS
+Sapped.	Ошеломлён.
+Sapped?	Ошеломлён?
+Save As	Сохранить как
+Save Changes	Сохранить изменения
+Saviour	Спаситель
+Scholar's Platinum Kris of Joy	Платиновый кинжал радости учёного
+Scold's Bridle base damage	Базовый урон Уздечки ворчуньи
+Scorch	Опаление
+Scorch Avoid Ch.	Шанс избежать Опаления
+Scorch Duration	Длительность Опаления
+Scorch Effect	Эффект Опаления
+Scorch Effect Mod	Мод. эффекта Опаления
+Scorch Stacks	Стаки Опаления
+ScorchDPS	ScorchDPS
+Scorched.	Опалён.
+Scorched?	Опалён?
+Scorching Ray Totem stage count	Число стадий Тотема палящего луча
+Scourge Mods	Моды Невзгоды
+Seal Gain Frequency	Частота получения Печатей
+Seal Gain Rate	Скорость получения Печатей
+Search Maximum Amount	Макс. искомое количество
+Search for	Искать
+Search for Node	Искать узел
+Searching Eye Jewel	Самоцвет пытливого глаза
+League: Allflame	League: Allflame
+Limited to: 1 Historic	Limited to: 1 Historic
+Implicits: 0	Implicits: 0
+Subjugating	Subjugating
+Second	Секунда
+Second Cooldown When Deactivated	Перезарядка в секундах при деактивации
+Secondary Duration	Вторичная длительность
+Secondary Node Weight	Вторичный вес узла
+Secondary Radius	Вторичный радиус
+Secondary Uptime	Вторичное время работы
+Secondary duration	Вторичная длительность
+Seconds of chill on enemy?	Секунд охлаждения на враге?
+Seconds of freeze on enemy?	Секунд заморозки на враге?
+Section	Секция
+See All	Показать все
+Seed	Сид
+Seeds that do not meet the minimum weight threshold for a desired node are excluded from the search results.	Сиды, не достигающие минимального порога веса для нужного узла, исключаются из результатов поиска.
+Select a metric above to generate the power report.	Выберите метрику выше, чтобы создать отчёт о силе.
+Select a metric to calculate power report	Выберите метрику для расчёта отчёта о силе
+Select the item in which this skill is socketed.	Выберите предмет, в гнезде которого находится это умение.
+Selected Alt Variant	Выбранный альт. вариант
+Selected Alt Variant Five	Выбранный альт. вариант пять
+Selected Alt Variant Four	Выбранный альт. вариант четыре
+Selected Alt Variant Three	Выбранный альт. вариант три
+Selected Alt Variant Two	Выбранный альт. вариант два
+Selected Variant	Выбранный вариант
+Selected Variant Group	Выбранная группа вариантов
+Selected Variants	Выбранные варианты
+Selected Version	Выбранная версия
+Selecting an influence here will also allow the modifier dropdowns to contain influenced mods.	Выбор влияния здесь также позволит выпадающим спискам модификаторов содержать моды с влиянием.
+Selecting this	Выбор этого
+Selecting this gem will give you	Выбор этого камня даст вам
+Self	Себя
+Self hit Damage	Урон себе от удара
+Sentinel of Radiance Life override	Переопределение здоровья Стража сияния
+Session Mode	Режим сессии
+Set Name	Название набора
+Set the default level of your builds. If this is higher than 1, manual level mode will be enabled by default in new builds.	Задайте уровень ваших билдов по умолчанию. Если он больше 1, в новых билдах по умолчанию включится ручной режим уровня.
+Set the default quality that can be overwritten by build-related quality settings in the skill panel.	Задайте качество по умолчанию, которое могут переопределить настройки качества билда на панели умений.
+Sets current number of Bleeds on the enemy if using the Crimson Dance keystone.\nThis also implies that the enemy is Bleeding.	Задаёт текущее число Кровотечений на враге при ключевом умении Багровый танец.\nЭто также подразумевает, что враг истекает кровью.
+Sets the EHP calc to not apply gain on block, suppress or Defiance of Destiny effects	Расчёт EHP не учитывает получение при блоке, подавлении и эффекты Противления судьбе
+Sets the amount of resonance on the lowest element.	Задаёт количество резонанса на самой слабой стихии.
+Sets the amount of unholy resonance on the lowest element.	Задаёт количество нечестивого резонанса на самой слабой стихии.
+Sets the blade count for Blade Vortex skills used by spectres.\nDefault is 1; maximum is 5.	Задаёт число клинков для умений Вихря клинков, используемых иллюзиями.\nПо умолчанию 1; максимум 5.

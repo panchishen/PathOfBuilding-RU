@@ -1,0 +1,387 @@
+Your Build	Ваш билд
+Your Chaos Resistance	Ваше сопротивление хаосу
+Your Dominating Blow Skill Damage will not be scaled with Count setting.\nBy default it multiplies both minion count and skill hit count which leads to incorrect\nTotal DPS calculation since Dominating Blow cannot inherently shotgun.\nDo not enable if you use Spell Totem support, Spell Cascade support or similar supports	Урон умения Dominating Blow не будет масштабироваться настройкой Count.\nПо умолчанию она умножает и число приспешников, и число попаданий умения, что даёт неверный\nобщий DPS, так как Dominating Blow не может бить дробью.\nНе включайте при использовании поддержки Spell Totem, Spell Cascade или подобных
+Your Fire Resistance	Ваше сопротивление огню
+Your Holy Strike Skill Damage will not be scaled with Count setting.\nBy default it multiplies both minion count and skill hit count which leads to incorrect\nTotal DPS calculation since Holy Strike cannot inherently shotgun.	Урон умения Holy Strike не будет масштабироваться настройкой Count.\nПо умолчанию она умножает и число приспешников, и число попаданий умения, что даёт неверный\nобщий DPS, так как Holy Strike не может бить дробью.
+Your unreserved Life is below 1	Ваше свободное здоровье ниже 1
+Your unreserved Mana is negative	Ваша свободная мана отрицательна
+\" not supported.  Select a specific stat from the dropdown.	\" не поддерживается.  Выберите конкретный параметр из списка.
+\"Socketed in\" item must be set in order to add an imbued support.\nOnly one imbued support is allowed per item.	Для добавления imbued-поддержки нужно задать предмет «Socketed in».\nНа предмет допускается только одна imbued-поддержка.
+\n+5 to Devotion	\n+5 к преданности
+\n10% increased Action Speed\nBuff affects the player and allies\nBuff has a base duration of 8s with a 10s Cooldown	\n10% повышение скорости действий\nЭффект действует на игрока и союзников\nБазовая длительность эффекта 8 с, перезарядка 10 с
+\n10% increased Action Speed\nBuff affects the player, allies and enemies in a small radius\nBuff has a base duration of 8s with a 20s Cooldown	\n10% повышение скорости действий\nЭффект действует на игрока, союзников и врагов в малом радиусе\nБазовая длительность эффекта 8 с, перезарядка 20 с
+\n15% faster start of Energy Shield Recharge, \nChannelling Spells deal 5% more Damage and \nChannelling Spells have 10% more Cost\nMaximum 10 stacks	\n15% более быстрое начало восстановления энергетического щита, \nКанализируемые чары наносят на 5% больше урона и \nКанализируемые чары требуют на 10% больше затрат\nМаксимум 10 зарядов
+\n20% increased Flask Charges gained\n10% increased effect of Flasks	\n20% повышение получаемых зарядов фляги\n10% повышение эффекта фляг
+\nAdding this mod will give	\nДобавление этого свойства даст
+\nAuthorization is invalid. Please Re-Log and reset	\nАвторизация недействительна. Войдите заново и сбросьте
+\nAverage: Averages out Warcry usage with cast time, attack speed and warcry cooldown.\nMax Hit: Shows maximum hit for lining up all warcries.	\nСреднее: усредняет использование кличей с учётом времени сотворения, скорости атаки и перезарядки кличей.\nМакс. удар: показывает максимальный удар при совмещении всех кличей.
+\nAverage: Averages the effect based on Pact uptime.\nMax Hit: Applies the full effect to one Empowered spell.	\nСреднее: усредняет эффект по времени действия пакта.\nМакс. удар: применяет полный эффект к одним усиленным чарам.
+\nCheck your internet connectivity.\nIf you are using a proxy, specify it in Options.	\nПроверьте подключение к интернету.\nЕсли вы используете прокси, укажите его в настройках.
+\nCurrent Path	\nТекущий путь
+\nEnemies Deal 30% Increased Damage\nEnemies take 80% Less Damage	\nВраги наносят на 30% больше урона\nВраги получают на 80% меньше урона
+\nHas a default cap of 20 stacks.	\nПо умолчанию максимум 20 зарядов.
+\nIf this location is managed by OneDrive, navigate to that folder and manually try	\nЕсли это место управляется OneDrive, перейдите в эту папку и попробуйте вручную
+\nIf updating while inside a build, please re-load the build after saving.	\nЕсли обновление идёт внутри билда, загрузите билд заново после сохранения.
+\nMake sure the save folder exists and is writable.	\nУбедитесь, что папка сохранения существует и доступна для записи.
+\nPlease re-authenticate	\nПройдите повторную аутентификацию
+\nScroll Up = Move right\nScroll Down = Move left	\nПрокрутка вверх = вправо\nПрокрутка вниз = влево
+\nThis cannot be undone.	\nЭто нельзя отменить.
+\nYou cannot delete this group, but it will disappear if you lose the above sources.	\nЭту группу нельзя удалить, но она исчезнет, если вы потеряете указанные выше источники.
+\nYou lose 10	\nВы теряете 10
+\nYou will automatically be considered to be on Full	\nВы автоматически считаетесь находящимся на полном
+\n\t1% increased Movement Speed per 20 Rampage\n\t2% increased Damage per 20 Rampage\nYou lose Rampage if you do not get a Kill within 5 seconds.	\n\t1% повышение скорости передвижения за каждые 20 Буйства\n\t2% повышение урона за каждые 20 Буйства\nВы теряете Буйство, если не совершили убийство в течение 5 секунд.
+\n\t10% increased Effect of Curses\n\t100% increased chance to be Critically Hit	\n\t10% повышение эффекта проклятий\n\t100% повышение шанса получить критический удар
+\n\t10% more Minion Damage\n\t10% increased Minion Movement Speed\n\t10% increased Minion Attack and Cast Speed	\n\t10% больше урона приспешников\n\t10% повышение скорости передвижения приспешников\n\t10% повышение скорости атаки и сотворения приспешников
+\n\t100% increased Damage\n\t25% increased Attack, Cast and Movement Speed\n\t10% additional Physical Damage Reduction	\n\t100% повышение урона\n\t25% повышение скорости атаки, сотворения и передвижения\n\t10% дополнительное снижение физического урона
+\n\t100% increased Physical Damage\n\t10% increased Action Speed\n\tHits ignore Enemy Physical Damage Reduction\n\tCannot be Stunned	\n\t100% повышение физического урона\n\t10% повышение скорости действий\n\tУдары игнорируют снижение физического урона врага\n\tНевозможно оглушить
+\n\t100% increased maximum	\n\t100% повышение максимума
+\n\t15% Chance to Avoid all Damage from Hits\n\t30% increased Movement Speed\nThe effect of Elusive decays over time.	\n\t15% шанс избежать всего урона от ударов\n\t30% повышение скорости передвижения\nЭффект Неуловимости со временем спадает.
+\n\t20% increased	\n\t20% повышение
+\n\t30% increased Damage Taken\n\tDeal 30% less Damage	\n\t30% повышение получаемого урона\n\tВы наносите на 30% меньше урона
+\n\t4% inc Damage Taken per stack\n\t2% reduced Action Speed per stack\n\t10% reduced	\n\t4% повышение получаемого урона за заряд\n\t2% снижение скорости действий за заряд\n\t10% снижение
+\n\t5% increased Attack Speed\n\t5% increased Cast Speed\n\t1% increased character size per stack.	\n\t5% повышение скорости атаки\n\t5% повышение скорости сотворения чар\n\t1% повышение размера персонажа за заряд.
+\n\t50% increased maximum	\n\t50% повышение максимума
+\n\t75% more Elemental Damage\n\t25% less Elemental Damage taken	\n\t75% больше урона от стихий\n\t25% меньше получаемого урона от стихий
+\n\tAverage: damage is based on the average application, including both crits and non-crits\n\tCrits Only: damage is based solely on Ailments inflicted with crits	\n\tСреднее: урон считается по среднему применению, включая крит и некрит\n\tТолько крит: урон считается только по состояниям, наложенным критом
+\n\tAverage: damage is based on the average application\n\tMax Effect: damage is based on maximum effect	\n\tСреднее: урон считается по среднему применению\n\tМакс. эффект: урон считается по максимальному эффекту
+\n\tAverage: uses the Average of all typed damage types (except Damage Over Time and Untyped)\n\nIf a specific damage type is selected, that will be the only type used.	\n\tСреднее: используется среднее по всем типам урона (кроме урона со временем и без типа)\n\nЕсли выбран конкретный тип урона, будет использоваться только он.
+\n\tDeal 10% less Damage\n\t10% reduced Action Speed	\n\tВы наносите на 10% меньше урона\n\tСнижение скорости действий на 10%
+\n\tEroding Touch: 6% inc Damage Taken per stack\n\tParalysing Touch: 6% reduced Action Speed per stack\n\tDiluting Touch: 9% reduced Flask charges gained and 9% reduced Flask Effect per stack\n\tWasting Touch: 9% reduced	\n\tЕдкое касание: 6% повышение получаемого урона за заряд\n\tПарализующее касание: 6% снижение скорости действий за заряд\n\tРазбавляющее касание: 9% снижение получаемых зарядов фляги и 9% снижение эффекта фляг за заряд\n\tИстощающее касание: 9% снижение
+\n\tMinimum: does not include burst regen\n\tAverage: includes burst regen, averaged based on uptime\n\tBurst: includes full burst regen	\n\tМинимум: без учёта всплеска восстановления\n\tСреднее: с учётом всплеска восстановления, усреднённого по времени действия\n\tВсплеск: с учётом полного всплеска восстановления
+\n\tMinimum: does not include chances\n\tAverage: includes chance gains, averaged based on uptime\n\tMaximum: treats all chances as certain	\n\tМинимум: без учёта шансов\n\tСреднее: с учётом шансов, усреднённых по времени действия\n\tМаксимум: все шансы считаются гарантированными
+\n\tMinimum: never Defend with Double Armour\n\tAverage: Damage Reduction from Defending with Double Armour is proportional to chance\n\tMaximum: always Defend with Double Armour\nThis setting has no effect if you have 100% chance to Defend with Double Armour.	\n\tМинимум: никогда не защищаетесь с двойной бронёй\n\tСреднее: снижение урона от защиты с двойной бронёй пропорционально шансу\n\tМаксимум: всегда защищаетесь с двойной бронёй\nНастройка не действует, если у вас 100% шанс защититься с двойной бронёй.
+\n\tMinimum: never ignores unless chance is at least 100%\n\tAverage: damage is based on the average application\n\tMax Effect: always ignores if you have any chance	\n\tМинимум: никогда не игнорирует, пока шанс не достигнет 100%\n\tСреднее: урон считается по среднему применению\n\tМакс. эффект: всегда игнорирует, если есть хоть какой-то шанс
+\nbut you can use this option to force it if necessary.	\nно вы можете использовать эту опцию, чтобы включить его принудительно.
+] for jewel type	] для типа самоцвета
+`count` integer value scales the DPS of associated skill by a scalar.	Целое значение `count` масштабирует DPS связанного умения на множитель.
+above to import a build to compare against.	выше, чтобы импортировать билд для сравнения.
+active or\nan Iron Flask with enough Flask Charges gained on	активна или\nЖелезная фляга с достаточным числом получаемых зарядов при
+an enemy Recently?	врага недавно?
+and E is the exponent	а E — показатель степени
+and non-bypassed Energy Shield	и необойдённый энергетический щит
+and try again.	и повторите попытку.
+applied Recently	наложено недавно
+applied to the enemy.	наложено на врага.
+applied to the enemy.\n\n	наложено на врага.\n\n
+arakaali's fang	arakaali's fang
+arcanist brand	arcanist brand
+are doubled	удвоены
+asenath's chant	asenath's chant
+assassin myfilename)	assassin myfilename)
+attack rate	скорость атаки
+attacks per second	атак в секунду
+attempting to rebuild NodeIndexMapping	попытка перестроить NodeIndexMapping
+avenging flame	avenging flame
+average damage	средний урон
+base LUT found	найдена базовая LUT
+base outer radius	базовый внешний радиус
+base radius resulting in	базовый радиус, дающий
+battlemage's cry	battlemage's cry
+before exiting?	перед выходом?
+before updating?	перед обновлением?
+broken in the past 2s?	сломан за последние 2 с?
+bursting toad	bursting toad
+by your Hits?	вашими ударами?
+call the pyre	call the pyre
+call to arms	call to arms
+cameria's avarice	cameria's avarice
+can appear on	может появляться на
+can be anointed	можно помазать
+can be overridden in	можно переопределить в
+can have 1 additional enchantment modifiers	может иметь 1 дополнительное свойство зачарования
+can have 2 additional enchantment modifiers	может иметь 2 дополнительных свойства зачарования
+can have 3 additional enchantment modifiers	может иметь 3 дополнительных свойства зачарования
+can have a second enchantment modifier	может иметь второе свойство зачарования
+cane of kulemak	cane of kulemak
+cannot roll attack modifiers	не может иметь свойства атак
+cannot roll caster modifiers	не может иметь свойства заклинателя
+cannot roll modifiers of non-chaos damage types	не может иметь свойства нехаотических типов урона
+cannot roll modifiers of non-cold damage types	не может иметь свойства нехолодных типов урона
+cannot roll modifiers of non-fire damage types	не может иметь свойства неогненных типов урона
+cannot roll modifiers of non-lightning damage types	не может иметь свойства неэлектрических типов урона
+cannot roll modifiers of non-physical damage types	не может иметь свойства нефизических типов урона
+cast on critical strike	сотворение при критическом ударе
+cast on death	сотворение при смерти
+cast on melee kill	сотворение при убийстве в ближнем бою
+cast on ward break	сотворение при разрушении оберега
+cast rate	скорость сотворения
+cast time	время сотворения
+cast when damage taken	сотворение при получении урона
+cast when stunned	сотворение при оглушении
+cast while channelling	сотворение при канализации
+casts per second	сотворений в секунду
+chance of	шанс
+chance.\n\nThe default level for normal enemies and standard bosses is 83.\nTheir default level is capped by your character level.\n\nThe default level for pinnacle bosses is 84, and the default level for uber pinnacle bosses is 85.\nTheir default level is not capped by your character level.	шанс.\n\nУровень по умолчанию для обычных врагов и стандартных боссов — 83.\nИх уровень по умолчанию ограничен уровнем вашего персонажа.\n\nУровень по умолчанию для финальных боссов — 84, для усиленных финальных боссов — 85.\nИх уровень по умолчанию не ограничен уровнем вашего персонажа.
+changes nothing because this node is already allocated on the tree.	ничего не меняет, так как этот узел уже занят на древе.
+changes nothing because this node is already anointed.	ничего не меняет, так как этот узел уже помазан.
+changes nothing.	ничего не меняет.
+classId, ascendClassId	classId, ascendClassId
+coins to commemorate Caspiro	монеты в память о Каспиро
+Passives in radius are Conquered by the Eternal Empire	Пассивные умения в радиусе завоёваны Вечной империей
+Historic	Историческое
+conversion Omniscience	превращение Omniscience
+cospri's malice	cospri's malice
+cost efficiency)	эффективность затрат)
+couldn't download version manifest	не удалось загрузить манифест версии
+csv found	csv найден
+csv missing, cannot rebuild NodeIndexMapping	csv отсутствует, невозможно перестроить NodeIndexMapping
+damage is equal to 25% of Overkill damage.	урон равен 25% урона от Overkill.
+damage per ignite stack	урон за стак поджога
+damage per poison stack	урон за стак яда
+dekhara in the akhara of Balbala	дехара из ахары Бальбалы
+Passives in radius are Conquered by the Maraketh	Пассивные умения в радиусе завоёваны Маракетом
+Historic	Историческое
+delete "	удалить "
+doom blast	doom blast
+down arrow	стрелка вниз
+end)();\nreturn c\n	end)();\nreturn c\n
+enemies deal less damage, up to 20%.	враги наносят меньше урона, до 20%.
+enemies have lowered elemental resistances, up to -30%.\nThis option will also allow you to input the effect of	у врагов снижено сопротивление стихиям, до -30%.\nЭта опция также позволяет ввести эффект
+enemies have up to +6% Critical Strike Chance.\nThis option will also allow you to input the effect of	у врагов до +6% к шансу критического удара.\nЭта опция также позволяет ввести эффект
+every second if you have not been Hit or gained	каждую секунду, если вас не ударили и вы не получили
+expires ([^ ]+) faster	истекает ([^ ]+) быстрее
+expires ([^ ]+) slower	истекает ([^ ]+) медленнее
+explicit physical and chaos damage	прямой физический урон и урон хаосом
+failed to set breakdown pin colour	не удалось задать цвет метки разбивки
+falling crystal	falling crystal
+festering resentment cast on block	festering resentment cast on block
+final radius	конечный радиус
+first passive node	первый пассивный узел
+fixed deadzone radius	фиксированный радиус мёртвой зоны
+flames of judgement	flames of judgement
+for 4 seconds)	на 4 секунды)
+for this node	для этого узла
+foulborn kitava's thirst	foulborn kitava's thirst
+from health pools, via damage reductions, to the max hit	от пулов здоровья через снижение урона к макс. удару
+from main weapon	от основного оружия
+from parent main weapon	от основного оружия родителя
+full unleash	full unleash
+ghostly artillery	ghostly artillery
+glimpse of chaos	glimpse of chaos
+has a crucible passive skill tree	имеет пассивное древо Горнила
+has a crucible passive skill tree with only support passive skills	имеет пассивное древо Горнила только с поддерживающими пассивными умениями
+has a two handed sword crucible passive skill tree	имеет пассивное древо Горнила двуручного меча
+has elder, shaper and all conqueror influences	имеет влияния Древнего, Создателя и всех Завоевателей
+has no base cooldown	не имеет базовой перезарядки
+has no base cooldown or cooldown override	не имеет базовой перезарядки или переопределения перезарядки
+hex on trap	hex on trap
+if the account name contains non-ASCII characters it must be pasted into the textbox,\nnot typed manually.	если имя аккаунта содержит символы не из ASCII, его нужно вставить в текстовое поле,\nа не вводить вручную.
+if the eater of worlds is dominant	if the eater of worlds is dominant
+if you have	если у вас есть
+if you have Chaos Inoculation,	если у вас есть Chaos Inoculation,
+if you have at least	если у вас есть не менее
+if you have at least 50%	если у вас есть не менее 50%
+implicit modifiers cannot be changed	неявные свойства нельзя изменить
+in last	за последние
+in past	за последние
+in set '	в наборе '
+in the Items tab	во вкладке «Предметы»
+in the last	за последние
+in the last 2 seconds.	за последние 2 секунды.
+in the last 4 seconds.	за последние 4 секунды.
+in the past	за последние
+inflict # additional poisons	накладывает # дополнительных ядов
+inflict # additional poisons (Main Hand)	накладывает # дополнительных ядов (основная рука)
+inflict # additional poisons (Off Hand)	накладывает # дополнительных ядов (вторая рука)
+inflict Decay	накладывает Распад
+inflict x additional poisons	накладывает x дополнительных ядов
+initial portion	начальная часть
+instantly, and an additional	мгновенно и дополнительно
+instantly, plus	мгновенно, плюс
+instead applies to	вместо этого применяется к
+intuitive link	intuitive link
+invalid anchor position '	недопустимая позиция якоря '
+invalid local manifest	недопустимый локальный манифест
+invalid remote manifest	недопустимый удалённый манифест
+is 30, and inherently grants 1% More Attack Damage per 1	равно 30 и по умолчанию даёт 1% больше урона атак за каждые 1
+is currently equipped in	сейчас экипировано в
+is currently equipped in an Abyssal Socket	сейчас экипировано в бездонное гнездо
+is currently equipped in passive tree '	сейчас экипировано в пассивном древе '
+is not supported yet	пока не поддерживается
+is outside of valid range [	вне допустимого диапазона [
+is running then restart	запущен, затем перезапустите
+jorrhast's blacksteel	jorrhast's blacksteel
+kinetic flux	kinetic flux
+kitava's thirst	kitava's thirst
+law of the wilds	law of the wilds
+lioneye's paws	lioneye's paws
+local tree=	local tree=
+looking for base LUT to rebuild	поиск базовой LUT для перестройки
+maloney's mechanism	maloney's mechanism
+manaforged arrows	manaforged arrows
+mark of the elder	mark of the elder
+mark of the shaper	mark of the shaper
+mark on hit	mark on hit
+matches '	совпадает с '
+might of the meek	might of the meek
+min combined sources + (max combined sources - min combined sources) * average ignite roll	мин. суммарные источники + (макс. суммарные источники - мин. суммарные источники) * средний бросок поджога
+min source phys + (max source phys - min source phys) * average bleed roll	мин. физ. источника + (макс. физ. источника - мин. физ. источника) * средний бросок кровотечения
+mine laying	установка мин
+missing GV file to rebuild NodeIndexMapping	отсутствует файл GV для перестройки NodeIndexMapping
+missing bases for type	отсутствуют базы для типа
+missing name	отсутствует имя
+missing sprite	отсутствует спрайт
+mod id doesn't exist	id свойства не существует
+mode element is invalid	элемент режима недопустим
+moonbender's wing	moonbender's wing
+move "	переместить "
+net AoE multiplier (scales area)	итоговый множитель области действия (масштабирует область)
+net projectile speed multiplier (scales range)	итоговый множитель скорости снарядов (масштабирует дальность)
+next to unsupported mods	рядом с неподдерживаемыми свойствами
+ngamahu's flame	ngamahu's flame
+no object returned	объект не возвращён
+nodeIDList[\"sizeNotable\"] =	nodeIDList[\"sizeNotable\"] =
+nodeIDList[\"size\"] =	nodeIDList[\"size\"] =
+nodes in trace path	узлов на пути трассировки
+nothing will give you	ничего не даст
+of its max damage	от макс. урона
+of the Skeleton that is being targeted.	Скелета, выбранного целью.
+of the target corpse for Detonate Dead and similar skills.\nFor reference, a level 70 monster has	целевого трупа для Detonate Dead и подобных умений.\nДля справки: монстр 70 уровня имеет
+of the target minion for Communion.	целевого приспешника для Communion.
+on affected enemies by 15%, up to 5 stacks.	на затронутых врагов на 15%, до 5 стаков.
+on enemy	на враге
+one or more files couldn't be downloaded	не удалось загрузить один или несколько файлов
+option will give you	опция даст
+or the nodes leading to it	или узлы, ведущие к нему
+over cap	сверх предела
+over subsequent	за последующие
+overridden from	переопределено из
+per Seal	за Печать
+per second	в секунду
+physical damage reduction	снижение физического урона
+poet's pen	poet's pen
+points gained from unallocating these nodes	очков, получаемых при снятии этих узлов
+points to node	очков в узел
+prefix modifiers? allowed	разрешены ли префиксы?
+prismatic burst	prismatic burst
+recovery rate per stack	скорость восстановления за стак
+regen calculation mode	режим расчёта регенерации
+regeneration is calculated	регенерация рассчитывается
+replica eternity shroud	replica eternity shroud
+replica gifts from above	replica gifts from above
+replica lioneye's paws	replica lioneye's paws
+required to switch to this tree.	требуется для переключения на это древо.
+required to unallocate these nodes	требуется, чтобы снять эти узлы
+required to unallocate this node	требуется, чтобы снять этот узел
+reserved,\nbut you can use this option to force it if necessary.	зарезервировано,\nно вы можете использовать эту опцию, чтобы включить принудительно.
+resetting your passive tree or removing all tattoos cannot be undone.\n	сброс пассивного древа или удаление всех татуировок нельзя отменить.\n
+return nodeIDList	return nodeIDList
+return tree	return tree
+rigwald's crest	rigwald's crest
+rounded up to nearest server tick	округлено вверх до ближайшего тика сервера
+s Vigilance (this needs to fail with divine flesh as it can	s Vigilance (this needs to fail with divine flesh as it can
+s bucket to the new name	s bucket to the new name
+s distance from the class	s distance from the class
+s explicitly lower, then use the resist and update which element we	s explicitly lower, then use the resist and update which element we
+s for	s for
+s itemsTab which don	s itemsTab which don
+s main group not in primary	s main group not in primary
+s not, since the game doesn	s not, since the game doesn
+s nowhere on the tree where we can	s nowhere on the tree where we can
+s parse it if it	s parse it if it
+s room, otherwise they	s room, otherwise they
+s start node is connected to the current class	s start node is connected to the current class
+s start node is definitely connected to the current class	s start node is definitely connected to the current class
+s to import links. Currently only supports protocol handler URI	s to import links. Currently only supports protocol handler URI
+s viewer with compareSpec set to the compare entry	s viewer with compareSpec set to the compare entry
+s window title (compare entry	s window title (compare entry
+sacrificed in the name of Ahuana	sacrificed in the name of Ahuana
+Passives in radius are Conquered by the Vaal	Passives in radius are Conquered by the Vaal
+Historic	Historic
+seconds per attack	seconds per attack
+seconds per throw	seconds per throw
+seize the flesh	seize the flesh
+set vid_mode 8	set vid_mode 8
+set vid_resizable 3	set vid_resizable 3
+seven teachings	seven teachings
+shroud of the lightless	shroud of the lightless
+similar or better items for this build	similar or better items for this build
+single poison damage per second	single poison damage per second
+some or all of the passives may be de-allocated due to changes in the tree.\n\n	some or all of the passives may be de-allocated due to changes in the tree.\n\n
+songworthy deeds by the line of Medved	songworthy deeds by the line of Medved
+Passives in radius are Conquered by the Kalguur	Passives in radius are Conquered by the Kalguur
+Historic	Historic
+souls in the thrall of Amanamu	souls in the thrall of Amanamu
+Passives affected are Conquered by the Abyssal	Passives affected are Conquered by the Abyssal
+Historic	Historic
+souls in the thrall of Kurgal	souls in the thrall of Kurgal
+Passives affected are Conquered by the Abyssal	Passives affected are Conquered by the Abyssal
+Historic	Historic
+souls in the thrall of Tecrod	souls in the thrall of Tecrod
+Passives affected are Conquered by the Abyssal	Passives affected are Conquered by the Abyssal
+Historic	Historic
+souls in the thrall of Ulaman	souls in the thrall of Ulaman
+Passives affected are Conquered by the Abyssal	Passives affected are Conquered by the Abyssal
+Historic	Historic
+souls to phylacteries to sustain Zorath	souls to phylacteries to sustain Zorath
+Passives affected are Conquered by the Abyssal	Passives affected are Conquered by the Abyssal
+Historic	Historic
+source rate)	source rate)
+spent Recently	spent Recently
+spent Recently.	spent Recently.
+spent Recently?	spent Recently?
+squirming terror	squirming terror
+start "	start "
+starting nodes to your tree.	starting nodes to your tree.
+stasis prison	stasis prison
+storm of judgement	storm of judgement
+suffix modifiers? allowed	suffix modifiers? allowed
+svalinn cast on block	svalinn cast on block
+t 0 and that ward doesn	t 0 and that ward doesn
+t 1, then the code below this doesn	t 1, then the code below this doesn
+t GV, or GV has already emptied it	t GV, or GV has already emptied it
+t apply non-perma ward for speed up calcs as it won	t apply non-perma ward for speed up calcs as it won
+t check if the inner list has changed so selecting the first item doesn	t check if the inner list has changed so selecting the first item doesn
+t fit, shift to left and adjust drawStack (because hover tooltips can	t fit, shift to left and adjust drawStack (because hover tooltips can
+t get changed so can	t get changed so can
+t have an identifier, so we	t have an identifier, so we
+t highlight the node if it can	t highlight the node if it can
+t know their location because it	t know their location because it
+t match up with the breakdown names, or if the breakdown is conditional, but the cell isn	t match up with the breakdown names, or if the breakdown is conditional, but the cell isn
+t natively spawn on items, so we	t natively spawn on items, so we
+t nil the gemId here if it doesn	t nil the gemId here if it doesn
+t recognize the mastery selection or if we have a selection on a mastery that isn	t recognize the mastery selection or if we have a selection on a mastery that isn
+t use self	t use self
+t use the faster path where items don	t use the faster path where items don
+t usually respect any kind of limit, so there	t usually respect any kind of limit, so there
+t want to return if we	t want to return if we
+tattoo has been substituted with	тату заменена на
+tempest shield	tempest shield
+the cauteriser	the cauteriser
+the hidden blade	the hidden blade
+the rippling thoughts	the rippling thoughts
+the surging thoughts	the surging thoughts
+this code can be very long; you can use 'Share' to shrink it.	этот код может быть очень длинным; используйте «Поделиться», чтобы сократить его.
+this group is disabled because it is socketed in the inactive weapon set.	эта группа отключена, так как вставлена в неактивный набор оружия.
+threshold jewels	пороговые самоцветы
+to Dexterity	к ловкости
+to Strength	к силе
+to disable the display of stat differences.	чтобы отключить отображение разницы характеристик.
+to enable the display of stat differences.	чтобы включить отображение разницы характеристик.
+to gain Added Maximum	чтобы получить добавленный максимум
+to the enemy.	на врага.
+to the enemy.\nCorrosion lasts 4 seconds and refreshes the duration of existing Corrosion stacks\nCorrosion has no stack limit	на врага.\nКоррозия длится 4 секунды и обновляет длительность существующих стаков Коррозии\nУ Коррозии нет предела стаков
+to use	чтобы использовать
+totem placement	размещение тотема
+trap throwing	бросок ловушки
+trauma per second	травма в секунду
+trigger craft	создание триггера
+un-allocate the node.	чтобы снять узел.
+un-equip the item.	чтобы снять предмет.
+uul-netol's embrace	uul-netol's embrace
+vixen's entrapment	vixen's entrapment
+void shockwave	void shockwave
+warriors under Akoya	воины под предводительством Акои
+Passives in radius are Conquered by the Karui	Пассивные умения в радиусе завоёваны Каруи
+Historic	Историческое
+was successfully added to your build.	успешно добавлено в ваш билд.
+will automatically apply to the skill.	автоматически применится к умению.
+will give You	даст вам
+will give you	даст вам
+will reset your passive tree.\nThis can be avoided by connecting one of the	сбросит ваше пассивное древо.\nЭтого можно избежать, подключив один из
+wing of the wyvern	wing of the wyvern
+x %.2fs	x %.2fs
+x %.3f damage mult	x %.3f множитель урона
+x Spell Suppression	x подавление чар
+x Taken	x получаемый
+your cloud provider	ваш облачный провайдер

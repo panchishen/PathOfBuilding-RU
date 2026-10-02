@@ -1,0 +1,343 @@
+Sets the level of Assassin's Mark to apply to the player.	Задаёт уровень Метки убийцы, накладываемой на игрока.
+Sets the level of Conductivity to apply to the player.	Задаёт уровень Проводимости, накладываемой на игрока.
+Sets the level of Despair to apply to the player.	Задаёт уровень Отчаяния, накладываемого на игрока.
+Sets the level of Elemental Weakness to apply to the player.\nIn mid tier maps, 'of Elemental Weakness' applies level 10.\nIn high tier maps, 'of Elemental Weakness' applies level 15.	Задаёт уровень Уязвимости к стихиям, накладываемой на игрока.\nНа картах среднего уровня «Уязвимость к стихиям» накладывается 10 уровня.\nНа картах высокого уровня «Уязвимость к стихиям» накладывается 15 уровня.
+Sets the level of Enfeeble to apply to the player.\nIn mid tier maps, 'of Enfeeblement' applies level 10.\nIn high tier maps, 'of Enfeeblement' applies level 15.	Задаёт уровень Слабости, накладываемой на игрока.\nНа картах среднего уровня «Слабость» накладывается 10 уровня.\nНа картах высокого уровня «Слабость» накладывается 15 уровня.
+Sets the level of Flammability to apply to the player.	Задаёт уровень Горючести, накладываемой на игрока.
+Sets the level of Frostbite to apply to the player.	Задаёт уровень Обморожения, накладываемого на игрока.
+Sets the level of Poacher's Mark to apply to the player.	Задаёт уровень Метки браконьера, накладываемой на игрока.
+Sets the level of Projectile Weakness to apply to the player.	Задаёт уровень Слабости к снарядам, накладываемой на игрока.
+Sets the level of Punishment to apply to the player.	Задаёт уровень Наказания, накладываемого на игрока.
+Sets the level of Temporal Chains to apply to the player.\nIn mid tier maps, 'of Temporal Chains' applies level 10.\nIn high tier maps, 'of Temporal Chains' applies level 15.	Задаёт уровень Пут времени, накладываемых на игрока.\nНа картах среднего уровня «Путы времени» накладываются 10 уровня.\nНа картах высокого уровня «Путы времени» накладываются 15 уровня.
+Sets the level of Vulnerability to apply to the player.\nIn mid tier maps, 'of Vulnerability' applies level 10.\nIn high tier maps, 'of Vulnerability' applies level 15.	Задаёт уровень Беззащитности, накладываемой на игрока.\nНа картах среднего уровня «Беззащитность» накладывается 10 уровня.\nНа картах высокого уровня «Беззащитность» накладывается 15 уровня.
+Sets the level of Warlord's Mark to apply to the player.	Задаёт уровень Метки вождя, накладываемой на игрока.
+Sets the maximum	Задаёт максимум
+Sets the number of active Spectral Tigers.\nThe base maximum number of Spectral Tigers is 5.	Задаёт число активных Призрачных тигров.\nБазовый максимум Призрачных тигров: 5.
+Sets the number of active Spectral Wolves.\nThe base maximum number of Spectral Wolves is 10.	Задаёт число активных Призрачных волков.\nБазовый максимум Призрачных волков: 10.
+Sets the number of active Spiders.\nThe base maximum number of Spiders is 20.	Задаёт число активных пауков.\nБазовый максимум пауков: 20.
+Sets the number of enemies affected by Siphoning Trap.	Задаёт число врагов, затронутых Ловушкой переливания.
+Sets the number of stages reached before releasing Snipe.	Задаёт число накоплений до выпуска Прицельного выстрела.
+Setting to 20 quality will give you	Установка качества на 20 даст вам
+Shapers Presence	Присутствие Создателя
+Share	Поделиться
+Shared	Общий
+Shared Aegis charge	Общий заряд Покровительства
+Shared Guard charge	Общий заряд Обороны
+Shared items	Общие предметы
+Shattered	Раздробленный
+Shattershard uses duration as pseudo cooldown	Колкие осколки используют длительность как условную перезарядку
+Shepherd of Souls	Пастырь душ
+Shield Swap	Смена щита
+Shock Avoid Ch.	Шанс избежать электрошока
+Shock Duration	Длительность электрошока
+Shock Effect	Эффект электрошока
+Shock Effect Mod	Модификатор эффекта электрошока
+Shock Stacks	Накопления электрошока
+Shock.	Электрошок.
+ShockDPS	Урон в секунду от электрошока
+Shocked.	Электрошок.
+Shocked?	Под электрошоком?
+Show	Показать
+Show Advanced Info	Показать расширенную информацию
+Show All Configurations	Показать все конфигурации
+Show Allocated	Показать изученные
+Show Animations	Показать анимации
+Show Color Codes	Показать цветовые коды
+Show Legacy Tattoos	Показать старые татуировки
+Show Masteries	Показать мастерства
+Show Minion Stats	Показать статы приспешников
+Show Node Power	Показать силу узлов
+Show Power Report	Показать отчёт о силе
+Show Unallocated	Показать неизученные
+Show Unallocated & Clusters	Показать неизученные и кластеры
+Show all item affixes sliders	Показать все ползунки аффиксов предмета
+Show all skills, not just those used by this build.	Показать все умения, а не только используемые в этом билде.
+Show build name in window title	Показывать название билда в заголовке окна
+Show build warnings	Показывать предупреждения билда
+Show legacy gems	Показать старые камни
+Show only differences	Показать только отличия
+Show only rows that differ between both builds. Disable to include unchanged rows.	Показать только строки, различающиеся в обоих билдах. Отключите, чтобы включить неизменные строки.
+Show search circles at viewport edge	Показывать круги поиска у края области просмотра
+Show stats for the minion instead of the player.	Показать статы приспешника вместо игрока.
+Show support gems	Показать камни поддержки
+Show thousands separators	Показывать разделители тысяч
+Show tooltip for unsupported mods	Показывать подсказку для неподдерживаемых модификаторов
+Show tooltips only for affected slots	Показывать подсказки только для затронутых ячеек
+Shows comparisons in tooltips only for the slot you are currently placing the item in, instead of all slots.	Показывает сравнение в подсказках только для ячейки, в которую вы помещаете предмет, а не для всех ячеек.
+Shrink with PoEURL	Сократить через PoEURL
+Shutdown	Завершение
+Silence Avoid Ch.	Шанс избежать молчания
+Similar Builds	Похожие билды
+Simulation duration	Длительность симуляции
+Single Poison DPS	Урон в секунду от одиночного отравления
+Sinistral	Левша
+Sinistral (Prefix)	Левша (префикс)
+Skeleton	Скелет
+Skill	Умение
+Skill Average Hit	Средний удар умения
+Skill Cooldown	Перезарядка умения
+Skill DPS	Урон умения в секунду
+Skill Damage	Урон умения
+Skill Damage over Time	Урон умения со временем
+Skill DoT DPS	Урон в секунду от урона умения со временем
+Skill Hit Damage	Урон от удара умения
+Skill Name	Название умения
+Skill Options	Параметры умения
+Skill Part	Часть умения
+Skill PvP Average Hit	Средний удар умения в PvP
+Skill PvP DPS	Урон умения в секунду в PvP
+Skill Recently?	Использовано умение недавно?
+Skill Stages	Стадии умения
+Skill Trigger Rate	Частота срабатывания умения
+Skill disabled	Умение отключено
+Skill gem	Камень умения
+Skill gems	Камни умений
+Skill is targeting the Branded enemy	Умение нацелено на врага под Клеймом
+Skill set	Набор умений
+Skill type	Тип умения
+Skill type-specific Stats	Статы, зависящие от типа умения
+Skill types	Типы умений
+SkillDPS	Урон умения в секунду
+Skills of this type are disabled	Умения этого типа отключены
+Skin of the Lords, Simple Robe	Кожа Повелителей, Матерчатая безрукавка
+Skin of the Loyal, Simple Robe	Кожа верных, Матерчатая безрукавка
+Slider	Ползунок
+Slot	Ячейка
+Slot Name	Название ячейки
+Small Explosions	Малые взрывы
+Smaller explosions have between 30% reduced and 30% increased base radius at random	Малые взрывы имеют случайный базовый радиус от 30% меньше до 30% больше
+Socket #	Гнездо №
+Socket Colour	Цвет гнезда
+Socket Group	Группа гнёзд
+Socket Groups	Группы гнёзд
+Socket Jewel	Вставить самоцвет
+Socket Quality	Качество гнезда
+Socket not found (ran out of sockets nani?)	Гнездо не найдено (закончились гнёзда?)
+Socketed in	Вставлено в
+Sockets.\nThe default calculation assumes enabled gems in skill socket groups fill the item in socket order disregarding gem colour.\nLeave blank for default calculation.	Гнёзда.\nПо умолчанию считается, что включённые камни в группах гнёзд умений заполняют предмет по порядку гнёзд, независимо от цвета камня.\nОставьте пустым для расчёта по умолчанию.
+Sony	Sony
+Sort	Сортировка
+Sort By	Сортировать по
+Sort By Last Edited	Сортировать по последнему изменению
+Sort By Name	Сортировать по названию
+Sort by	Сортировать по
+Sort by Class	Сортировать по классу
+Sort by Last Edited	Сортировать по последнему изменению
+Sort by Level	Сортировать по уровню
+Sort by Name	Сортировать по названию
+Sort folders by name or date modified.	Сортировать папки по названию или дате изменения.
+Sort gems by DPS	Сортировать камни по DPS
+Sorted by	Отсортировано по
+Sorting	Сортировка
+Sorts the weights by the stats selected multiplied by a value	Сортирует веса по выбранным статам, умноженным на значение
+Soul Cost	Стоимость душ
+Soul Eater grants the following, up to a base of 45 stacks	Пожиратель душ даёт следующее, до базовых 45 зарядов
+Soul Gain Prevent.	Запрет получения душ
+Soul Refund Chance	Шанс возврата душ
+Source	Источник
+Source Chaos	Хаос источника
+Source Cold	Холод источника
+Source Fire	Огонь источника
+Source Lightning	Молния источника
+Source Name	Название источника
+Source Physical	Физический урон источника
+Source damage	Урон источника
+Source rate for Intuitive Link	Скорость источника для Подсознательной связи
+Source skill has no mana cost	Умение-источник не требует маны
+Sources	Источники
+Spawned a corpse Recently?	Создан труп недавно?
+Spec	Дерево
+Specify maximum number of item pages to retrieve per search from PoE Trade.	Укажите максимальное число страниц предметов, получаемых за один поиск на PoE Trade.
+Spectral Tiger	Призрачный тигр
+Spectral Wolf	Призрачный волк
+Spectre Ally	Союзный иллюзорный
+Spectre Library	Библиотека иллюзорных
+Spectres	Иллюзорные
+Spectres in Build	Иллюзорные в билде
+Spectres in your Library must be assigned to an active	Иллюзорные в вашей библиотеке должны быть привязаны к активному
+Spell Block Chance	Шанс блока чар
+Spell Ddg. Chance	Шанс уклонения от чар
+Spell Dodge Chance	Шанс уклонения от чар
+Spell Suppression Chance	Шанс подавления чар
+Spellblade Main Hand	Чародейский клинок: основная рука
+Spellblade Off Hand	Чародейский клинок: вторая рука
+Spendable	Доступно для траты
+Split Count	Число разделений
+Squirming Terror requires recent kills	Извивающийся ужас требует недавних убийств
+Stack	Стопка
+Stack Potential	Потенциал накопления
+Stack Potential override	Переопределение потенциала накопления
+Stacks	Стопки
+Stacks on Enemy	Стопки на враге
+Stage	Стадия
+Stages	Стадии
+Stance Skills	Умения стойки
+Standard Boss	Обычный босс
+Startup time	Время запуска
+Stat	Стат
+Stat Weight Multipliers	Множители веса статов
+Stat to Sort By	Стат для сортировки
+State	Состояние
+Stationary	Неподвижен
+Steel Shards consumed	Потрачено Стальных осколков
+Steel Skills	Стальные умения
+Steel Wards	Стальные барьеры
+Steel Wards are gained from using Shattering Steel of Ammunition with at least 2 Steel Shards.\nYou can have up to 6 Steel Wards, and each grants +8% chance to Block Projectile Attack Damage.	Стальные барьеры даются за использование Дробящей стали с боеприпасами при наличии не менее 2 Стальных осколков.\nМаксимум 6 Стальных барьеров, каждый даёт +8% к шансу блокировать урон атак снарядами.
+Stone Golem Ally	Союзный каменный голем
+Stone Golem Life override	Переопределение здоровья каменного голема
+Stored Damage	Накопленный урон
+Stored Uses	Накопленные использования
+Storm Secret base damage	Базовый урон Разгадки бури
+Str. Required	Треб. сил.
+Strength Required	Требуемая сила
+Strike Targets	Цели удара
+String	Строка
+Stun Avoid Chance	Шанс избежать оглушения
+Stun Chance	Шанс оглушения
+Stunned	Оглушён
+Stunned while Casting Recently?	Оглушён при сотворении чар недавно?
+Styled Tooltips with Flavour Text	Стилизованные подсказки с цитатами
+Such a hit would drain the following resources	Такой удар истощил бы следующие ресурсы
+Sum	Сумма
+Summoned Golem in past 10 Seconds?	Призван голем за последние 10 секунд?
+Summoned Golem in past 8 Seconds?	Призван голем за последние 8 секунд?
+Summoned Spectre in past 8 Seconds?	Призван иллюзорный за последние 8 секунд?
+Summoned Zombie in past 8 Seconds?	Призван зомби за последние 8 секунд?
+Sunset	Закат
+Support gem	Камень поддержки
+Support gems	Камни поддержки
+Supported by #	Поддержан #
+Supported by Level 1	Поддержан 1 уровнем
+Suppression Ch.	Шанс подавления
+Suppression Effect	Эффект подавления
+Sustainable Trauma	Устойчивая травма
+Swap Abyssal Socket	Сменить Бездонное гнездо
+Swiftness # of Momentum Removed	Снято # Импульса Отскока
+Switching to this tree will give you	Переход на это дерево даст вам
+Sync	Синхр.
+Tabula Rasa, Simple Robe	Табула раса, Матерчатая безрукавка
+Tags	Теги
+Taken	Получено
+Taken As	Получено как
+Taken As Percent	Получено как процент
+Taken From Block	Получено от блока
+Taken as Chaos	Получено как урон хаосом
+Taken as Cold	Получено как урон холодом
+Taken as Fire	Получено как урон огнём
+Taken as Lightning	Получено как урон молнией
+Taken as Physical	Получено как физический урон
+Talisman Mods	Модификаторы талисмана
+Tattoo Count	Число татуировок
+Taunted an enemy Recently?	Спровоцирован враг недавно?
+Tawhoa's Chosen using	Избранный Тахоа использует
+Tecrod (Overwhelming Hate)	Текрод (Всепоглощающая ненависть)
+Tempering	Закалка
+Tempering (Defense)	Закалка (защита)
+Temporal Chains self-only	Путы времени только на себя
+Tertiary Duration	Третичная длительность
+Tertiary Radius	Третичный радиус
+Tertiary Uptime	Третичная активность
+Tertiary duration	Третичная длительность
+That jewel socket is not allocated, so the jewel will only be added to your items.	Это гнездо самоцвета не изучено, поэтому самоцвет будет добавлен только в ваши предметы.
+The Adorned, Crimson Jewel	Былой блеск, Багровый самоцвет
+The Apostate, Cabalist Regalia	Отступник, Наряд мистика
+The Iron Mass, Gladius	Железная масса, Гладиус
+The Saviour Mirage Warriors	Призрачные воины Спасителя
+The Trader feature supports two modes of operation depending on the authorization availability.	Функция торговли поддерживает два режима работы в зависимости от наличия авторизации.
+You can click this button to authorize PoB by logging in.	Нажмите эту кнопку, чтобы авторизовать PoB через вход в аккаунт.
+The URL is also copied to the clipboard.	URL также скопирован в буфер обмена.
+The account has no characters to import.	В аккаунте нет персонажей для импорта.
+The amount of valour consumed for the placed banner	Количество доблести, потраченное на установленное знамя
+The build you are trying to load uses an unrecognised version of the passive skill tree.\nYou may need to update the program before loading this build.	Билд, который вы пытаетесь загрузить, использует неизвестную версию дерева пассивных умений.\nВозможно, перед загрузкой этого билда нужно обновить программу.
+The default value is	Значение по умолчанию:
+The enemy will automatically be considered to be Cursed if you have at least one curse enabled,\nbut you can use this option to force it if necessary.	Враг автоматически считается проклятым, если включено хотя бы одно проклятие,\nно эту опцию можно использовать для принудительного включения.
+The enemy will automatically be considered to be Unique if they are a Boss,\nbut you can use this option to force it if necessary.	Враг автоматически считается уникальным, если он босс,\nно эту опцию можно использовать для принудительного включения.
+The folder is not empty.	Папка не пуста.
+The folder is not empty.\nAre you sure you want to delete folder	Папка не пуста.\nВы уверены, что хотите удалить папку
+The item is invalid.	Предмет недействителен.
+The magnitude of Hallowing Flame stacks applied to the enemy	Величина стопок Освящающего пламени, наложенных на врага
+The percentage of the roll range the enemy hits for \n eg at 100% the enemy deals its maximum damage	Процент диапазона значений, которым бьёт враг \n например, при 100% враг наносит максимальный урон
+The socket must be allocated on your current tree; if it isn't, the jewel is only added to your item list.	Гнездо должно быть изучено на вашем текущем дереве; иначе самоцвет добавляется только в список предметов.
+The trade site will filter out listings with other currencies,\nif anything other than \"Chaos Orb Equivalent\" is chosen and a maximum is specified.	Торговый сайт отфильтрует предложения с другими валютами,\nесли выбрано что-то кроме «эквивалента Сфер хаоса» и указан максимум.
+The tree has been converted to	Дерево преобразовано в
+The trigger needs to be triggered for any skill to be triggered.	Для срабатывания любого умения необходимо сработать триггеру.
+This Items Implicits Cannot Be Changed	Неизменяемые неявные модификаторы этого предмета
+This also implies that the enemy is	Это также подразумевает, что враг
+This also implies that you Totems have Hit Recently.	Это также подразумевает, что ваши Тотемы недавно наносили удар.
+This also implies that you are	Это также подразумевает, что вы
+This also implies that you are Poisoned.	Это также подразумевает, что вы отравлены.
+This also implies that you are channelling	Это также подразумевает, что вы направляете
+This also implies that you have Blocked Recently.	Это также подразумевает, что вы недавно блокировали.
+This also implies that you have Hit Recently.	Это также подразумевает, что вы недавно наносили удар.
+This also implies that you have Killed Recently.	Это также подразумевает, что вы недавно убивали.
+This also implies that you have Suppressed Recently.	Это также подразумевает, что вы недавно подавляли.
+This also implies that you have a Totem summoned.\nThis will affect all 'per Summoned Totem' modifiers, even for non-Totem skills.	Это также подразумевает, что у вас есть призванный Тотем.\nЭто повлияет на все модификаторы «за призванный Тотем», даже для умений без Тотемов.
+This also implies that you have been Hit Recently.	Это также подразумевает, что по вам недавно наносили удар.
+This also implies that you have killed and taunted recently.	Это также подразумевает, что вы недавно убивали и провоцировали.
+This also implies that you have used a Skill Recently.	Это также подразумевает, что вы недавно использовали умение.
+This also implies that you have used a Skill Recently.\nYou will automatically be considered to have Attacked Recently if your main skill is an attack,\nbut you can use this option to force it if necessary.	Это также подразумевает, что вы недавно использовали умение.\nВы автоматически считаетесь недавно атаковавшим, если ваше основное умение — атака,\nно эту опцию можно использовать для принудительного включения.
+This also implies that you have used a Skill Recently.\nYou will automatically be considered to have Cast a Spell Recently if your main skill is a spell,\nbut you can use this option to force it if necessary.	Это также подразумевает, что вы недавно использовали умение.\nВы автоматически считаетесь недавно сотворившим чары, если ваше основное умение — чары,\nно эту опцию можно использовать для принудительного включения.
+This also implies that you have used a Skill Recently.\nYou will automatically be considered to have used a Minion skill Recently if your main skill is a Minion skill,\nbut you can use this option to force it if necessary.	Это также подразумевает, что вы недавно использовали умение.\nВы автоматически считаетесь недавно использовавшим умение приспешника, если ваше основное умение — умение приспешника,\nно эту опцию можно использовать для принудительного включения.
+This also implies that you have used a Skill Recently.\nYou will automatically be considered to have used a Movement skill Recently if your main skill is a movement skill,\nbut you can use this option to force it if necessary.	Это также подразумевает, что вы недавно использовали умение.\nВы автоматически считаетесь недавно использовавшим умение перемещения, если ваше основное умение — умение перемещения,\nно эту опцию можно использовать для принудительного включения.
+This also implies that you have used a Skill Recently.\nYou will automatically be considered to have used a Vaal skill Recently if your main skill is a Vaal skill,\nbut you can use this option to force it if necessary.	Это также подразумевает, что вы недавно использовали умение.\nВы автоматически считаетесь недавно использовавшим умение Ваал, если ваше основное умение — умение Ваал,\nно эту опцию можно использовать для принудительного включения.
+This also implies that your Minions have Killed Recently.	Это также подразумевает, что ваши приспешники недавно убивали.
+This also implies that your Skills have Crit Recently.	Это также подразумевает, что ваши умения недавно наносили критический удар.
+This also implies that your Totems have Killed Recently.	Это также подразумевает, что ваши Тотемы недавно убивали.
+This also implies you have 'Consumed a corpse Recently'	Это также подразумевает, что вы недавно поглотили труп
+This also implies you have 'Used a Warcry Recently', 'Used a Warcry in the past 8 seconds', and 'Used a Skill Recently'	Это также подразумевает, что вы недавно использовали боевой клич, использовали боевой клич за последние 8 секунд и недавно использовали умение
+This applies -10%	Применяется -10%
+This build has unsaved changes.\nDo you want to save them	В этом билде есть несохранённые изменения.\nСохранить их
+This can be useful if you're never going to path towards those excluded nodes and don't care what happens to them.	Это полезно, если вы никогда не пойдёте к исключённым узлам и вам всё равно, что с ними будет.
+This config option is conditional with missing source and is invalid.	Эта опция конфигурации зависит от отсутствующего источника и недействительна.
+This contains a list of your desired nodes along with their primary, secondary, and minimum weights.	Здесь список нужных вам узлов с их первичным, вторичным и минимальным весом.
+This contains a list of your fallback nodes along with their primary, secondary, and minimum weights.	Здесь список запасных узлов с их первичным, вторичным и минимальным весом.
+This controls the calculation of the stats shown in this tab.	Управляет расчётом статов, показанных на этой вкладке.
+The stats in the sidebar are always shown in Effective DPS mode, regardless of this setting.	Статы на боковой панели всегда показываются в режиме эффективного DPS независимо от этой настройки.
+	
+Unbuffed: No auras, buffs, or other support skills or effects will apply. This is equivalent to standing in town.	Без баффов: аур, баффов и других умений поддержки или эффектов нет. Равносильно нахождению в городе.
+Buffed: Aura and buff skills apply. This is equivalent to standing in your hideout with auras and buffs turned on.	С баффами: ауры и баффы действуют. Равносильно нахождению в убежище с включёнными аурами и баффами.
+In Combat: Charges and combat buffs such as Onslaught will also apply. This will show your character sheet stats in combat.	В бою: также действуют заряды и боевые баффы, например Натиск. Показывает статы листа персонажа в бою.
+Effective DPS: Curses and enemy properties (such as resistances and status conditions) will also apply. This estimates your true DPS.	Эффективный DPS: также действуют проклятия и свойства врага (например, сопротивления и состояния). Оценивает ваш истинный DPS.
+This controls the maximum amount of points that need to be spent to grab a node before its filtered out	Управляет максимальным числом очков, которые нужно потратить на получение узла, прежде чем он будет отфильтрован
+This effect will only be applied while you can inflict	Этот эффект применяется только пока вы можете наложить
+This enables the conditional culling strike from the mace mastery.	Включает условное добивание от мастерства булав.
+This file contains the trade site data from https	Этот файл содержит данные торгового сайта с https
+This is a hybrid node containing all additions to	Это гибридный узел, содержащий все добавления к
+This is a list of item sets that will be shared\nbetween all of your builds.\nYou can add sets to this list by dragging them\nfrom the build's set list.	Список наборов предметов, общих\nдля всех ваших билдов.\nДобавляйте наборы в этот список, перетаскивая\nих из списка наборов билда.
+This is a list of items that will be shared between all of\nyour builds.\nYou can add items to this list by dragging them from\none of the other lists.	Список предметов, общих для всех\nваших билдов.\nДобавляйте предметы в этот список, перетаскивая их из\nодного из других списков.
+This is a special group created for the '	Это особая группа, созданная для '
+This is a special group created for the enemy explosion effect,	Это особая группа, созданная для эффекта взрыва врага,
+which comes from the following sources:	источники которого:
+This is an older tree version, which may not be fully compatible with the current game version.	Это старая версия дерева, которая может быть не полностью совместима с текущей версией игры.
+This is automatically enabled if you have a flask active,\nbut you can use this option to force it if necessary.	Включается автоматически, если активен фласк,\nно эту опцию можно использовать для принудительного включения.
+This is automatically enabled if you have a tincture active,\nbut you can use this option to force it if necessary.	Включается автоматически, если активна микстура,\nно эту опцию можно использовать для принудительного включения.
+This is for Blood Sap Tincture, but will limit you to only applying a single Bleed on the enemy	Для Микстуры кровавой сочности, но позволяет наложить на врага только одно кровотечение
+This is for low tolerance, but will limit you to only applying poison a single time\n	Для низкой переносимости, но позволяет наложить отравление только один раз\n
+This is for party play, to export support character, it enables the exporting of auras, curses and modifiers to the enemy	Для игры в группе: при экспорте персонажа поддержки включает экспорт аур, проклятий и модификаторов врага
+This is the average roll of a Bleed affecting the enemy if you are constantly attacking	Средний размер кровотечения на враге при постоянных атаках
+This is the average roll of an ignite affecting the enemy if you are constantly attacking	Средний размер поджога на враге при постоянных атаках
+This is the list of items that have been added to this build.\nYou can add items to this list by dragging them from\none of the other lists, or by clicking 'Add to build' when\nviewing an item.	Список предметов, добавленных в этот билд.\nДобавляйте предметы, перетаскивая их из\nодного из других списков или нажав «Добавить в билд» при\nпросмотре предмета.
+This item can be anointed by Cassia	Этот предмет можно помазать у Кассии
+This item cannot have sockets	У этого предмета не может быть гнёзд
+This list can be updated manually or by selecting the node you want to update via the search dropdown list and then moving the node weight sliders.	Этот список можно обновить вручную или выбрав узел через выпадающий список поиска и сдвинув ползунки веса узла.
+This menu currently contains supported mod lines from tree nodes and item modifiers only.	Это меню сейчас содержит только поддерживаемые строки модификаторов узлов дерева и предметов.
+	
+This menu is not a representation of what PoB can parse, and this is only a limited list of mods. Additionally, some mods might be local to items and might not function in custom modifiers.	Это меню не отражает всё, что может разобрать PoB, и содержит лишь ограниченный список модификаторов. Кроме того, некоторые модификаторы могут быть локальными для предметов и не работать в особых модификаторах.
+	
+A mod being supported does not necessarily mean that it will be included in calculations, and only means that the mod parser accepts it.	Поддержка модификатора не означает, что он будет учтён в расчётах, а лишь то, что парсер принимает этот модификатор.
+This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)	Умножает урон умения в PvP, например для умений с множителем урона, специфичным для PvP (от умения, поддержки или предмета вроде Повелителя осколков)
+This node is granted by an item. Removing it will cause no changes	Этот узел даётся предметом. Его удаление ничего не изменит
+This node is granted by an item. Removing it will give you	Этот узел даётся предметом. Его удаление даст вам
+This node is only in the compared build	Этот узел есть только в сравниваемом билде
+This option allows you to override the default calculation for the number of Empty	Эта опция позволяет переопределить расчёт по умолчанию для числа пустых
+This option allows you to override the default calculation for the number of Empty White Sockets.\nThe default calculation assumes enabled gems in skill socket groups fill the item in socket order disregarding gem colour.\nLeave blank for default calculation.	Эта опция позволяет переопределить расчёт по умолчанию для числа пустых белых гнёзд.\nПо умолчанию считается, что включённые камни в группах гнёзд умений заполняют предмет по порядку гнёзд, независимо от цвета камня.\nОставьте пустым для расчёта по умолчанию.
+This option enables Manastorm's	Эта опция включает Шторм маны
+This option enables the Everlasting Sacrifice buff that grants +5% to all maximum resists.	Эта опция включает бафф Вечного жертвоприношения, дающий +5% ко всем максимальным сопротивлениям.
+This option is specific to '	Эта опция относится только к '
+This option is specific to Arborix.	Эта опция относится только к Арборикс.
+This option is specific to Augyre.	Эта опция относится только к Златоворот.
+This option is specific to Oni-Goroshi.	Эта опция относится только к Они-Гороси.
+This option is specific to Vulconus.	Эта опция относится только к Вулконус.
+This option prevents EE from being reset by the hit damage of your main skill.	Эта опция не даёт EE сбрасываться от урона удара вашего основного умения.
+This option sets the Movement Speed from Gamblesprint boots.	Эта опция задаёт скорость передвижения от сапог Дух азарта.
+This option sets whether an enemy is between you and your linked target.	Эта опция задаёт, находится ли враг между вами и связанной целью.

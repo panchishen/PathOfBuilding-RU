@@ -1,0 +1,551 @@
+Conversion	Конвертация
+Conversions	Конвертации
+Convert all to Version	Конвертировать всё в версию
+Convert all trees to	Конвертировать все древа в
+Convert to	Конвертировать в
+Convert to Version	Конвертировать в версию
+Convert will replace all trees that are not Version	Конвертация заменит все древа, не относящиеся к версии
+Convert will replace your current tree.\nCopy + Convert will backup your current tree.\n	Конвертация заменит текущее древо.\nКопирование + конвертация создаст резервную копию текущего древа.\n
+Converted Damage	Конвертированный урон
+Converting a build to a different game version may have side effects.	Конвертация билда в другую версию игры может иметь побочные эффекты.
+For example, if the passive tree has changed, then some passives may be deallocated.	Например, если пассивное древо изменилось, некоторые пассивные умения могут быть сняты.
+You should create a backup copy of the build before proceeding.	Перед продолжением рекомендуется создать резервную копию билда.
+Converting passive tree data json	Конвертация данных пассивного древа (json)
+Converting passive tree sprites json	Конвертация спрайтов пассивного древа (json)
+Cooldown	Перезарядка
+Copies the item purchase whisper to the clipboard	Копирует шёпот для покупки предмета в буфер обмена
+Copy	Копировать
+Copy + Convert	Копировать + конвертировать
+Copy Config from Compare Build	Копировать конфигурацию из билда для сравнения
+Copy Current	Копировать текущее
+Copy Eldritch Implicits onto Display Item	Копировать неявные свойства Древних на отображаемый предмет
+Copy Tree	Копировать древо
+Copy and use	Копировать и использовать
+Copy tree	Копировать древо
+Core Drop Pool	Основной пул добычи
+Corpse must be the same type as the monster you're fighting.\nThis also implies you have 'Consumed a corpse Recently'	Труп должен быть того же типа, что и монстр, с которым вы сражаетесь.\nЭто также означает, что вы недавно поглотили труп
+Corr Blood Immune	Иммунитет к Дурной крови
+Corrupt Item	Осквернить предмет
+Corrupted Maximum	Максимум осквернения
+Corrupted Mods	Осквернённые свойства
+Corrupting Blood DPS	DPS Дурной крови
+Corrupting Blood DPS exceeds in game limit	DPS Дурной крови превышает игровой предел
+Could not decode static trade data	Не удалось декодировать статические данные торговли
+Could not generate search, found no mods to search for	Не удалось создать поиск: не найдено свойств для поиска
+Could not import	Не удалось импортировать
+Could not import character	Не удалось импортировать персонажа
+Could not open file for writing trade stat data	Не удалось открыть файл для записи торговых данных
+Couldn't copy '	Не удалось скопировать '
+Couldn't copy build	Не удалось скопировать билд
+Couldn't create '	Не удалось создать '
+Couldn't delete '	Не удалось удалить '
+Couldn't download version manifest.\nReason	Не удалось загрузить манифест версий.\nПричина
+Couldn't move '	Не удалось переместить '
+Couldn't open '	Не удалось открыть '
+Couldn't rename '	Не удалось переименовать '
+Couldn't save the build file	Не удалось сохранить файл билда
+Count Skill Reservation towards eHP?	Учитывать резервирование умений в EHP?
+Count skill damage once	Считать урон умения один раз
+Counts Conductivity as self-cast for Balance of Terror without applying it to enemies.	Считает Проводимость наложенной на себя для Баланса ужаса, не применяя её к врагам.
+Counts Despair as self-cast for Balance of Terror without applying it to enemies.	Считает Отчаяние наложенным на себя для Баланса ужаса, не применяя его к врагам.
+Counts Elemental Weakness as self-cast for Balance of Terror without applying it to enemies.	Считает Уязвимость к стихиям наложенной на себя для Баланса ужаса, не применяя её к врагам.
+Counts Enfeeble as self-cast for Balance of Terror without applying it to enemies.	Считает Слабость наложенной на себя для Баланса ужаса, не применяя её к врагам.
+Counts Flammability as self-cast for Balance of Terror without applying it to enemies.	Считает Горючесть наложенной на себя для Баланса ужаса, не применяя её к врагам.
+Counts Frostbite as self-cast for Balance of Terror without applying it to enemies.	Считает Обморожение наложенным на себя для Баланса ужаса, не применяя его к врагам.
+Counts Punishment as self-cast for Balance of Terror without applying it to enemies.	Считает Наказание наложенным на себя для Баланса ужаса, не применяя его к врагам.
+Counts Temporal Chains as self-cast for Balance of Terror without applying it to enemies.	Считает Путы времени наложенными на себя для Баланса ужаса, не применяя их к врагам.
+Counts Vulnerability as self-cast for Balance of Terror without applying it to enemies.	Считает Беззащитность наложенной на себя для Баланса ужаса, не применяя её к врагам.
+Covered in Ash	Покрыт пеплом
+Covered in Ash applies the following to the enemy	Покрытие пеплом накладывает на врага следующее
+Covered in Frost	Покрыт льдом
+Covered in Frost applies the following to the enemy	Покрытие льдом накладывает на врага следующее
+Craft Item	Создать предмет
+Crafted mod	Свойство ремесла
+Create Custom Item from Text	Создать свой предмет из текста
+Crit	Крит
+Crit Bifurcates	Крит раздваивается
+Crit Chance	Шанс крита
+Crit Chance is Lucky	Шанс крита везучий
+Crit Chance is Unexciting	Шанс крита невезучий
+Crit Dmg Derivation	Расчёт критического урона
+Crit Effect Mod	Модификатор эффекта крита
+Crit Impale Chance	Шанс прокола критом
+Crit Multiplier	Множитель крита
+Crit Reduction	Снижение крита
+Crit confirmation roll	Бросок подтверждения крита
+Critical Strike Bifurcates	Критический удар раздваивается
+Critical Strike Range	Диапазон критического удара
+Crits	Криты
+Crits Only	Только криты
+Cruel Lab	Лаборатория (Жестокая)
+Cruelty is a buff provided by Cruelty Support which grants\nup to 40% more damage over time to the skills it supports.	Злость — бафф от поддержки Злость, дающий\nдо 40% дополнительного урона со временем поддерживаемым умениям.
+Crushed enemies have 15% reduced Physical Damage Reduction.	Сокрушённые враги получают на 15% меньше снижения физического урона.
+Cryogenesis Added Damage	Добавленный урон Криогенеза
+CtF	CtF
+CtoF	CtoF
+Culling DPS	DPS добивания
+CullingDPS	DPS добивания
+Currency rates unavailable. Falling back to Stat Value sort.	Курсы валют недоступны. Используется сортировка по значению характеристик.
+Current Brittle	Текущая Хрупкость
+Current Chill	Текущее Охлаждение
+Current Loadout	Текущий набор
+Current Sap	Текущая Ослабленность
+Current Scorch	Текущий Ожог
+Current Shock	Текущий Электрошок
+Current attributes	Текущие атрибуты
+Current build	Текущий билд
+Current level	Текущий уровень
+Current useable	Сейчас доступно
+Currently sorting by	Сейчас сортировка по
+Curse Avoid Ch.	Шанс избежать проклятия
+Curse Disable	Отключение проклятий
+Curse Duration Expired on enemy	Длительность проклятия истекла на враге
+Curse Effect Mod	Модификатор эффекта проклятий
+Curse Effect on You	Эффект проклятий на вас
+Curse Expiration	Истечение проклятия
+Curse Limit	Лимит проклятий
+Curse Replacement	Замена проклятия
+Curse overlaps	Перекрытие проклятий
+Curses and Debuffs	Проклятия и ослабления
+Custom	Свой
+Custom Modifiers	Свои свойства
+Custom PvP Damage multiplier percent	Свой множитель урона в PvP (в процентах)
+Custom source	Свой источник
+DPS Multiplier	Множитель DPS
+DPS Range	Диапазон DPS
+DPS power	Сила DPS
+DPS reported assuming Self-Cast	DPS указан для самостоятельного применения
+Damage % (if not maximum)	Урон % (если не максимум)
+Damage Avoidance	Избегание урона
+Damage Fixup	Поправка урона
+Damage Mod.	Мод. урона
+Damage Taken	Получаемый урон
+Damage Taken to the enemy, up to 15 stacks.	Получаемый врагом урон, до 15 зарядов.
+Damage Taken to the self, up to 15 stacks.	Получаемый вами урон, до 15 зарядов.
+Damage as extra	Урон как дополнительный
+Damage from Crits	Урон от критов
+Damage from Non-crits	Урон от не-критов
+Damage from enemy Hit Recently?	Урон от недавнего удара врага?
+Damage inc. Impale	Урон с учётом Прокола
+Damage mitigated	Смягчённый урон
+Damage taken\n\t20% less Movement Speed	Получаемый урон\n\tна 20% меньше скорости передвижения
+Damage taken\n\t50% less Critical Strike Chance	Получаемый урон\n\tна 50% меньше шанса критического удара
+Damage)	Урон)
+Damage, up to 8 stacks.	Урон, до 8 зарядов.
+Damage.	Урон.
+Damage?	Урон?
+Damage\n\tEnemies you Kill have a 40% chance to Explode, dealing a quarter of their maximum	Урон\n\tУбитые вами враги с шансом 40% взрываются, нанося четверть своего максимума
+Damage\n\tIce Novas happen around you	Урон\n\tВокруг вас возникают Ледяные новы
+Damage\n\tShock Novas happen around you	Урон\n\tВокруг вас возникают Электрические новы
+Damage\n\tSkeletons are summoned to you	Урон\n\tК вам призываются скелеты
+Damage\nequal to 50% of Sacrificed	Урон\nравный 50% от принесённого в жертву
+Damageable Minion	Приспешник, способный получать урон
+Damaging Hits	Наносящие урон удары
+Deactivating this flask will give you	Эта фляга даст вам следующее при деактивации
+Deactivating this tincture will give you	Эта микстура даст вам следующее при деактивации
+Debilitated	Ослабленный
+Debilitated enemies deal 10% less damage.	Ослабленные враги наносят на 10% меньше урона.
+Debuff	Ослабление
+Debuff Dur. Mult.	Множитель длительности ослаблений
+Decay DPS	DPS распада
+Decay Duration	Длительность распада
+DecayDPS	DPS распада
+Decimal separator	Десятичный разделитель
+Default Item Set	Набор предметов по умолчанию
+Default character level	Уровень персонажа по умолчанию
+Default gem level	Уровень камня по умолчанию
+Default gem quality	Качество камня по умолчанию
+Default item affix quality	Качество аффиксов предметов по умолчанию
+Default scroll direction is	Направление прокрутки по умолчанию
+Defences from Shield	Защита от щита
+Defense	Защита
+Degen	Дегенерация
+Degens	Дегенерации
+Del All	Удалить всё
+Del Unused	Удалить неиспользуемое
+Delete All	Удалить всё
+Delete Config Set	Удалить набор конфигурации
+Delete Item	Удалить предмет
+Delete Item Set	Удалить набор предметов
+Delete Socket Group	Удалить группу гнёзд
+Delete Tree	Удалить древо
+Delete all equipped items when importing.	Удалять всю экипированную экипировку при импорте.
+Delete all equipped jewels when importing.	Удалять все экипированные самоцветы при импорте.
+Delete all existing skills when importing.	Удалять все существующие умения при импорте.
+Delete equipment	Удалить экипировку
+Delete jewels	Удалить самоцветы
+Delete skills	Удалить умения
+Delirious Effect	Эффект Делириума
+Delirium scales enemy 'less Damage Taken' as well as enemy 'increased Damage dealt'\nAt 100% effect	Делириум увеличивает «меньше получаемого урона» врагов и «увеличение наносимого урона» врагов\nПри эффекте 100%
+Delve Drop-restricted	Спуск: добыча ограничена
+Description	Описание
+Desired	Желаемое
+Desired Nodes	Желаемые узлы
+Despair self-only	Отчаяние только на себя
+Determines whether modifiers that depend on the highest damage type apply.	Определяет, применяются ли свойства, зависящие от наибольшего типа урона.
+Dev Mode	Режим разработчика
+Developer Mode active!	Режим разработчика активен!
+The program is currently running in developer	Программа сейчас работает в режиме
+mode, which is not intended for normal use.	разработчика, не предназначенном для обычного использования.
+If you are not expecting this, then you may have	Если вы этого не ожидали, возможно, вы
+set up the program from the source .zip instead	установили программу из исходного .zip
+of using one of the installers. If that is the case,	вместо установщика. В таком случае
+please reinstall using one of the installers from	переустановите её одним из установщиков
+the "Releases" section of the GitHub page.	из раздела «Releases» на странице GitHub.
+Devotion modifiers	Свойства Преданности
+Dex. Required	Лов. необходимо
+Dexterity Required	Требуется ловкость
+Dextral	Правый
+Dextral (Suffix)	Правый (суффикс)
+Difference	Разница
+Diluting Touch Stacks	Стаки Разжижающего касания
+Disable Dev AutoSave	Отключить автосохранение для Dev
+Disable EHP gain when hit	Отключить прирост EHP при получении удара
+Disable Emperor's Vigilance Bypass	Отключить обход Бдительности Императора
+Disable Party Effects	Отключить эффекты группы
+Disable Slashing Horror's Enrage	Отключить Ярость Секущего ужаса
+Disable changing the values in controls such as dropdowns or numeric inputs when using the scroll wheel.	Отключить изменение значений в элементах управления (выпадающие списки, числовые поля) колесом прокрутки.
+Disable control scroll interaction	Отключить прокрутку в элементах управления
+Disabling this gem will give you	Отключение этого камня даст вам следующее
+Disabling this group will give you	Отключение этой группы даст вам следующее
+Disallowed stringify type	Недопустимый тип stringify
+Disgorged	Извергнутый
+Display all item affix slots as a stacked list instead of hiding them in dropdowns.	Показывать все слоты аффиксов предмета списком, а не прятать их в выпадающих меню.
+Distance to start	Расстояние до старта
+Divine Sentinel	Божественный страж
+Divine Sentinel Auras	Ауры Божественного стража
+Dmg Derivation	Расчёт урона
+Dmg. Mit. Regen	Реген смягчения урона
+Dmg. per Ignite	Урон на Поджог
+Dmg. per Poison	Урон на Отравление
+Do not Autosave builds while on Dev branch	Не выполнять автосохранение билдов в ветке Dev
+Do you always have	У вас всегда есть
+Do you have Adrenaline?	Есть ли у вас Адреналин?
+Do you have Alchemist's Genius?	Есть ли у вас Гениальность алхимика?
+Do you have Arcane Surge?	Есть ли у вас Колдовской выброс?
+Do you have Avatar Of Fire?	Есть ли у вас Воплощение огня?
+Do you have Chaotic Might?	Есть ли у вас Мощь Хаоса?
+Do you have Convergence?	Есть ли у вас Концентрация?
+Do you have Divinity?	Есть ли у вас Божественность?
+Do you have Everlasting Sacrifice?	Есть ли у вас Вечное жертвоприношение?
+Do you have Fanaticism?	Есть ли у вас Фанатичность?
+Do you have Iron Reflexes?	Есть ли у вас Стальные нервы?
+Do you have Lifetap?	Есть ли у вас Жизнеотвод?
+Do you have Manastorm's Buff?	Есть ли у вас бафф Бури маны?
+Do you have Onslaught?	Есть ли у вас Боевой раж?
+Do you have Phasing?	Есть ли у вас Фазовость?
+Do you have Sacrificial Zeal?	Есть ли у вас Жертвенное рвение?
+Do you have Soul Gain Prevention?	Есть ли у вас запрет на получение душ?
+Do you have Tailwind?	Есть ли у вас Попутный ветер?
+Do you have Unholy Might?	Есть ли у вас Нечестивое могущество?
+Do you have Vaal Arc's Lucky Buff?	Есть ли у вас везучий бафф Дуги Вааль?
+Do you have Wild Savagery?	Есть ли у вас Дикая жестокость?
+Do you have a Flask active?	Активна ли у вас фляга?
+Do you have a Tincture active?	Активна ли у вас микстура?
+Do you have a Totem summoned?	Призван ли у вас тотем?
+Do you have unbroken	Есть ли у вас непрерванные
+Do you use Blitz Charges?	Используете ли вы Заряды разгона?
+Do you use Challenger Charges?	Используете ли вы Заряды вызова?
+Do you use Endurance Charges?	Используете ли вы Заряды выносливости?
+Do you use Frenzy Charges?	Используете ли вы Заряды ярости?
+Do you use Ghost Shrouds?	Используете ли вы Призрачные покровы?
+Do you use Power Charges?	Используете ли вы Заряды энергии?
+Do you use Siphoning Charges?	Используете ли вы Заряды поглощения?
+Do you wait for Max Unleash Seals?	Ждёте ли вы максимума Печатей высвобождения?
+Do your Minions use Endur. Charges?	Используют ли ваши приспешники Заряды выносл.?
+Do your Minions use Frenzy Charges?	Используют ли ваши приспешники Заряды ярости?
+Do your Minions use Power Charges?	Используют ли ваши приспешники Заряды энергии?
+Do your hits always stun?	Всегда ли ваши удары оглушают?
+Do your minions have Chaotic Might?	Есть ли у ваших приспешников Мощь Хаоса?
+Do your minions have Onslaught?	Есть ли у ваших приспешников Боевой раж?
+Do your minions have Unholy Might?	Есть ли у ваших приспешников Нечестивое могущество?
+DoT DPS	DPS от DoT
+DoT DPS exceeds in game limit	DPS от DoT превышает игровой предел
+DoT taken	Получаемый DoT
+Dodge	Уклонение
+Dodge Chance	Шанс уклонения
+Does the enemy have	Есть ли у врага
+Dom. Blow	Удар власти
+Dominus (Inner Conviction)	Доминус (Внутреннее убеждение)
+Don't disable items	Не отключать предметы
+Doom Blast Trigger Source	Источник триггера Рокового взрыва
+Doom Blast triggering Hex	Проклятие, запускающее Роковой взрыв
+Doom on Hex	Рок от проклятия
+Doryani (Corrupted Soul)	Дорьяни (Осквернённая душа)
+Dot	DoT
+Dot Damage Taken modifier	Модификатор получаемого урона от DoT
+DotEHP	DoT EHP
+Dots and Build Degens	DoT и дегенерации билда
+Double click to add this jewel to your build.	Дважды щёлкните, чтобы добавить этот самоцвет в билд.
+Double clicking a result also equips the jewel in its jewel socket.	Двойной щелчок по результату также экипирует самоцвет в его гнездо.
+Download information not found	Информация о загрузке не найдена
+Drops from unique	Выпадает из уникального
+Duration Mod	Мод. длительности
+Duration of Curses	Длительность проклятий
+EHP calc unlucky	EHP при невезении
+ES % per second	% ЭЩ в секунду
+ES Bypass %	% обхода ЭЩ
+ES Cost	Стоимость ЭЩ
+ES Cost per second	Стоимость ЭЩ в секунду
+ES Gain Rate	Скорость получения ЭЩ
+ES Gain on Kill	Получение ЭЩ при убийстве
+ES Gain per Hit	Получение ЭЩ за удар
+ES Leech Cap	Лимит похищения ЭЩ
+ES Leech Rate	Скорость похищения ЭЩ
+ES Leech per Hit	Похищение ЭЩ за удар
+ES Recovery	Восстановление ЭЩ
+ES Regen	Регенерация ЭЩ
+ES on Block	ЭЩ при блоке
+ES on Spell Block	ЭЩ при блоке чар
+ES on Suppression	ЭЩ при подавлении
+ES per second	ЭЩ в секунду
+ES to Life Conversion	Преобразование ЭЩ в здоровье
+Each Attack is sacrificing a damage minion to grant you extra projectiles.	Каждая атака жертвует приспешником, наносящим урон, давая вам дополнительные снаряды.
+Each Sunscald increases the effect of	Каждый Солнечный ожог усиливает эффект
+Each page fetches up to 10 items.	Каждая страница загружает до 10 предметов.
+Each stack of Corrosion applies -5000 to total Armour and -1000 to total	Каждый стак Коррозии даёт -5000 к общей броне и -1000 к общему
+Each stack of Spirit Infusion grants	Каждый стак Насыщения духом даёт
+Eater	Пожиратель
+Echoes of Creation base damage	Базовый урон Отголосков сотворения
+Edit Item Text	Править текст предмета
+Eff. DoT Multi	Эфф. множитель DoT
+Eff. Source Rate	Эфф. скорость источника
+Effect	Эффект
+Effect of	Эффект
+Effect of Blind	Эффект Ослепления
+Effect of Blind (if not maximum)	Эффект Ослепления (если не максимум)
+Effect of Chill	Эффект Охлаждения
+Effect of Elusive	Эффект Неуловимости
+Effect of Elusive (if not average)	Эффект Неуловимости (если не среднее)
+Effect of non-Damaging Ailments	Эффект неурон. состояний
+Effective Accuracy vs Enemy	Эффективная меткость против врага
+Effective Crit Chance	Эффективный шанс крита
+Effective DPS	Эффективный DPS
+Effective DPS Mod	Мод. эффективного DPS
+Effective DPS modifier	Модификатор эффективного DPS
+Effective DoT Multiplier	Эффективный множитель DoT
+Effective DoT Pool	Эффективный пул DoT
+Effective Evasion	Эффективное уклонение
+Effective Hit Pool	Эффективный пул ударов
+Effective Impact	Эффективное воздействие
+Effective Recharge rate	Эффективная скорость перезарядки
+Effective Trigger Rate	Эффективная частота триггера
+Effective \"Health\" Pool	Эффективный пул «здоровья»
+Effective flask stats	Эффективные характеристики фляги
+Effective life from Mind over Matter	Эффективное здоровье с Разумом над материей
+Effective resistance	Эффективное сопротивление
+Effective source rate	Эффективная частота источника
+Effective tincture stats	Эффективные характеристики микстуры
+Efficiency	Эффективность
+Eldritch Blasphemy	Богохульство Древних
+Eldritch Mods	Свойства Древних
+Ele DPS	DPS стихий
+Elemental Aegis charge	Заряд Стихийной эгиды
+Elemental Ailment Duration	Длительность стихийных состояний
+Elemental Ailments	Стихийные состояния
+Elemental Max Hit	Макс. стихийный удар
+Elemental Weakness self-only	Уязвимость к стихиям только на себя
+Elevated	Возвышенный
+Empowered Spells	Усиленные чары
+Enable	Включить
+Enable Anger Aura	Включить ауру Жгучей злобы
+Enable Hatred Aura	Включить ауру Холодной ненависти
+Enable Holy Relic's Boon Aura	Включить ауру Дара Священной реликвии
+Enable Summoned Ursa's Rallying Cry	Включить Клич сплочения призванной Урсы
+Enable Wrath Aura	Включить ауру Грозного гнева
+Enable any buff skills that your spectres have.	Включить все бафф-умения ваших призраков.
+Enable any curse skills that your spectres have.	Включить все проклятия ваших призраков.
+Enable buffs	Включить баффы
+Enable curses	Включить проклятия
+Enable this option to exclude nodes that you do not have allocated on your active passive skill tree.	Включите, чтобы исключить узлы, которые не взяты на вашем активном пассивном древе.
+Enables additional damage given to Lingering Blades\nThe exact weapon is unknown but should be similar to Glass Shank	Включает дополнительный урон Затяжных клинков\nТочное оружие неизвестно, но должно быть похоже на Стеклянный нож
+Enabling this gem will give you	Включение этого камня даст вам следующее
+Enabling this group will give you	Включение этой группы даст вам следующее
+Enchant Behaviour	Поведение зачарования
+Enchant Item	Зачаровать предмет
+Encountered unknown error, check console for details.	Неизвестная ошибка, подробности в консоли.
+Endgame	Эндгейм
+EnduranceChargesMax=	EnduranceChargesMax=
+Enemies	Враги
+Enemies Killed Recently	Недавно убитые враги
+Enemies are Pacified after 60% of Pacify's duration has expired	Враги усмиряются после истечения 60% длительности Усмирения
+Enemies on Profane Ground receive the following modifiers	Враги на Нечестивой земле получают следующие свойства
+Enemies on your Brine Ground have \n30% increased effect of Lightning and Cold Ailments on them and \nhave 25% reduced Armour and Evasion Rating.	Враги на вашей Морской земле имеют \n30% увеличенный эффект состояний от молнии и холода и \nна 25% меньше брони и уклонения.
+Enemies on your Fungal Ground have -10% to all Resistances	Враги на вашей Заражённой земле имеют -10% ко всем сопротивлениям
+Enemies' modifiers to apply,\nthis will allow you to input the effect of the	Свойства врагов,\nэто позволит ввести эффект
+Enemy	Враг
+Enemy Base	Базовые значения врага
+Enemy Base Armour	Базовая броня врага
+Enemy Block	Блок врага
+Enemy Block Chance	Шанс блока врага
+Enemy Conditions	Состояния врага
+Enemy Conversion modifiers	Свойства конвертации врага
+Enemy Corpse	Труп врага
+Enemy Damage	Урон врага
+Enemy Damage Type	Тип урона врага
+Enemy Degens	Дегенерации врага
+Enemy ES Recovery	Восстановление ЭЩ врага
+Enemy Evasion modifiers	Свойства уклонения врага
+Enemy Hit Damage	Урон от удара врага
+Enemy Hit Damage After Resistance	Урон от удара врага после сопротивления
+Enemy Level	Уровень врага
+Enemy Life Equivalent	Эквивалент здоровья врага
+Enemy Life Recovery	Восстановление здоровья врага
+Enemy Mana Recovery	Восстановление маны врага
+Enemy Max Resistance is always 75%	Максимальное сопротивление врага всегда 75%
+Enemy Maximum resistance is increased by the resistance configurations \nThis locks it at the default value	Максимальное сопротивление врага повышается конфигурацией сопротивлений \nЭто фиксирует его на значении по умолчанию
+Enemy Modifiers	Свойства врага
+Enemy Pen	Пробитие врага
+Enemy Phys. Damage Reduction	Снижение физ. урона врага
+Enemy PvP Multiplier	Множитель PvP врага
+Enemy Skill	Умение врага
+Enemy Skill Physical Damage	Физический урон умения врага
+Enemy Skill Physical Overwhelm	Подавление физ. урона умения врага
+Enemy Skill Roll Range %	Разброс броска умения врага %
+Enemy Stats	Характеристики врага
+Enemy critical strike chance	Шанс критического удара врага
+Enemy critical strike multiplier	Множитель критического удара врага
+Enemy evasion	Уклонение врага
+Enemy has Malignant Madness?	Есть ли у врага Пагубное сумасшествие?
+Enemy hit by Misty Reflection?	Попал ли по врагу Туманное отражение?
+Enemy hit you with	Враг ударил вас
+Enemy in Your Presence Duration	Длительность врага в вашем присутствии
+Enemy level	Уровень врага
+Enemy miss chance	Шанс промаха врага
+Enemy modifiers	Свойства врага
+Enemy radius	Радиус врага
+Enemy size preset	Пресет размера врага
+Enemy was Hit by	Враг был поражён
+Energy Blade One Handed	Клинок энергии (одноручный)
+Energy Blade Two Handed	Клинок энергии (двуручный)
+Energy Shield Cost	Стоимость энергетического щита
+Energy Shield recovered	Восстановлено энергетического щита
+Energy Shield?	Энергетический щит?
+EnergyShieldRecoveryCap=	EnergyShieldRecoveryCap=
+Enfeeble self-only	Слабость только на себя
+Enmity's Embrace base damage	Базовый урон Объятий вражды
+Enter a valid trade URL	Введите корректную торговую ссылку (URL)
+Enter folder name	Введите название папки
+Enter name for this config set	Введите название этого набора конфигурации
+Enter name for this item set	Введите название этого набора предметов
+Enter name for this loadout	Введите название этого набора
+Enter name for this passive tree	Введите название этого пассивного древа
+Enter name for this skill set	Введите название этого набора умений
+Enter new build name	Введите новое название билда
+Enter passive tree link	Введите ссылку на пассивное древо
+Enter the new name for this	Введите новое название для
+Entrance for subGraph not linked to parent socket???	Вход подграфа не связан с родительским гнездом???
+Equipped items	Экипированные предметы
+Equipping	Экипировка
+Eroding Touch Stacks	Стаки Разрушающего касания
+Error NodeIndexMapping file empty	Ошибка: файл NodeIndexMapping пуст
+Error creating link	Ошибка создания ссылки
+Error fetching league list, default league will be used\n	Ошибка загрузки списка лиг, будет использована лига по умолчанию\n
+Error importing character data, try again (	Ошибка импорта данных персонажа, попробуйте снова (
+Error loading main script	Ошибка загрузки главного скрипта
+Error occurred loading Glorious Vanity data	Ошибка загрузки данных Блистательного тщеславия
+Error occurred loading Timeless Jewel data	Ошибка загрузки данных Вневременных самоцветов
+Error processing character list, try again later	Ошибка обработки списка персонажей, попробуйте позже
+Error retrieving character list, try again (	Ошибка получения списка персонажей, попробуйте снова (
+Error tag invalid	Недопустимый тег ошибки
+Error while fetching league list	Ошибка при загрузке списка лиг
+Error while fetching similar builds	Ошибка при загрузке похожих билдов
+Evade Chance	Шанс уклонения
+Evasion Multiplier	Множитель уклонения
+Evasion rating	Уклонение
+Evasion to Armour	Уклонение в броню
+Every3UseCrit	Каждое 3-е применение — крит
+Every5UseCrit	Каждое 5-е применение — крит
+Exarch	Экзарх
+Exclusive to	Эксклюзивно для
+Excommunicated Enemies cannot deal	Отлучённые враги не могут наносить
+Exerted Attacks	Усиленные атаки
+Exerting Warcries	Усиление боевых кличей
+Exerts	Усиления
+Expanded mode	Расширенный режим
+Experience multiplier	Множитель опыта
+Explicit	Явное
+Explode	Взрыв
+Export Support	Поддержка экспорта
+Export Tree	Экспорт древа
+Exposure	Уязвимость
+Exposure Effect	Эффект уязвимости
+Exposure Type	Тип уязвимости
+Extra	Дополнительно
+Eye of Innocence base damage	Базовый урон Ока Невинности
+FONTIN ITALIC	FONTIN ITALIC
+FONTIN SC	FONTIN SC
+FONTIN SC ITALIC	FONTIN SC ITALIC
+Failed to Get PoE League List response	Не удалось получить список лиг PoE
+Failed to Get Trade Items	Не удалось получить торговые предметы
+Failed to Get Trade response	Не удалось получить ответ торговли
+Failed to decode build data	Не удалось декодировать данные билда
+Failed to download	Не удалось загрузить
+Failed to get PoEURL link. Try again later.	Не удалось получить ссылку PoEURL. Попробуйте позже.
+Failed to get code from server	Не удалось получить код с сервера
+Failed to get search query	Не удалось получить поисковый запрос
+Failed to get token from server	Не удалось получить токен с сервера
+Failed to import build for comparison.	Не удалось импортировать билд для сравнения.
+Failed to load	Не удалось загрузить
+Failed to load jewel data	Не удалось загрузить данные самоцвета
+Failed to parse search query JSON	Не удалось разобрать JSON поискового запроса
+Failed to parse trade leagues JSON	Не удалось разобрать JSON торговых лиг
+Failed to process CX response	Не удалось обработать ответ CX
+Failed to recreate auth token	Не удалось пересоздать токен авторизации
+Failed to retrieve character data, try again.	Не удалось получить данные персонажа, попробуйте снова.
+Failed to retrieve character list.	Не удалось получить список персонажей.
+Fallback Nodes	Резервные узлы
+Fallback Weight Mode	Режим резервных весов
+Fallback node weights are only used when no matching entry exists in the desired nodes list, allowing you to override or disable specific automatic weights.	Резервные веса узлов используются, только если в списке желаемых узлов нет подходящей записи, что позволяет переопределять или отключать отдельные автоматические веса.
+Fallback node weights typically contain automatically generated stat weights based on your current build.	Резервные веса узлов обычно содержат автоматически созданные веса характеристик на основе вашего текущего билда.
+False	Ложь
+Faster Recoup	Быстрое возмещение
+Feeding Frenzy grants	Голодное остервенение даёт
+Fertile	Плодородный
+Fertile (Life & Mana)	Плодородный (здоровье и мана)
+Fetch Characters	Загрузить персонажей
+Fetch Pages	Загрузить страницы
+Fetched	Загружено
+File	Файл
+Filter Nodes	Фильтр узлов
+Final (all hits use final)	Итог (все удары используют итог)
+Final Type	Итоговый тип
+Final only	Только итог
+Find Timeless Jewel	Найти Вневременной самоцвет
+Find a Timeless Jewel	Найти Вневременной самоцвет
+Find best	Найти лучшее
+Fire Dmg. Reduct	Снижение урона огня
+Fire Max Hit	Макс. удар огнём
+Fire Pen	Пробитие огня
+Fire Recoup	Возмещение огня
+Fire Res. Over Max	Сопр. огню сверх макс.
+Fire Resist	Сопротивление огню
+Fire Taken as	Огонь получается как
+Fire?	Огонь?
+First stage has a %.2fx channel time multiplier	Первая стадия имеет множитель времени каналирования %.2fx
+Flag	Флаг
+Flammability self-only	Горючесть только на себя
+Flask 1	Фляга 1
+Flask 2	Фляга 2
+Flask 3	Фляга 3
+Flask 4	Фляга 4
+Flask 5	Фляга 5
+Flask effect duration	Длительность эффекта фляги
+Flask effect modifier	Модификатор эффекта фляги
+Flask uptime	Время работы фляги
+Flasks gain 1 Charges every 3 seconds	Фляги получают 1 заряд каждые 3 секунды
+Flasks gain a Charge every 3 seconds	Фляги получают заряд каждые 3 секунды
+For Effective DPS	Для эффективного DPS
+For nodes with multiple stats this slider controls the weight of the first stat listed.	Для узлов с несколькими характеристиками этот ползунок задаёт вес первой указанной характеристики.
+For nodes with multiple stats this slider controls the weight of the second stat listed.	Для узлов с несколькими характеристиками этот ползунок задаёт вес второй указанной характеристики.
+Fork Count	Количество цепочек
+FormatStat, because it doesn	FormatStat, because it doesn
+FortificationStacks=	FortificationStacks=
+Foulborn	Оскверненный
+Foulborn Kitava's Thirst	Оскверненная Жажда Китавы
+Frame	Кадр
+Freeze Avoid Ch.	Шанс избежать заморозки
+Freeze Duration	Длительность заморозки
+Freeze Effect	Эффект заморозки
+FreezeDPS	DPS заморозки
+From Oshabi's Bloodline, grants	От Кровной линии Ошаби даёт

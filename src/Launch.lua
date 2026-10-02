@@ -69,6 +69,9 @@ function launch:OnInit()
 	ConPrintf("Loading main script...")
 	local errMsg
 	errMsg, self.main = PLoadModule("Modules/Main")
+	if not errMsg and self.main then
+		errMsg = PLoadModule("Russian/Init", self.main)
+	end
 	if errMsg then
 		self:ShowErrMsg("Error loading main script: %s", errMsg)
 	elseif not self.main then

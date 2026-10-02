@@ -1,0 +1,583 @@
+(total mana degen)	(общая потеря маны)
+(total mana regen)	(общая регенерация маны)
+(total modifier)	(общий модификатор)
+(total time it would take to die)	(общее время до смерти)
+(total time of the degen (survival time + 4 seconds))	(общее время потери (время выживания + 4 секунды))
+(totem life modifier)	(модификатор здоровья тотема)
+(trauma per attack)	(травма за атаку)
+(tree missing allocated node)	(в дереве нет выбранного узла)
+(trigger rate adjusted for triggering interval)	(частота срабатывания с учётом интервала)
+(trigger rate)	(частота срабатывания)
+(uncapped poison stacks	(стаки отравления без ограничения
+(uptime %%)	(время действия %%)
+(used pool)	(использованный запас)
+(uses that can bifurcate)	(использования, способные раздвоиться)
+(warcry casttime)	(время сотворения боевого клича)
+(warcry cooldown)	(перезарядка боевого клича)
+(weighted average from %.0f%% inversion chance)	(взвешенное среднее при %.0f%% шансе инверсии)
+(with a	(при
+* %.2f (modifiers to enemy damage)	* %.2f (модификаторы урона врага)
+* %.3f (enemy crit effect)	* %.3f (эффект крита врага)
+* 100% uptime (WarcryMaxHit Override)	* 100% времени действия (переопределение WarcryMaxHit)
+* PvP multiplier	* множитель PvP
++ Add Blocked Stat	+ Добавить блокируемый параметр
++ Add Required Stat	+ Добавить требуемый параметр
++ Enemy Pen	+ Пробитие врага
++ Flat	+ Плоский
++ Impale	+ Прокол
++ Net Energy Shield Regen	+ Чистая регенерация ЭЩ
++ Net Mana Regen	+ Чистая регенерация маны
++#% Chance to Block	+#% к шансу блока
++15% to all Elemental Resistances	+15% к сопротивлению всем стихиям
++40 to Maximum	+40 к максимуму
+, E is the exponent and P is the percentage of that type (ele or non ele)	, E — показатель степени, P — доля этого типа (стихийный или нестихийный)
+, and	, и
+, and a level 80 monster has	, а у монстра 80 уровня
+, and an additional	, и дополнительно
+, defensive power as	, защитная мощь как
+, size =	, размер =
+,\nthe strongest one will apply instead unless this option would apply a stronger	,\nбудет действовать сильнейший, если только эта опция не применит более сильный
+- Doesn't require authorization.	- Авторизация не требуется.
+- You cannot search and compare items in Path of Building.	- В Path of Building нельзя искать и сравнивать предметы.
+- You can generate weighted search URLs but have to visit the trade site and manually import items.	- Можно создавать URL взвешенного поиска, но предметы нужно импортировать вручную на сайте торговли.
+- You can only generate weighted searches for public leagues. (Generated searches can be modified	- Взвешенный поиск доступен только для публичных лиг. (Созданный поиск можно изменить
+on trade site to work on other leagues and realms)	на сайте торговли для работы с другими лигами и регионами)
+- Tier	- Ранг
+-%1 faster	-%1 быстрее
+-%1 increased	-%1 увеличено
+-%1 less	-%1 меньше
+-%1 more	-%1 больше
+-%1 reduced	-%1 уменьшено
+-%1 slower	-%1 медленнее
+-- Jewels --	-- Самоцветы --
+-- Select Metric --	-- Выберите метрику --
+--- Curse Limit ---\n	--- Лимит проклятий ---\n
+--- Curse Limit ---\n1	--- Лимит проклятий ---\n1
+.	.
+You cannot delete this group, but it will disappear if you	Эту группу нельзя удалить, но она исчезнет, если вы
+.*No such file or directory	.*No such file or directory
+.*file returns nil	.*file returns nil
+.\nAre you sure you want to delete it?	.\nВы уверены, что хотите удалить?
+.\nIf updating while inside a build, please re-load the build after saving.	.\nЕсли обновляете внутри билда, перезагрузите билд после сохранения.
+.\nNote that some or all of the passives may have been de-allocated due to changes in the tree.\n\nYou can switch back to the old tree using the tree selector at the bottom left.	.\nУчтите: часть пассивных умений могла быть снята из-за изменений в дереве.\n\nВернуться к старому дереву можно через выбор дерева внизу слева.
+.\nThis action cannot be undone.\n	.\nЭто действие нельзя отменить.\n
+.added small passive skills grant	.добавленные малые пассивные умения дают
+.bin, or data is out of date, falling back to compressed file	.bin, или данные устарели, используется сжатый файл
+1 Added Passive Skill is (.*)	1 Added Passive Skill is (.*)
+1 Added Passive Skill is (.-)\r?\n	1 Added Passive Skill is (.-)\r?\n
+1 Added Passive Skill is a Jewel Socket	1 добавленное пассивное умение — гнездо самоцвета
+1 to 10	от 1 до 10
+10 units equals 1 metre	10 единиц равны 1 метру
+100% Delirious	100% Делириума
+2 Added Passive Skills are Jewel Sockets	2 добавленных пассивных умения — гнёзда самоцветов
+20% Delirious	20% Делириума
+40% Delirious	40% Делириума
+60% Delirious	60% Делириума
+8% increased Movement Speed	8% повышение скорости передвижения
+80% Delirious	80% Делириума
+: Modifiers will grant their full value as the specified element\nIf a modifier chooses between just two elements, the full value can only be given as those two elements.	: Модификаторы дадут полное значение указанной стихии\nЕсли модификатор выбирает всего из двух стихий, полное значение может достаться только этим двум.
+= %.1f to %.1f	= %.1f до %.1f
+= %.1fm	= %.1f м
+= %.2f per second	= %.2f в секунду
+= %.2f seconds	= %.2f сек.
+= %.2f%% average critical strike chance	= %.2f%% средний шанс критического удара
+= %.2fs	= %.2f с
+= %.2fs (note that for effects that care about duration this is ignored)	= %.2f с (для эффектов, зависящих от длительности, это не учитывается)
+= %.3fs	= %.3f с
+= Total Net Regen	= Общая чистая регенерация
+== Aux Skills ==	== Доп. умения ==
+== Output Table ==	== Таблица вывода ==
+=== Cond ===	=== Условия ===
+=== Conditions ===	=== Условия ===
+=== Enemy Cond ===	=== Условия врага ===
+=== Enemy Mod DB ===	=== БД модов врага ===
+=== Enemy Mult ===	=== Множители врага ===
+=== Main Skill ===	=== Основное умение ===
+=== Main Skill Data ===	=== Данные основного умения ===
+=== Main Skill Flags ===	=== Флаги основного умения ===
+=== Main Skill Mods ===	=== Моды основного умения ===
+=== Minion Cond ===	=== Условия приспешника ===
+=== Minion Mod DB ===	=== БД модов приспешника ===
+=== Modifiers ===	=== Модификаторы ===
+=== Mult ===	=== Множители ===
+=== Multipliers ===	=== Множители ===
+A debuff that applies	Ослабление, которое применяется
+A folder cannot be copied into itself.	Папку нельзя скопировать в саму себя.
+A folder cannot be moved into itself.	Папку нельзя переместить в саму себя.
+A jewel already in that socket is replaced.	Самоцвет в этом гнезде будет заменён.
+About	О программе
+Abrasive	Абразивный
+Abrasive (Attack)	Абразивный (атака)
+Abyssal #	Бездны #
+Abyssal Socket	Гнездо Бездны
+Abyssal Sockets	Гнёзда Бездны
+Accelerating	Ускоряющий
+Accelerating (Speed)	Ускоряющий (скорость)
+Acceptable Range is	Допустимый диапазон:
+Account name is incorrect.	Неверное имя аккаунта.
+Account profile is private or does not exist.	Профиль аккаунта закрытый или не существует.
+AccountName -	Имя аккаунта -
+Accounts	Аккаунты
+Accuracy Hit Chance	Шанс попадания по меткости
+Act 10 (-60%)	Акт 10 (-60%)
+Act 5 (-30%)	Акт 5 (-30%)
+Activate this flask.	Активировать этот флакон.
+Activating this flask will give you	Активация этого флакона даст вам
+Activating this tincture will give you	Активация этой микстуры даст вам
+Activations per Brand	Активаций на клеймо
+Active	Активно
+Active Brand Limit	Лимит активных клейм
+Active Mine Limit	Лимит активных копей
+Active Mines	Активные копи
+Active Minion Limit	Лимит активных приспешников
+Active Skill	Активное умение
+Active Skill #	Активное умение #
+Active Totem Limit	Лимит активных тотемов
+Active Trap Limit	Лимит активных ловушек
+Add Crucible Modifier to Item	Добавить модификатор Тигля к предмету
+Add Dexterity	Добавить ловкость
+Add Implicit to Item	Добавить неявный модификатор к предмету
+Add Mod	Добавить мод
+Add Mod Group	Добавить группу модов
+Add Modifier to Item	Добавить модификатор к предмету
+Add Strength	Добавить силу
+Add to build	Добавить в билд
+Added	Добавлено
+Added Max	Добавлено макс.
+Added Min	Добавлено мин.
+Added Passives	Добавленные пассивные умения
+Additional Stats	Дополнительные параметры
+Adds	Добавляет
+Adjust search weights	Настроить веса поиска
+Affects the DPS of Perforate in Blood Stance.\nMaximum is limited by the number of Spikes of Perforate.	Влияет на DPS «Пронзающих шипов» в стойке крови.\nМаксимум ограничен числом шипов «Пронзающих шипов».
+Affix	Аффикс
+After selecting a row You can also shift+click on another row to select a range of rows to search.	Выбрав строку, можно также кликнуть по другой строке с зажатым Shift, чтобы искать по диапазону строк.
+After you finish importing a character, make sure you update the bandit choice,\nas it can only be imported by logging in above.	После импорта персонажа обновите выбор бандита,\nтак как его можно импортировать только через вход выше.
+Ahuana (Immortal Ambition)	Ахвана (Бессмертное честолюбие)
+Ailment Threshold	Порог состояний
+Ailment calculation mode	Режим расчёта состояний
+Ailment mode	Режим состояний
+Akoya (Chainbreaker)	Акойя (Разрывающая оковы)
+All Sockets	Все гнёзда
+All Types	Все типы
+All gems default to level 1.	Все камни по умолчанию имеют 1 уровень.
+All gems default to their highest valid corrupted gem level.	Все камни по умолчанию получают наивысший допустимый уровень осквернённого камня.
+All gems default to their highest valid non-corrupted gem level that your character meets the level requirement for.	Все камни по умолчанию получают наивысший допустимый неосквернённый уровень, соответствующий требованию уровня вашего персонажа.
+This hides gems with a minimum level requirement above your character level, preventing them from showing up in the dropdown list.	Скрывает камни с требованием уровня выше уровня вашего персонажа, чтобы они не появлялись в выпадающем списке.
+All gems default to their highest valid non-corrupted gem level.	Все камни по умолчанию получают наивысший допустимый неосквернённый уровень.
+All skills	Все умения
+All targets	Все цели
+Allies on your Brine Ground gain 10% of Physical Damage as extra Cold Damage and as extra Lightning Damage	Союзники на вашей Земле рассола получают 10% физического урона как дополнительный урон холодом и как дополнительный урон молнией
+Allies on your Fungal Ground gain +25%	Союзники на вашей Грибной земле получают +25%
+Allocates	Выбирает
+Allocates (.*)	Выбирает (.*)
+Allocates ([a-zA-Z ]+)	Выбирает ([a-zA-Z ]+)
+Allocating	Выбор
+Allocating this node and all nodes leading to it will give you	Выбор этого узла и всех ведущих к нему узлов даст вам
+Allocating this node will give you	Выбор этого узла даст вам
+Allow Duplicate Variants	Разрешить дублирующиеся варианты
+Allows you to manually set the Stack Potential value for a skill.\nStack Potential equates to the number of times you are able to inflict a Bleed on an enemy before the duration of your first Bleed expires	Позволяет вручную задать значение потенциала стаков для умения.\nПотенциал стаков — сколько раз вы можете наложить кровотечение на врага до истечения длительности первого кровотечения
+Allows you to manually set the Stack Potential value for a skill.\nStack Potential equates to the number of times you are able to inflict an Ignite on an enemy before the duration of your first Ignite expires	Позволяет вручную задать значение потенциала стаков для умения.\nПотенциал стаков — сколько раз вы можете поджечь врага до истечения длительности первого поджога
+Alluring Abyss Map Mod	Модификатор карты «Манящая Бездна»
+Already	Уже
+Alt	Alt
+Amanamu (The Loyal Few)	Аманаму (Верные немногие)
+Ambiguous gem name '	Неоднозначное название камня '
+Amethyst	Аметист
+Amount of	Количество
+Amount of Hallowing Flame stacks applied to the enemy.	Количество стаков Освящающего пламени, наложенных на врага.
+Amount of Hallowing Flame stacks removed from enemies by allies recently.	Количество стаков Освящающего пламени, недавно снятых с врагов союзниками.
+Amount of stacks of	Количество стаков
+Anoint Behaviour	Поведение помазания
+Anoint Item	Помазать предмет
+Any (includes offline)	Любой (включая офлайн)
+Any Loadout	Любой набор
+Any league	Любая лига
+Any manual changes made to your fallback nodes are lost when you click the generate button, as it completely replaces them.	Любые ручные изменения запасных узлов теряются при нажатии кнопки создания, так как она полностью их заменяет.
+Any requirements	Любые требования
+Any slot	Любой слот
+Any source	Любой источник
+Any type	Любой тип
+Anywhere	Где угодно
+AoE Radius	Радиус области действия
+Append	Добавить в конец
+Application options	Параметры приложения
+Apply Eldritch Implicits from current gear when comparing new gear, given the new item doesn't have any influence	Применять древние неявные модификаторы текущей экипировки при сравнении нового предмета, если у него нет влияния
+Approximate evade chance	Примерный шанс уклонения
+Approximate hit chance	Примерный шанс попадания
+Approximate melee evade chance	Примерный шанс уклонения от ближнего боя
+Approximate projectile evade chance	Примерный шанс уклонения от снарядов
+Are you	Вы
+Are you Bleeding?	Вы истекаете кровью?
+Are you Blinded?	Вы ослеплены?
+Are you Channelling Cyclone?	Вы поддерживаете «Вихрь»?
+Are you Channelling?	Вы поддерживаете умение?
+Are you Elusive?	Вы неуловимы?
+Are you Focused?	Вы сосредоточены?
+Are you Fortified?	Вы укреплены?
+Are you Immune to Curses?	Вы невосприимчивы к проклятиям?
+Are you Insane?	Вы безумны?
+Are you Leeching	Вы похищаете
+Are you Leeching?	Вы похищаете?
+Are you Poisoned?	Вы отравлены?
+Are you Unbound?	Вы безудержны?
+Are you always moving?	Вы всегда в движении?
+Are you always on Full	Вы всегда с полным
+Are you always on Low	Вы всегда с малым
+Are you animating Lingering Blades?	Вы анимируете «Задерживающиеся клинки»?
+Are you in Her Embrace?	Вы в Её объятии?
+Are you in a Bloodstorm?	Вы в Кровавой буре?
+Are you in a Sandstorm?	Вы в Песчаной буре?
+Are you on	Вы на
+Are you on Brine Ground?	Вы на Земле рассола?
+Are you on Caustic Ground?	Вы на Едкой земле?
+Are you on Consecrated Ground?	Вы на Освящённой земле?
+Are you on Fungal Ground?	Вы на Грибной земле?
+Are you on Profane Ground?	Вы на Нечестивой земле?
+Are you sure you want to delete '	Вы уверены, что хотите удалить '
+Are you sure you want to delete all items in this build?	Вы уверены, что хотите удалить все предметы в этом билде?
+Are you sure you want to delete all socket groups in this build?	Вы уверены, что хотите удалить все группы камней в этом билде?
+Are you sure you want to delete build	Вы уверены, что хотите удалить билд
+Are you sure you want to remove '	Вы уверены, что хотите убрать '
+Are your Minions always on Full	Ваши приспешники всегда с полным
+Are your Minions always on Low	Ваши приспешники всегда с малым
+Area of Effect Mod	Модификатор области действия
+Area of Effect modifiers	Модификаторы области действия
+Arg	Арг.
+Armour Defense	Защита бронёй
+Armour Multiplier	Множитель брони
+Armour calculation mode	Режим расчёта брони
+Ascendancy node to be refunded	Узел Восхождения к возврату
+Ascendancy nodes to be refunded	Узлы Восхождения к возврату
+Asenath (Dance with Death)	Асенат (Танец со смертью)
+Assembled Eye Jewel	Собранный самоцвет-глаз
+League: Allflame	Лига: Всепламень
+Limited to: 1 Historic	Ограничение: 1 Исторический
+Implicits: 0	Неявные: 0
+Binding	Связывание
+Assuming 'non-Poisoned' Enemy	Предполагается неотравленный враг
+Assuming every attack kills	Предполагается, что каждая атака убивает
+Assuming perfect focus Re-Use	Предполагается идеальное повторное использование фокуса
+At +20% Quality	При +20% качества
+Attachment Range	Радиус присоединения
+Attack Dodge Chance	Шанс уклонения от атак
+Attack Rate	Скорость атаки
+Attack Speed before increased Attack Speed	Скорость атаки до повышения скорости атаки
+Attack Speed exceeds cap; Recalculating	Скорость атаки превышает предел; пересчёт
+Attack time	Время атаки
+Attacks	Атаки
+Attacks per second	Атак в секунду
+Attributes in Radius	Атрибуты в радиусе
+Atziri Flameblast	Вспышка пламени Атзири
+Augyre rotating buff	Вращающийся эффект Златоворота
+Aura Duration	Длительность ауры
+Aura Effect Mod	Модификатор эффекта ауры
+Aura Uptime	Время действия ауры
+Aura and Buff Skills	Умения аур и эффектов
+Auras	Ауры
+Aureate	Золотистый
+Auth token expired	Токен авторизации истёк
+Auth token is invalid. Please login again.	Токен авторизации недействителен. Войдите снова.
+Authenticated	Авторизовано
+Authorization	Авторизация
+Authorization is invalid. Please Re-Log and reset	Авторизация недействительна. Перезайдите и сбросьте
+Authorize with Path of Exile	Авторизоваться в Path of Exile
+Available Mastery node options are	Доступные варианты узла Мастерства:
+Available Spectres	Доступные иллюзорные существа
+Avarius (Power of Purpose)	Аварий (Сила цели)
+Average	Среднее
+Average Bleed Roll	Средний бросок кровотечения
+Average Burst Damage	Средний взрывной урон
+Average Calc	Средний расчёт
+Average Damage	Средний урон
+Average Dmg. inc. Ignite	Средний урон, включая поджог
+Average Hit	Среднее попадание
+Average Ignite DPS	Средний DPS поджога
+Average Ignite Roll	Средний бросок поджога
+Average Intimidating Cry Damage	Средний урон «Устрашающего клича»
+Average Rallying Cry Damage	Средний урон «Клича сплочения»
+Average Seq More	Средний посл. множитель «больше»
+Average enemy accuracy	Средняя меткость врага
+Avg Dmg Effect	Сред. эффект урона
+Avg Fist Of War Boosted AoE	Средняя область «Кулака войны»
+Avg Seismic Exert AoE	Средняя область сейсмического усиления
+Avg. Active Traps	Сред. активных ловушек
+Avg. Mines per Throw	Сред. копей за бросок
+Avg. Traps per Throw	Сред. ловушек за бросок
+Avoid	Избегание
+Avoid All Dmg Ch.	Шанс избежать всего урона
+Avoid Chaos Chance	Шанс избежать урона хаосом
+Avoid Cold Chance	Шанс избежать урона холодом
+Avoid Fire Chance	Шанс избежать урона огнём
+Avoid Lightning Ch.	Шанс избежать урона молнией
+Avoid Physical Ch.	Шанс избежать физ. урона
+Avoid Proj Ch.	Шанс избежать снарядов
+Awakened Maximum	Максимум пробуждённого
+Azmeri	Азмери
+Balance of Terror	Баланс террора
+Balbala (The Traitor)	Балбала (Предатель)
+Bandit	Бандит
+Bandit quest	Квест бандитов
+Banner Skills	Умения знамён
+Banner Valour	Доблесть знамени
+Barnacle	Морской желудь
+Base	Базовое
+Base Attack Speed	Базовая скорость атаки
+Base Damage	Базовый урон
+Base Maximum	Базовый максимум
+Base damage	Базовый урон
+Base flag	Базовый флаг
+Base from Armours	Базовое от брони
+Base from Gear	Базовое от экипировки
+Base maximum Gale Force is 10.	Базовый максимум «Силы шторма» — 10.
+Based on Openarl's Path of Building	По мотивам Path of Building от Openarl
+Battlemage	Боевой маг
+Beam Chains	Количество цепей луча
+Bearer	Носитель
+Beastcraft	Зверокрафт
+Best Bleed DPS	Лучший DPS кровотечения
+Best Burning Ground DPS	Лучший DPS горящей земли
+Best Caustic Ground DPS	Лучший DPS едкой земли
+Best Ignite DPS	Лучший DPS поджога
+Beta	Бета
+Bifurcated Crit Damage Bonus	Бонус раздвоенного критического урона
+Blade Vortex blade count	Количество клинков «Вихря клинков»
+Bleed	Кровотечение
+Bleed Avoid Ch.	Шанс избежать кровотечения
+Bleed DPS	DPS кровотечения
+Bleed DPS exceeds in game limit	DPS кровотечения превышает игровой предел
+Bleed Effect	Эффект кровотечения
+Bleed Stack Potential override	Переопределение потенциала стаков кровотечения
+BleedDPS	DPS кровотечения
+Blind Avoid Ch.	Шанс избежать ослепления
+Block Chance	Шанс блока
+Block Chance Reduction	Снижение шанса блока
+Block Stun Duration	Длительность оглушения при блоке
+Block chance	Шанс блока
+BlockChance=	BlockChance=
+BlockChanceMax=	BlockChanceMax=
+Blocked Stats	Блокируемые параметры
+Blocked a Hit from a Unique enemy in the past 10s?	Заблокировали удар уникального врага за последние 10 с?
+Bloodsoaked Banner	Окровавленное знамя
+Boss	Босс
+Boss Item	Предмет босса
+Boss Skill Preset	Пресет умений босса
+Both	Оба
+Both weapons	Оба оружия
+Bounces Count	Количество отскоков
+Bow Attacks fire 1 additional Arrows	Атаки луком выпускают на 1 стрелу больше
+Bow Attacks fire an additional Arrow	Атаки луком выпускают дополнительную стрелу
+Brand Skills	Умения клейм
+Break.	Прервать.
+Brittle Avoid Ch.	Шанс избежать хрупкости
+Brittle Duration	Длительность хрупкости
+Brittle Effect	Эффект хрупкости
+Brittle Effect Mod	Модификатор эффекта хрупкости
+Brittle.	Хрупкость.
+Brittle?	Хрупкость?
+BrittleDPS	DPS хрупкости
+Buffed	С баффами
+Build Import	Импорт билда
+Build List	Список билдов
+Build Sharing	Обмен билдами
+Build file is empty or unreadable.	Файл билда пуст или не читается.
+Build link is not provided.	Ссылка на билд не указана.
+Build provider not found	Провайдер билдов не найден
+Build save path	Путь сохранения билдов
+Build-related options	Параметры, связанные с билдом
+Burning Ground DPS	DPS горящей земли
+Burning Ground DPS exceeds in game limit	DPS горящей земли превышает игровой предел
+Burning.	Горение.
+Burning?	Горение?
+Burst Damage	Взрывной урон
+Buy Similar	Купить похожее
+Buy similar	Купить похожее
+By default, this tool only searches for 4 or 10 (depending on conqueror) seeds at once to preserve sorting.\nThis option searches up to 180 or 60 seeds at once if you don't care about the sorting.	По умолчанию этот инструмент ищет только 4 или 10 сидов (в зависимости от завоевателя), чтобы сохранить сортировку.\nЭта опция ищет до 180 или 60 сидов за раз, если сортировка не важна.
+Bypass CD?	Обойти перезарядку?
+CD and	перезарядка и
+CWDT Threshold	Порог CWDT
+CX error	Ошибка CX
+Cadiro (Supreme Decadence)	Кадиро (Высшая расточительность)
+Calc Mode	Режим расчёта
+Calcs	Расчёты
+Calculated	Рассчитано
+Calculation	Расчёт
+Calculation Mode	Режим расчёта
+Calculation uses a Weighted Avg formula	Расчёт использует формулу взвешенного среднего
+Calculation uses new Weighted Avg formula for critical hits	Расчёт использует новую формулу взвешенного среднего для критических ударов
+Call the Pyre requires Ignited enemies	«Зов костра» требует подожжённых врагов
+Can	Может
+Can Store	Может хранить
+Can support	Может поддерживать
+Cannot	Не может
+Cannot be Stunned	Нельзя оглушить
+Cannot chain	Не цепляется
+Cannot fork	Не разветвляется
+Cannot pierce	Не пронзает
+Cannot read file.\n\nMake sure	Не удаётся прочитать файл.\n\nУбедитесь
+Cannot split	Не разделяется
+Cap to Single Bleed on enemy?	Ограничить одним кровотечением на враге?
+CappingES	CappingES
+Cascades	Каскады
+Caspiro (Supreme Ostentation)	Каспиро (Высшая помпезность)
+Cast Rate	Скорость сотворения
+Cast While Channeling	Сотворение при поддержании
+Cast While Channeling had no base cooldown	У «Сотворения при поддержании» не было базовой перезарядки
+Cast on Death override	Переопределение «Сотворения чар при смерти»
+Cast on Frostbolt?	Сотворение на «Морозный шар»?
+Cast on Melee Kill requires recent kills	«Сотворение при убийстве в ближнем бою» требует недавних убийств
+Cast time	Время сотворения
+Casts per second	Сотворений в секунду
+Category	Категория
+Causes Damage with Arc Hits to be rolled twice, and the maximum roll used.	Заставляет урон попаданий «Цепи молний» бросаться дважды с использованием максимального броска.
+Caustic Ground DPS	DPS едкой земли
+Caustic Ground DPS exceeds in game limit	DPS едкой земли превышает игровой предел
+Celestial Amethyst	Небесный аметист
+Celestial Aureate	Небесный золотистый
+Celestial Emerald	Небесный изумруд
+Celestial Pearl	Небесная жемчужина
+Celestial Quartz	Небесный кварц
+Celestial Ruby	Небесный рубин
+Cfg	Cfg
+Chance	Шанс
+Chance To Ignore PDR Mode	Режим шанса игнорировать снижение физ. урона
+Chance on Crit	Шанс при крите
+Chance on Non-crit	Шанс без крита
+Chance to Brittle	Шанс хрупкости
+Chance to Defend from Spell Suppression	Шанс защититься от подавления чар
+Chance to Explode	Шанс взрыва
+Chance to Freeze	Шанс заморозки
+Chance to Hit	Шанс попадания
+Chance to Sap	Шанс ошеломления
+Chance to Scorch	Шанс опаления
+Chance to Shock	Шанс электрошока
+Chance to not consume charges	Шанс не расходовать заряды
+Chance to not inflict Mana Burn	Шанс не наложить сжигание маны
+Change Settings Path	Изменить путь настроек
+Changed Stance in the last 1s?	Сменили стойку за последнюю 1 с?
+Changed Stance recently?	Недавно сменили стойку?
+Changes the colour scheme used for the node power display on the passive tree.	Меняет цветовую схему отображения силы узлов на дереве пассивных умений.
+Changes which protocol is used when downloading updates and importing builds.	Меняет протокол, используемый при загрузке обновлений и импорте билдов.
+Changing class to	Смена класса на
+Channel Time	Время поддержания
+Channel time	Время поддержания
+Channeling for # seconds	Поддержание в течение # секунд
+Channelling Damage	Урон при поддержании
+Chaos DPS	DPS хаосом
+Chaos Dmg. Reduct	Снижение урона хаосом
+Chaos Max Hit	Макс. удар хаосом
+Chaos Orb Equivalent	Эквивалент сфер хаоса
+Chaos Recoup	Возврат хаосом
+Chaos Res. Over Max	Сопр. хаосу сверх максимума
+Chaos Resist	Сопротивление хаосу
+Chaos Taken as	Хаос принимается как
+Char	Перс.
+Character Import	Импорт персонажа
+Character import status	Статус импорта персонажа
+Character list successfully retrieved.	Список персонажей успешно получен.
+Charge gain modifier	Модификатор получения зарядов
+Charge on crit %	Зарядов при крите %
+Charges generated	Создано зарядов
+Charges generated on Ward Break	Зарядов создано при пробитии барьера
+Charges on use	Зарядов при использовании
+Charges used	Использовано зарядов
+Check	Проверить
+Check for Update	Проверить обновления
+Check that the item's title and base name are in the correct format.	Проверьте, что название и базовый тип предмета указаны в правильном формате.
+Chill	Охлаждение
+Chill Avoid Ch.	Шанс избежать охлаждения
+Chill Duration	Длительность охлаждения
+Chill Effect Mod	Модификатор эффекта охлаждения
+ChillDPS	DPS охлаждения
+Chilled by Hits	Охлаждены ударами
+Chilled.	Охлаждение.
+Chilled?	Охлаждены?
+Chilling Area	Область охлаждения
+Choose character to import data from	Выберите персонажа для импорта данных
+Class Change	Смена класса
+Classes	Классы
+Clears all the party tab imported data	Очищает все импортированные данные вкладки группы
+Click	Клик
+Click this button to generate new fallback node weights, replacing your old ones.	Нажмите эту кнопку, чтобы создать новые веса запасных узлов вместо старых.
+Click to focus node on tree	Клик — показать узел на дереве
+Click to generate and open a trade URL for searching for jewels in this list.	Нажмите, чтобы создать и открыть торговый URL для поиска самоцветов из этого списка.
+Click to modify this stats weight multiplier.	Нажмите, чтобы изменить множитель веса этого параметра.
+Cluster	Кластер
+Cluster Jewel Node Count	Число узлов кластерного самоцвета
+Cluster Jewel Skill	Умение кластерного самоцвета
+Cluster node index	Индекс узла кластера
+Cluster notable has no sort order	У значимого узла кластера нет порядка сортировки
+Cluster notable not found	Значимый узел кластера не найден
+Code	Код
+Code is valid	Код действителен
+Cold Dmg. Reduct	Снижение урона холодом
+Cold Max Hit	Макс. удар холодом
+Cold Pen	Пробитие холода
+Cold Recoup	Возврат холодом
+Cold Res. Over Max	Сопр. холоду сверх максимума
+Cold Resist	Сопротивление холоду
+Cold Taken as	Холод принимается как
+Cold?	Холод?
+Combat	Бой
+Combat Buffs	Баффы в бою
+Combat Rush grants 20% more Attack Speed to Travel Skills not Supported by Close Combat.	«Натиск» даёт на 20% больше скорости атаки умениям передвижения, не поддержанным «Боем вплотную».
+Combined DPS	Общий DPS
+Combined Node Weight	Общий вес узла
+Combined Total Damage	Общий суммарный урон
+Combined chance	Общий шанс
+Combined total	Общий итог
+CombinedDPS	CombinedDPS
+Common	Обычный
+Communion	Единение
+Companionship	Товарищество
+Compare Build	Сравнить билд
+Compare Power Report	Отчёт о силе сравнения
+Compare power (config)	Сила сравнения (конфиг)
+Compare power (gem)	Сила сравнения (камень)
+Compare power (support gem)	Сила сравнения (камень поддержки)
+Compare with	Сравнить с
+Compared build	Сравниваемый билд
+Comparison Build	Билд для сравнения
+ConPrintf,OpenURL,Copy	ConPrintf,OpenURL,Copy
+ConPrintf,UpdateProgress	ConPrintf,UpdateProgress
+Cond_FullLife	Cond_FullLife
+Cond_FullMana	Cond_FullMana
+Cond_LowLife	Cond_LowLife
+Cond_LowMana	Cond_LowMana
+Condition	Условие
+Condition state	Состояние условия
+Conductivity self-only	«Проводимость» только на себя
+Config	Конфиг
+Config set	Набор конфига
+Configuration	Конфигурация
+Configure the radius of an enemy hitbox to calculate some area overlapping (shotgunning) effects.	Настройте радиус хитбокса врага для расчёта некоторых эффектов пересечения областей (дробовик).
+Configured Brittle	Настроенная хрупкость
+Configured Chill	Настроенное охлаждение
+Configured Sap	Настроенное ошеломление
+Configured Scorch	Настроенное опаление
+Configured Shock	Настроенный электрошок
+Confirm Delete	Подтвердить удаление
+Confirm Folder Delete	Подтвердить удаление папки
+Conflux Buff	Баф «Слияния»
+Connect Path	Соединить путь
+Connection Protocol	Протокол соединения
+Conqueror	Завоеватель
+Consumed 12 Steel Shards Recently?	Потратили 12 стальных осколков недавно?
+Consumed a corpse Recently?	Поглотили труп недавно?
+Consumed a corpse in the past 2s?	Поглотили труп за последние 2 с?
+Consumed12SteelShardsRecently	Consumed12SteelShardsRecently
+Contains searches from the official trading site to help find	Содержит поиски с официального сайта торговли для помощи в поиске
+Content-Type	Content-Type
+Contribution from Crits	Вклад критов
+Contribution from Main Hand	Вклад основной руки
+Contribution from Non-crits	Вклад не-критов
+Contribution from Off Hand	Вклад левой руки
+Control + click to open in web-browser	Ctrl + клик — открыть в браузере
+Controls how	Определяет, как
+Controls how Defending with Double Armour is calculated	Определяет, как рассчитывается защита с двойной бронёй
+Controls how Empowered spells from Pacts are calculated	Определяет, как рассчитываются усиленные чары от Пактов
+Controls how exerted attacks from Warcries are calculated	Определяет, как рассчитываются усиленные атаки от боевых кличей
+Controls how modifiers which choose a random element will function.\n\tAverage	Определяет, как работают модификаторы, выбирающие случайную стихию.\n\tСреднее
+Controls how the base damage for applying Ailments is calculated	Определяет, как рассчитывается базовый урон для наложения состояний
+Controls how the chance on hit to ignore enemy physical damage reduction is calculated	Определяет, как рассчитывается шанс при попадании игнорировать снижение физического урона врага
+Controls which types of damage the EHP calculation uses	Определяет, какие типы урона учитываются в расчёте EHP
