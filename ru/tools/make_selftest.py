@@ -16,8 +16,10 @@ SRC = ROOT / "src"
 def tree_lines(version):
 	text = (SRC / "TreeData" / version / "tree.lua").read_text(encoding="utf-8")
 	lines = set()
-	for block in re.findall(r'\["stats"\]=\s*\{(.*?)\}', text, re.S):
+	for block in re.findall(r'\["stats"\]\s*=\s*\{(.*?)\}', text, re.S):
 		lines.update(s.replace("\\n", "\n") for s in re.findall(r'"((?:[^"\\]|\\.)*)"', block))
+	if not lines:
+		raise ValueError(f"В дереве {version} не найдено строк свойств")
 	return {l for s in lines for l in s.split("\n") if l.strip()}
 
 
