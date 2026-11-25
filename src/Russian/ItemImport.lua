@@ -61,6 +61,13 @@ local lineTags = {
 	["crucible"] = "(crucible)",
 }
 
+-- Формулировки старых копий предметов до обновления локализации в 3.30.
+-- Первая строка в новых таблицах также относится к свойству карт.
+local legacyEquipmentStats = {
+	["#% повышение редкости найденных предметов"] = {{ e = "{0}% increased Rarity of Items found", s = {0} }},
+	["Размещенные камни усилены Продлением # уровня"] = {{ e = "Socketed Gems are Supported by Level {0} More Duration", s = {0} }},
+}
+
 local function reverseStat(text)
 	-- Расширенное копирование пишет диапазон после значения: "+45(40-50)"
 	text = text:gsub("(%d)%(%-?[%d%.]+%-%-?[%d%.]+%)", "%1")
@@ -68,7 +75,7 @@ local function reverseStat(text)
 	text = text:gsub("(%d),(%d)", "%1.%2")
 	local key, tokens = russian.NormalizeNumbers(text)
 	key = key:gsub("[%+%-]#", "#")
-	local variants = statReverse[key]
+	local variants = legacyEquipmentStats[key] or statReverse[key]
 	if not variants then
 		return nil
 	end
