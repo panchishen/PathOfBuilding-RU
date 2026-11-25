@@ -34,11 +34,15 @@ def bun(*args, stdin=None):
 def extract(client):
 	files = bun("list-files", client).splitlines()
 	ruTables = sorted({Path(f).stem for f in files if re.fullmatch(r"data/russian/[a-z0-9_]+\.datc64", f)})
-	wanted = [f for f in files if re.fullmatch(r"metadata/statdescriptions/[a-z0-9_]+\.txt", f)]
+	statFiles = [f for f in files if re.fullmatch(r"metadata/statdescriptions/[a-z0-9_]+\.(?:csd|txt)", f)
+		and Path(f).stem != "skillpopup_stat_filters"]
+	if not any(Path(f).stem == "stat_descriptions" for f in statFiles):
+		raise ValueError("В клиенте не найден основной файл описаний свойств")
+	wanted = statFiles.copy()
 	wanted += [f"data/{t}.datc64" for t in ruTables] + [f"data/russian/{t}.datc64" for t in ruTables]
 	print(f"Извлечение {len(wanted)} файлов...")
 	bun("extract-files", client, ".", stdin="\n".join(wanted))
-	return ruTables
+	return ruTables, [Path(f).name for f in statFiles]
 
 # ---------------------------------------------------------------- dat64
 
@@ -157,6 +161,8 @@ LINE_RE = re.compile(r'^\s*([\d\-#| !]+?)\s*([A-Za-z_]\w*)?\s*"(.*)"\s*(.*)$')
 
 
 def parse_limit(tok):
+	if tok == "1|99#":  # Опечатка в описаниях свойств PoE 3.30
+		tok = "1|99"
 	if tok == "#":
 		return ["#", "#"]
 	if re.fullmatch(r"-?\d+", tok):
@@ -167,7 +173,7 @@ def parse_limit(tok):
 	return [int(a) if a != "#" else "#", int(b) if b != "#" else "#"]
 
 
-def parse_stat_files():
+def parse_stat_files(statFiles):
 	"""Список описаний: {stats, en: [строки], ru: [строки]}; строка = (лимиты, текст)."""
 	descs = []
 	seen = set()
@@ -205,9 +211,8 @@ def parse_stat_files():
 				# Перенос строки в файлах клиента записан как два символа "\" и "n"
 				cur[lang].append((limits, escape_ggg(m.group(3)).replace("\\n", "\n"), m.group(4)))
 
-	for path in sorted((GGPK_DIR / "metadata" / "statdescriptions").glob("*.txt")):
-		if path.name != "skillpopup_stat_filters.txt":
-			parse(path.name)
+	for name in sorted(statFiles):
+		parse(name)
 	return [d for d in descs if d["stats"] and d["en"] and d["ru"]]
 
 
@@ -349,8 +354,10 @@ def write_lua_map(path, items):
 def main():
 	client = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_CLIENT
 	OUT_DIR.mkdir(parents=True, exist_ok=True)
-	ruTables = extract(client)
-	descs = parse_stat_files()
+	ruTables, statFiles = extract(client)
+	descs = parse_stat_files(statFiles)
+	if not descs:
+		raise ValueError("Нет русских описаний свойств")
 	print(f"Описаний статов с русским текстом: {len(descs)}, шаблонов: {write_stat_descriptions(descs)}")
 	print(f"Обратных шаблонов статов: {write_stat_reverse(descs)}")
 	names, reverse = build_names(ruTables, parse_spec())
